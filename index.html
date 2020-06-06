@@ -1,0 +1,134 @@
+<!DOCTYPE HTML>
+<!--
+	Author: Alan Zhang 2020
+
+	Photon by HTML5 UP
+	html5up.net | @ajlkn
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+-->
+<html>
+	<head>
+		<title>AVFuelMap</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+		<link rel="stylesheet" href="assets/css/main.css" />
+		<noscript><link rel="stylesheet" href="assets/css/noscript.css" /></noscript>
+		<style>
+       	/* Set the size of the div element that contains the map */
+      	#map {
+        	height: 800px;  /* The height is 400 pixels */
+        	width: 100%;  /* The width is the width of the web page */
+       		}
+    	</style>
+	</head>
+	<body class="is-preload">
+		<!-- Header -->
+			<section id="header">
+				<div class="inner">
+					<span class="icon solid major fa-gas-pump"></span>
+					<h1>Welcome to <strong>AVFuelMap</strong>, a tool<br />
+					to explore aviation fuel prices.</h1>
+					<p>Browse by fuel type, airport, and nearby locations.<br />
+					Check out more projects by  <a href="http://alan-zhang.com">Alan Zhang</a>.</p>
+					<ul class="actions special">
+						<li><a href="#one" class="button scrolly">Let's get Started</a></li>
+					</ul>
+				</div>
+			</section>
+
+		<!-- One -->
+			<section id="one" class="main style2 special">
+				<h2>Pick your fuel, zoom in to see detailed prices</h2>
+				<ul class="actions special">
+					<li><a href="#" class="button wide">Jet A</a></li>
+					<li><a href="#" class="button wide">100LL</a></li>
+				</ul>
+    			<!--The div element for the map -->
+    			<div id="map"></div>
+    			<script>
+					// Initialize and add the map
+					function initMap() {
+						  // The location of Uluru
+						var US = {lat: 39.827, lng: -98.578};
+						  // The map, centered on US
+						var map = new google.maps.Map(
+						    document.getElementById('map'), {zoom: 5, center: US});
+						  	gestureHandling: 'cooperative'
+						}
+				</script>
+			    <!--Load the API from the specified URL
+			    * The async attribute allows the browser to render the page while the API loads
+			    * The key parameter will contain your own API key (which is not needed for this tutorial)
+			    * The callback parameter executes the initMap() function
+			    -->
+			    <script async defer
+			    src="https://maps.googleapis.com/maps/api/js?key=AIzaSyC6N2Tn9bb_rPPJaN1PMYy-G-c_DopPfcs&callback=initMap&region=US">
+			    </script>
+				<!--
+				<div class="container">
+					<div class="row gtr-150">
+						<div class="col-6 col-12-medium">
+							<header class="major">
+								<h2>Lorem ipsum dolor adipiscing<br />
+								amet dolor consequat</h2>
+							</header>
+							<p>Adipiscing a commodo ante nunc accumsan et interdum mi ante adipiscing. A nunc lobortis non nisl amet vis sed volutpat aclacus nascetur ac non. Lorem curae et ante amet sapien sed tempus adipiscing id accumsan.</p>
+						</div>
+						<div class="col-6 col-12-medium imp-medium">
+							<span class="image fit"><img src="images/pic01.jpg" alt="" /></span>
+						</div>
+					</div>
+				</div>
+			-->
+			</section>
+
+		<!-- Two -->
+			<section id="two" class="main style2">
+				<div class="container">
+					<div class="row gtr-150">
+						<div class="col-6 col-12-medium">
+							<ul class="major-icons">
+								<li><span class="icon solid style1 major fa-code"></span></li>
+								<li><span class="icon solid style2 major fa-bolt"></span></li>
+								<li><span class="icon solid style3 major fa-camera-retro"></span></li>
+								<li><span class="icon solid style4 major fa-cog"></span></li>
+								<li><span class="icon solid style5 major fa-desktop"></span></li>
+								<li><span class="icon solid style6 major fa-calendar"></span></li>
+							</ul>
+						</div>
+						<div class="col-6 col-12-medium">
+							<header class="major">
+								<h2>Lorem ipsum dolor adipiscing<br />
+								amet dolor consequat</h2>
+							</header>
+							<p>Adipiscing a commodo ante nunc accumsan interdum mi ante adipiscing. A nunc lobortis non nisl amet vis volutpat aclacus nascetur ac non. Lorem curae eu ante amet sapien in tempus ac. Adipiscing id accumsan adipiscing ipsum.</p>
+							<p>Blandit faucibus proin. Ac aliquam integer adipiscing enim non praesent vis commodo nunc phasellus cubilia ac risus accumsan. Accumsan blandit. Lobortis phasellus non lobortis dit varius mi varius accumsan lobortis. Blandit ante aliquam lacinia lorem lobortis semper morbi col faucibus vitae integer placerat accumsan orci eu mi odio tempus adipiscing adipiscing adipiscing curae consequat feugiat etiam dolore.</p>
+							<p>Adipiscing a commodo ante nunc accumsan interdum mi ante adipiscing. A nunc lobortis non nisl amet vis volutpat aclacus nascetur ac non. Lorem curae eu ante amet sapien in tempus ac. Adipiscing id accumsan adipiscing ipsum.</p>
+						</div>
+					</div>
+				</div>
+			</section>
+
+
+		<!-- Footer -->
+			<section id="footer">
+				<ul class="icons">
+					<li><a href="#" class="icon brands alt fa-github"><span class="label">GitHub</span></a></li>
+					<li><a href="#" class="icon solid alt fa-envelope"><span class="label">Email</span></a></li>
+				</ul>
+				<ul class="copyright">
+					<li>&copy; <a href=
+					"http://alan-zhang.com">Alan Zhang</a> 2020</li><li>Design: <a href="http://html5up.net">HTML5 UP</a></li>
+				</ul>
+			</section>
+
+		<!-- Scripts -->
+			<script src="assets/js/jquery.min.js"></script>
+			<script src="assets/js/jquery.scrolly.min.js"></script>
+			<script src="assets/js/browser.min.js"></script>
+			<script src="assets/js/breakpoints.min.js"></script>
+			<script src="assets/js/util.js"></script>
+			<script src="assets/js/main.js"></script>
+
+	</body>
+</html>
