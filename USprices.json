@@ -1,0 +1,5846 @@
+eqfeed_callback({"type":"FeatureCollection", "features":[
+	{"type":"Feature","properties":
+	{
+"city": "Allentown",
+ "icao": "KABE",
+ "lat": 40.6520996094,
+ "lon": -75.4408035278,
+ "name": "Lehigh Valley International Airport",
+ "state": "Pennsylvania",
+ "LL": "5.17",
+ "JetA": "3.68",
+ }
+	},
+	{"type":"Feature","properties":
+	{
+"city": "Abilene",
+ "icao": "KABI",
+ "lat": 32.4113006592,
+ "lon": -99.6819000244,
+ "name": "Abilene Regional Airport",
+ "state": "Texas",
+ "LL": "3.99",
+ "JetA": "4.49",
+ }
+	},
+	{"type":"Feature","properties":
+	{
+"city": "Albuquerque",
+ "icao": "KABQ",
+ "lat": 35.0401992798,
+ "lon": -106.6090011597,
+ "name": "Albuquerque International Sunport Airport",
+ "state": "New-Mexico",
+ "LL": "4.49",
+ "JetA": "3.99",
+ }
+	},
+	{"type":"Feature","properties":
+	{
+"city": "Albany",
+ "icao": "KABY",
+ "lat": 31.5354995728,
+ "lon": -84.1945037842,
+ "name": "Southwest Georgia Regional Airport",
+ "state": "Georgia",
+ "LL": "3.70",
+ "JetA": "3.05",
+ }
+	},
+	{"type":"Feature","properties":
+	{
+"city": "Nantucket",
+ "icao": "KACK",
+ "lat": 41.25310135,
+ "lon": -70.06020355,
+ "name": "Nantucket Memorial Airport",
+ "state": "Massachusetts",
+ "LL": "5.28",
+ "JetA": "4.29",
+ }
+	},
+	{"type":"Feature","properties":
+	{
+"city": "Atlantic City",
+ "icao": "KACY",
+ "lat": 39.4575996399,
+ "lon": -74.5772018433,
+ "name": "Atlantic City International Airport",
+ "state": "New-Jersey",
+ "LL": "5.83",
+ "JetA": "6.04",
+ }
+	},
+	{"type":"Feature","properties":
+	{
+"city": "Ardmore",
+ "icao": "KADM",
+ "lat": 34.30301,
+ "lon": -97.0196342,
+ "name": "Ardmore Municipal Airport",
+ "state": "Oklahoma",
+ "LL": "N/A",
+ "JetA": "2.29",
+ }
+	},
+	{"type":"Feature","properties":
+	{
+"city": "Dallas",
+ "icao": "KADS",
+ "lat": 32.9686012268,
+ "lon": -96.8364028931,
+ "name": "Addison Airport",
+ "state": "Texas",
+ "LL": "4.19",
+ "JetA": "3.74",
+ }
+	},
+	{"type":"Feature","properties":
+	{
+"city": "Albuquerque",
+ "icao": "KAEG",
+ "lat": 35.145198822,
+ "lon": -106.7949981689,
+ "name": "Double Eagle II Airport",
+ "state": "New-Mexico",
+ "LL": "4.49",
+ "JetA": "3.99",
+ }
+	},
+	{"type":"Feature","properties":
+	{
+"city": "Alexandria",
+ "icao": "KAEX",
+ "lat": 31.3274002075,
+ "lon": -92.5497970581,
+ "name": "Alexandria International Airport",
+ "state": "Louisiana",
+ "LL": "3.15",
+ "JetA": "3.75",
+ }
+	},
+	{"type":"Feature","properties":
+	{
+"city": "Fort Worth",
+ "icao": "KAFW",
+ "lat": 32.9875984192,
+ "lon": -97.3188018799,
+ "name": "Fort Worth Alliance Airport",
+ "state": "Texas",
+ "LL": "4.19",
+ "JetA": "4.18",
+ }
+	},
+	{"type":"Feature","properties":
+	{
+"city": "Pittsburgh",
+ "icao": "KAGC",
+ "lat": 40.3544006348,
+ "lon": -79.9301986694,
+ "name": "Allegheny County Airport",
+ "state": "Pennsylvania",
+ "LL": "4.10",
+ "JetA": "2.03",
+ }
+	},
+	{"type":"Feature","properties":
+	{
+"city": "Augusta",
+ "icao": "KAGS",
+ "lat": 33.3698997498,
+ "lon": -81.9645004272,
+ "name": "Augusta Regional At Bush Field",
+ "state": "Georgia",
+ "LL": "4.10",
+ "JetA": "3.40",
+ }
+	},
+	{"type":"Feature","properties":
+	{
+"city": "Athens",
+ "icao": "KAHN",
+ "lat": 33.948600769,
+ "lon": -83.3263015747,
+ "name": "Athens Ben Epps Airport",
+ "state": "Georgia",
+ "LL": "4.23",
+ "JetA": "4.50",
+ }
+	},
+	{"type":"Feature","properties":
+	{
+"city": "Albany",
+ "icao": "KALB",
+ "lat": 42.748298645,
+ "lon": -73.8016967773,
+ "name": "Albany International Airport",
+ "state": "New-York",
+ "LL": "4.17",
+ "JetA": "3.82",
+ }
+	},
+	{"type":"Feature","properties":
+	{
+"city": "Alton/St Louis",
+ "icao": "KALN",
+ "lat": 38.8903007507,
+ "lon": -90.0459976196,
+ "name": "St Louis Regional Airport",
+ "state": "Illinois",
+ "LL": "4.70",
+ "JetA": "4.32",
+ }
+	},
+	{"type":"Feature","properties":
+	{
+"city": "Waterloo",
+ "icao": "KALO",
+ "lat": 42.5570983887,
+ "lon": -92.4002990723,
+ "name": "Waterloo Regional Airport",
+ "state": "Iowa",
+ "LL": "3.99",
+ "JetA": "3.99",
+ }
+	},
+	{"type":"Feature","properties":
+	{
+"city": "Walla Walla",
+ "icao": "KALW",
+ "lat": 46.09489822,
+ "lon": -118.288002,
+ "name": "Walla Walla Regional Airport",
+ "state": "Washington",
+ "LL": "N/A",
+ "JetA": "4.28",
+ }
+	},
+	{"type":"Feature","properties":
+	{
+"city": "Amarillo",
+ "icao": "KAMA",
+ "lat": 35.2193984985,
+ "lon": -101.7060012817,
+ "name": "Rick Husband Amarillo International Airport",
+ "state": "Texas",
+ "LL": "5.76",
+ "JetA": "4.35",
+ }
+	},
+	{"type":"Feature","properties":
+	{
+"city": "Minneapolis",
+ "icao": "KANE",
+ "lat": 45.14500046,
+ "lon": -93.21140289,
+ "name": "Anoka County-Blaine Arpt(Janes Field) Airport",
+ "state": "Minnesota",
+ "LL": "4.14",
+ "JetA": "4.25",
+ }
+	},
+	{"type":"Feature","properties":
+	{
+"city": "Denver",
+ "icao": "KAPA",
+ "lat": 39.57009888,
+ "lon": -104.848999,
+ "name": "Centennial Airport",
+ "state": "Colorado",
+ "LL": "4.42",
+ "JetA": "3.74",
+ }
+	},
+	{"type":"Feature","properties":
+	{
+"city": "Napa",
+ "icao": "KAPC",
+ "lat": 38.2131996155,
+ "lon": -122.28099823,
+ "name": "Napa County Airport",
+ "state": "California",
+ "LL": "4.64",
+ "JetA": "3.93",
+ }
+	},
+	{"type":"Feature","properties":
+	{
+"city": "Naples",
+ "icao": "KAPF",
+ "lat": 26.1525993347,
+ "lon": -81.7752990723,
+ "name": "Naples Municipal Airport",
+ "state": "Florida",
+ "LL": "2.71",
+ "JetA": "3.24",
+ }
+	},
+	{"type":"Feature","properties":
+	{
+"city": "New Iberia",
+ "icao": "KARA",
+ "lat": 30.0377998352,
+ "lon": -91.8839035034,
+ "name": "Acadiana Regional Airport",
+ "state": "Louisiana",
+ "LL": "5.82",
+ "JetA": "5.47",
+ }
+	},
+	{"type":"Feature","properties":
+	{
+"city": "Ann Arbor",
+ "icao": "KARB",
+ "lat": 42.2229995728,
+ "lon": -83.7455978394,
+ "name": "Ann Arbor Municipal Airport",
+ "state": "Michigan",
+ "LL": "4.24",
+ "JetA": "2.74",
+ }
+	},
+	{"type":"Feature","properties":
+	{
+"city": "Chicago/Aurora",
+ "icao": "KARR",
+ "lat": 41.771900177,
+ "lon": -88.4757003784,
+ "name": "Aurora Municipal Airport",
+ "state": "Illinois",
+ "LL": "4.75",
+ "JetA": "3.94",
+ }
+	},
+	{"type":"Feature","properties":
+	{
+"city": "Aspen",
+ "icao": "KASE",
+ "lat": 39.22320175,
+ "lon": -106.8690033,
+ "name": "Aspen-Pitkin Co/Sardy Field",
+ "state": "Colorado",
+ "LL": "4.42",
+ "JetA": "3.74",
+ }
+	},
+	{"type":"Feature","properties":
+	{
+"city": "Springdale",
+ "icao": "KASG",
+ "lat": 36.176399231,
+ "lon": -94.1193008423,
+ "name": "Springdale Municipal Airport",
+ "state": "Arkansas",
+ "LL": "4.10",
+ "JetA": "4.00",
+ }
+	},
+	{"type":"Feature","properties":
+	{
+"city": "Nashua",
+ "icao": "KASH",
+ "lat": 42.7817001343,
+ "lon": -71.5148010254,
+ "name": "Boire Field",
+ "state": "New-Hampshire",
+ "LL": "5.75",
+ "JetA": "4.85",
+ }
+	},
+	{"type":"Feature","properties":
+	{
+"city": "Atlanta",
+ "icao": "KATL",
+ "lat": 33.6366996765,
+ "lon": -84.4281005859,
+ "name": "Hartsfield Jackson Atlanta International Airport",
+ "state": "Georgia",
+ "LL": "7.99",
+ "JetA": "7.11",
+ }
+	},
+	{"type":"Feature","properties":
+	{
+"city": "Appleton",
+ "icao": "KATW",
+ "lat": 44.2580986023,
+ "lon": -88.5190963745,
+ "name": "Outagamie County Regional Airport",
+ "state": "Wisconsin",
+ "LL": "4.59",
+ "JetA": "3.89",
+ }
+	},
+	{"type":"Feature","properties":
+	{
+"city": "Austin",
+ "icao": "KAUS",
+ "lat": 30.1944999695,
+ "lon": -97.6698989868,
+ "name": "Austin Bergstrom International Airport",
+ "state": "Texas",
+ "LL": "3.99",
+ "JetA": "4.07",
+ }
+	},
+	{"type":"Feature","properties":
+	{
+"city": "Asheville",
+ "icao": "KAVL",
+ "lat": 35.4361991882,
+ "lon": -82.5418014526,
+ "name": "Asheville Regional Airport",
+ "state": "North-Carolina",
+ "LL": "4.68",
+ "JetA": "5.85",
+ }
+	},
+	{"type":"Feature","properties":
+	{
+"city": "Wilkes-Barre/Scranton",
+ "icao": "KAVP",
+ "lat": 41.3385009766,
+ "lon": -75.7233963013,
+ "name": "Wilkes Barre Scranton International Airport",
+ "state": "Pennsylvania",
+ "LL": "5.27",
+ "JetA": "3.63",
+ }
+	},
+	{"type":"Feature","properties":
+	{
+"city": "Kalamazoo",
+ "icao": "KAZO",
+ "lat": 42.2349014282,
+ "lon": -85.5521011353,
+ "name": "Kalamazoo Battle Creek International Airport",
+ "state": "Michigan",
+ "LL": "4.10",
+ "JetA": "3.80",
+ }
+	},
+	{"type":"Feature","properties":
+	{
+"city": "Westfield/Springfield",
+ "icao": "KBAF",
+ "lat": 42.1577987671,
+ "lon": -72.7155990601,
+ "name": "Barnes Municipal Airport",
+ "state": "Massachusetts",
+ "LL": "4.75",
+ "JetA": "5.35",
+ }
+	},
+	{"type":"Feature","properties":
+	{
+"city": "Columbus",
+ "icao": "KBAK",
+ "lat": 39.2619018555,
+ "lon": -85.8963012695,
+ "name": "Columbus Municipal Airport",
+ "state": "Indiana",
+ "LL": "5.45",
+ "JetA": "3.62",
+ }
+	},
+	{"type":"Feature","properties":
+	{
+"city": "New Braunfels",
+ "icao": "KBAZ",
+ "lat": 29.7045001984,
+ "lon": -98.0421981812,
+ "name": "New Braunfels Municipal Airport",
+ "state": "Texas",
+ "LL": "3.99",
+ "JetA": "3.20",
+ }
+	},
+	{"type":"Feature","properties":
+	{
+"city": "Branson",
+ "icao": "KBBG",
+ "lat": 36.532082,
+ "lon": -93.200544,
+ "name": "Branson Airport",
+ "state": "Missouri",
+ "LL": "4.49",
+ "JetA": "4.29",
+ }
+	},
+	{"type":"Feature","properties":
+	{
+"city": "Boca Raton",
+ "icao": "KBCT",
+ "lat": 26.3784999847,
+ "lon": -80.1076965332,
+ "name": "Boca Raton Airport",
+ "state": "Florida",
+ "LL": "5.49",
+ "JetA": "4.12",
+ }
+	},
+	{"type":"Feature","properties":
+	{
+"city": "Hartford",
+ "icao": "KBDL",
+ "lat": 41.9388999939,
+ "lon": -72.6831970215,
+ "name": "Bradley International Airport",
+ "state": "Connecticut",
+ "LL": "4.99",
+ "JetA": "4.97",
+ }
+	},
+	{"type":"Feature","properties":
+	{
+"city": "Bridgeport",
+ "icao": "KBDR",
+ "lat": 41.1635017395,
+ "lon": -73.1261978149,
+ "name": "Igor I Sikorsky Memorial Airport",
+ "state": "Connecticut",
+ "LL": "5.40",
+ "JetA": "3.65",
+ }
+	},
+	{"type":"Feature","properties":
+	{
+"city": "Bedford",
+ "icao": "KBED",
+ "lat": 42.47000122,
+ "lon": -71.28900146,
+ "name": "Laurence G Hanscom Field",
+ "state": "Massachusetts",
+ "LL": "4.45",
+ "JetA": "4.25",
+ }
+	},
+	{"type":"Feature","properties":
+	{
+"city": "Seattle",
+ "icao": "KBFI",
+ "lat": 47.5299987793,
+ "lon": -122.3020019531,
+ "name": "Boeing Field King County International Airport",
+ "state": "Washington",
+ "LL": "4.99",
+ "JetA": "3.83",
+ }
+	},
+	{"type":"Feature","properties":
+	{
+"city": "Bakersfield",
+ "icao": "KBFL",
+ "lat": 35.43360138,
+ "lon": -119.0569992,
+ "name": "Meadows Field",
+ "state": "California",
+ "LL": "5.58",
+ "JetA": "4.62",
+ }
+	},
+	{"type":"Feature","properties":
+	{
+"city": "Mobile",
+ "icao": "KBFM",
+ "lat": 30.6268005371,
+ "lon": -88.0680999756,
+ "name": "Mobile Downtown Airport",
+ "state": "Alabama",
+ "LL": "5.35",
+ "JetA": "5.77",
+ }
+	},
+	{"type":"Feature","properties":
+	{
+"city": "Binghamton",
+ "icao": "KBGM",
+ "lat": 42.20869827,
+ "lon": -75.97979736,
+ "name": "Greater Binghamton/Edwin A Link field",
+ "state": "New-York",
+ "LL": "4.99",
+ "JetA": "4.99",
+ }
+	},
+	{"type":"Feature","properties":
+	{
+"city": "Bangor",
+ "icao": "KBGR",
+ "lat": 44.8073997498,
+ "lon": -68.8281021118,
+ "name": "Bangor International Airport",
+ "state": "Maine",
+ "LL": "3.07",
+ "JetA": "2.77",
+ }
+	},
+	{"type":"Feature","properties":
+	{
+"city": "Birmingham",
+ "icao": "KBHM",
+ "lat": 33.56290054,
+ "lon": -86.75350189,
+ "name": "Birmingham-Shuttlesworth International Airport",
+ "state": "Alabama",
+ "LL": "4.83",
+ "JetA": "5.40",
+ }
+	},
+	{"type":"Feature","properties":
+	{
+"city": "Billings",
+ "icao": "KBIL",
+ "lat": 45.8077011108,
+ "lon": -108.5429992676,
+ "name": "Billings Logan International Airport",
+ "state": "Montana",
+ "LL": "3.75",
+ "JetA": "3.95",
+ }
+	},
+	{"type":"Feature","properties":
+	{
+"city": "Bismarck",
+ "icao": "KBIS",
+ "lat": 46.7727012634,
+ "lon": -100.7460021973,
+ "name": "Bismarck Municipal Airport",
+ "state": "North-Dakota",
+ "LL": "2.99",
+ "JetA": "2.99",
+ }
+	},
+	{"type":"Feature","properties":
+	{
+"city": "Denver",
+ "icao": "KBJC",
+ "lat": 39.90879822,
+ "lon": -105.1169968,
+ "name": "Rocky Mountain Metropolitan Airport",
+ "state": "Colorado",
+ "LL": "3.99",
+ "JetA": "3.74",
+ }
+	},
+	{"type":"Feature","properties":
+	{
+"city": "Cleveland",
+ "icao": "KBKL",
+ "lat": 41.5175018311,
+ "lon": -81.6832962036,
+ "name": "Burke Lakefront Airport",
+ "state": "Ohio",
+ "LL": "6.98",
+ "JetA": "5.20",
+ }
+	},
+	{"type":"Feature","properties":
+	{
+"city": "Brooksville",
+ "icao": "KBKV",
+ "lat": 28.47360039,
+ "lon": -82.45539856,
+ "name": "Hernando County Airport",
+ "state": "Florida",
+ "LL": "2.99",
+ "JetA": "3.99",
+ }
+	},
+	{"type":"Feature","properties":
+	{
+"city": "Bellingham",
+ "icao": "KBLI",
+ "lat": 48.7928009033,
+ "lon": -122.5380020142,
+ "name": "Bellingham International Airport",
+ "state": "Washington",
+ "LL": "5.11",
+ "JetA": "4.27",
+ }
+	},
+	{"type":"Feature","properties":
+	{
+"city": "Bloomington",
+ "icao": "KBMG",
+ "lat": 39.1459999084,
+ "lon": -86.6166992188,
+ "name": "Monroe County Airport",
+ "state": "Alabama",
+ "LL": "4.70",
+ "JetA": "4.00",
+ }
+	},
+	{"type":"Feature","properties":
+	{
+"city": "Bloomington-Normal",
+ "icao": "KBMI",
+ "lat": 40.47710037,
+ "lon": -88.91590118,
+ "name": "Central Illinois Regional Airport at Bloomington-Normal",
+ "state": "Illinois",
+ "LL": "5.45",
+ "JetA": "3.34",
+ }
+	},
+	{"type":"Feature","properties":
+	{
+"city": "Nashville",
+ "icao": "KBNA",
+ "lat": 36.1245002747,
+ "lon": -86.6781997681,
+ "name": "Nashville International Airport",
+ "state": "Tennessee",
+ "LL": "4.10",
+ "JetA": "3.49",
+ }
+	},
+	{"type":"Feature","properties":
+	{
+"city": "Boise",
+ "icao": "KBOI",
+ "lat": 43.56439972,
+ "lon": -116.2229996,
+ "name": "Boise Air Terminal/Gowen field",
+ "state": "Idaho",
+ "LL": "4.25",
+ "JetA": "4.49",
+ }
+	},
+	{"type":"Feature","properties":
+	{
+"city": "Boston",
+ "icao": "KBOS",
+ "lat": 42.36429977,
+ "lon": -71.00520325,
+ "name": "General Edward Lawrence Logan International Airport",
+ "state": "Massachusetts",
+ "LL": "4.45",
+ "JetA": "4.25",
+ }
+	},
+	{"type":"Feature","properties":
+	{
+"city": "Beaumont/Port Arthur",
+ "icao": "KBPT",
+ "lat": 29.950799942,
+ "lon": -94.0206985474,
+ "name": "Southeast Texas Regional Airport",
+ "state": "Texas",
+ "LL": "4.80",
+ "JetA": "4.00",
+ }
+	},
+	{"type":"Feature","properties":
+	{
+"city": "Brownsville",
+ "icao": "KBRO",
+ "lat": 25.9067993164,
+ "lon": -97.4259033203,
+ "name": "Brownsville South Padre Island International Airport",
+ "state": "Texas",
+ "LL": "4.95",
+ "JetA": "3.29",
+ }
+	},
+	{"type":"Feature","properties":
+	{
+"city": "Battle Creek",
+ "icao": "KBTL",
+ "lat": 42.3073005676,
+ "lon": -85.2515029907,
+ "name": "W K Kellogg Airport",
+ "state": "Michigan",
+ "LL": "4.39",
+ "JetA": "2.99",
+ }
+	},
+	{"type":"Feature","properties":
+	{
+"city": "Baton Rouge",
+ "icao": "KBTR",
+ "lat": 30.53319931,
+ "lon": -91.14959717,
+ "name": "Baton Rouge Metropolitan Ryan Field",
+ "state": "Louisiana",
+ "LL": "5.07",
+ "JetA": "4.99",
+ }
+	},
+	{"type":"Feature","properties":
+	{
+"city": "Burlington",
+ "icao": "KBTV",
+ "lat": 44.4719009399,
+ "lon": -73.1532974243,
+ "name": "Burlington International Airport",
+ "state": "Vermont",
+ "LL": "5.19",
+ "JetA": "4.05",
+ }
+	},
+	{"type":"Feature","properties":
+	{
+"city": "Buffalo",
+ "icao": "KBUF",
+ "lat": 42.94049835,
+ "lon": -78.73220062,
+ "name": "Buffalo Niagara International Airport",
+ "state": "New-York",
+ "LL": "6.10",
+ "JetA": "5.56",
+ }
+	},
+	{"type":"Feature","properties":
+	{
+"city": "Burbank",
+ "icao": "KBUR",
+ "lat": 34.2006988525,
+ "lon": -118.3590011597,
+ "name": "Bob Hope Airport",
+ "state": "California",
+ "LL": "6.55",
+ "JetA": "4.28",
+ }
+	},
+	{"type":"Feature","properties":
+	{
+"city": "Beverly",
+ "icao": "KBVY",
+ "lat": 42.5842018127,
+ "lon": -70.9164962769,
+ "name": "Beverly Municipal Airport",
+ "state": "Massachusetts",
+ "LL": "4.45",
+ "JetA": "4.25",
+ }
+	},
+	{"type":"Feature","properties":
+	{
+"city": "Baltimore",
+ "icao": "KBWI",
+ "lat": 39.17539978,
+ "lon": -76.66829681,
+ "name": "Baltimore/Washington International Thurgood Marshal Airport",
+ "state": "Maryland",
+ "LL": "3.07",
+ "JetA": "3.78",
+ }
+	},
+	{"type":"Feature","properties":
+	{
+"city": "Bozeman",
+ "icao": "KBZN",
+ "lat": 45.77750015,
+ "lon": -111.1529999,
+ "name": "Gallatin Field",
+ "state": "Montana",
+ "LL": "4.80",
+ "JetA": "4.30",
+ }
+	},
+	{"type":"Feature","properties":
+	{
+"city": "Columbia",
+ "icao": "KCAE",
+ "lat": 33.9388008118,
+ "lon": -81.1194992065,
+ "name": "Columbia Metropolitan Airport",
+ "state": "South-Carolina",
+ "LL": "4.51",
+ "JetA": "3.13",
+ }
+	},
+	{"type":"Feature","properties":
+	{
+"city": "Akron",
+ "icao": "KCAK",
+ "lat": 40.9160995483,
+ "lon": -81.442199707,
+ "name": "Akron Canton Regional Airport",
+ "state": "Ohio",
+ "LL": "5.53",
+ "JetA": "4.50",
+ }
+	},
+	{"type":"Feature","properties":
+	{
+"city": "Concord",
+ "icao": "KCCR",
+ "lat": 37.9897003174,
+ "lon": -122.056999207,
+ "name": "Buchanan Field",
+ "state": "California",
+ "LL": "4.50",
+ "JetA": "3.60",
+ }
+	},
+	{"type":"Feature","properties":
+	{
+"city": "Caldwell",
+ "icao": "KCDW",
+ "lat": 40.8751983643,
+ "lon": -74.2814025879,
+ "name": "Essex County Airport",
+ "state": "New-Jersey",
+ "LL": "5.44",
+ "JetA": "4.50",
+ }
+	},
+	{"type":"Feature","properties":
+	{
+"city": "Cleveland",
+ "icao": "KCGF",
+ "lat": 41.5651016235,
+ "lon": -81.4863967896,
+ "name": "Cuyahoga County Airport",
+ "state": "Ohio",
+ "LL": "6.90",
+ "JetA": "4.95",
+ }
+	},
+	{"type":"Feature","properties":
+	{
+"city": "Chattanooga",
+ "icao": "KCHA",
+ "lat": 35.0353012085,
+ "lon": -85.2037963867,
+ "name": "Lovell Field",
+ "state": "Tennessee",
+ "LL": "4.76",
+ "JetA": "5.17",
+ }
+	},
+	{"type":"Feature","properties":
+	{
+"city": "Chandler",
+ "icao": "KCHD",
+ "lat": 33.2691001892,
+ "lon": -111.8109970093,
+ "name": "Chandler Municipal Airport",
+ "state": "Arizona",
+ "LL": "4.25",
+ "JetA": "3.45",
+ }
+	},
+	{"type":"Feature","properties":
+	{
+"city": "Charlottesville",
+ "icao": "KCHO",
+ "lat": 38.1385993958,
+ "lon": -78.4529037476,
+ "name": "Charlottesville Albemarle Airport",
+ "state": "Virginia",
+ "LL": "5.75",
+ "JetA": "5.45",
+ }
+	},
+	{"type":"Feature","properties":
+	{
+"city": "Charleston",
+ "icao": "KCHS",
+ "lat": 32.89860153,
+ "lon": -80.04049683,
+ "name": "Charleston Air Force Base-International Airport",
+ "state": "South-Carolina",
+ "LL": "6.27",
+ "JetA": "4.53",
+ }
+	},
+	{"type":"Feature","properties":
+	{
+"city": "Chico",
+ "icao": "KCIC",
+ "lat": 39.79539871,
+ "lon": -121.8580017,
+ "name": "Chico Municipal Airport",
+ "state": "California",
+ "LL": "4.89",
+ "JetA": "4.24",
+ }
+	},
+	{"type":"Feature","properties":
+	{
+"city": "Cedar Rapids",
+ "icao": "KCID",
+ "lat": 41.8847007751,
+ "lon": -91.7108001709,
+ "name": "The Eastern Iowa Airport",
+ "state": "Iowa",
+ "LL": "3.89",
+ "JetA": "2.99",
+ }
+	},
+	{"type":"Feature","properties":
+	{
+"city": "Clarksburg",
+ "icao": "KCKB",
+ "lat": 39.2966003418,
+ "lon": -80.2281036377,
+ "name": "North Central West Virginia Airport",
+ "state": "West-Virginia",
+ "LL": "3.48",
+ "JetA": "3.96",
+ }
+	},
+	{"type":"Feature","properties":
+	{
+"city": "Cleveland",
+ "icao": "KCLE",
+ "lat": 41.4117012024,
+ "lon": -81.8498001099,
+ "name": "Cleveland Hopkins International Airport",
+ "state": "Ohio",
+ "LL": "7.50",
+ "JetA": "5.03",
+ }
+	},
+	{"type":"Feature","properties":
+	{
+"city": "College Station",
+ "icao": "KCLL",
+ "lat": 30.58860016,
+ "lon": -96.36380005,
+ "name": "Easterwood Field",
+ "state": "Texas",
+ "LL": "2.49",
+ "JetA": "2.59",
+ }
+	},
+	{"type":"Feature","properties":
+	{
+"city": "Charlotte",
+ "icao": "KCLT",
+ "lat": 35.2140007019,
+ "lon": -80.9430999756,
+ "name": "Charlotte Douglas International Airport",
+ "state": "North-Carolina",
+ "LL": "4.19",
+ "JetA": "4.64",
+ }
+	},
+	{"type":"Feature","properties":
+	{
+"city": "Camarillo",
+ "icao": "KCMA",
+ "lat": 34.2136993408,
+ "lon": -119.09400177,
+ "name": "Camarillo Airport",
+ "state": "California",
+ "LL": "4.70",
+ "JetA": "2.75",
+ }
+	},
+	{"type":"Feature","properties":
+	{
+"city": "Columbus",
+ "icao": "KCMH",
+ "lat": 39.9980010986,
+ "lon": -82.8918991089,
+ "name": "Port Columbus International Airport",
+ "state": "Ohio",
+ "LL": "5.19",
+ "JetA": "3.25",
+ }
+	},
+	{"type":"Feature","properties":
+	{
+"city": "Champaign/Urbana",
+ "icao": "KCMI",
+ "lat": 40.03919983,
+ "lon": -88.27809906,
+ "name": "University of Illinois Willard Airport",
+ "state": "Illinois",
+ "LL": "4.85",
+ "JetA": "3.79",
+ }
+	},
+	{"type":"Feature","properties":
+	{
+"city": "Chino",
+ "icao": "KCNO",
+ "lat": 33.97470093,
+ "lon": -117.637001,
+ "name": "Chino Airport",
+ "state": "California",
+ "LL": "3.99",
+ "JetA": "2.95",
+ }
+	},
+	{"type":"Feature","properties":
+	{
+"city": "Waco",
+ "icao": "KCNW",
+ "lat": 31.6378002167,
+ "lon": -97.0740966797,
+ "name": "TSTC Waco Airport",
+ "state": "Texas",
+ "LL": "4.96",
+ "JetA": "3.35",
+ }
+	},
+	{"type":"Feature","properties":
+	{
+"city": "Colorado Springs",
+ "icao": "KCOS",
+ "lat": 38.8058013916,
+ "lon": -104.7009963989,
+ "name": "City of Colorado Springs Municipal Airport",
+ "state": "Colorado",
+ "LL": "4.59",
+ "JetA": "3.73",
+ }
+	},
+	{"type":"Feature","properties":
+	{
+"city": "Columbia",
+ "icao": "KCOU",
+ "lat": 38.8180999756,
+ "lon": -92.2195968628,
+ "name": "Columbia Regional Airport",
+ "state": "Missouri",
+ "LL": "5.18",
+ "JetA": "2.82",
+ }
+	},
+	{"type":"Feature","properties":
+	{
+"city": "Casper",
+ "icao": "KCPR",
+ "lat": 42.90800095,
+ "lon": -106.4639969,
+ "name": "Casper-Natrona County International Airport",
+ "state": "Wyoming",
+ "LL": "5.05",
+ "JetA": "5.90",
+ }
+	},
+	{"type":"Feature","properties":
+	{
+"city": "Cahokia/St Louis",
+ "icao": "KCPS",
+ "lat": 38.5707015991,
+ "lon": -90.1561965942,
+ "name": "St Louis Downtown Airport",
+ "state": "Illinois",
+ "LL": "5.85",
+ "JetA": "5.67",
+ }
+	},
+	{"type":"Feature","properties":
+	{
+"city": "North Myrtle Beach",
+ "icao": "KCRE",
+ "lat": 33.8116989136,
+ "lon": -78.7238998413,
+ "name": "Grand Strand Airport",
+ "state": "South-Carolina",
+ "LL": "3.97",
+ "JetA": "3.69",
+ }
+	},
+	{"type":"Feature","properties":
+	{
+"city": "Jacksonville",
+ "icao": "KCRG",
+ "lat": 30.3362998962,
+ "lon": -81.5143966675,
+ "name": "Craig Municipal Airport",
+ "state": "Florida",
+ "LL": "4.20",
+ "JetA": "2.37",
+ }
+	},
+	{"type":"Feature","properties":
+	{
+"city": "Corpus Christi",
+ "icao": "KCRP",
+ "lat": 27.7703990936,
+ "lon": -97.5011978149,
+ "name": "Corpus Christi International Airport",
+ "state": "Texas",
+ "LL": "3.70",
+ "JetA": "4.20",
+ }
+	},
+	{"type":"Feature","properties":
+	{
+"city": "Carlsbad",
+ "icao": "KCRQ",
+ "lat": 33.12829971,
+ "lon": -117.2799988,
+ "name": "Mc Clellan-Palomar Airport",
+ "state": "California",
+ "LL": "4.99",
+ "JetA": "4.81",
+ }
+	},
+	{"type":"Feature","properties":
+	{
+"city": "Charleston",
+ "icao": "KCRW",
+ "lat": 38.3731002808,
+ "lon": -81.5932006836,
+ "name": "Yeager Airport",
+ "state": "West-Virginia",
+ "LL": "4.55",
+ "JetA": "3.36",
+ }
+	},
+	{"type":"Feature","properties":
+	{
+"city": "Columbus",
+ "icao": "KCSG",
+ "lat": 32.5163002014,
+ "lon": -84.9389038086,
+ "name": "Columbus Metropolitan Airport",
+ "state": "Georgia",
+ "LL": "4.03",
+ "JetA": "4.65",
+ }
+	},
+	{"type":"Feature","properties":
+	{
+"city": "Hebron",
+ "icao": "KCVG",
+ "lat": 39.0488014221,
+ "lon": -84.6678009033,
+ "name": "Cincinnati Northern Kentucky International Airport",
+ "state": "Kentucky",
+ "LL": "4.50",
+ "JetA": "3.84",
+ }
+	},
+	{"type":"Feature","properties":
+	{
+"city": "Mosinee",
+ "icao": "KCWA",
+ "lat": 44.7775993347,
+ "lon": -89.6668014526,
+ "name": "Central Wisconsin Airport",
+ "state": "Wisconsin",
+ "LL": "4.09",
+ "JetA": "3.74",
+ }
+	},
+	{"type":"Feature","properties":
+	{
+"city": "Lake Charles",
+ "icao": "KCWF",
+ "lat": 30.2105998993,
+ "lon": -93.1432037354,
+ "name": "Chennault International Airport",
+ "state": "Louisiana",
+ "LL": "2.99",
+ "JetA": "3.75",
+ }
+	},
+	{"type":"Feature","properties":
+	{
+"city": "Houston",
+ "icao": "KCXO",
+ "lat": 30.3518009186,
+ "lon": -95.4144973755,
+ "name": "Lone Star Executive Airport",
+ "state": "Texas",
+ "LL": "3.99",
+ "JetA": "3.50",
+ }
+	},
+	{"type":"Feature","properties":
+	{
+"city": "Harrisburg",
+ "icao": "KCXY",
+ "lat": 40.2170982361,
+ "lon": -76.8515014648,
+ "name": "Capital City Airport",
+ "state": "Pennsylvania",
+ "LL": "4.42",
+ "JetA": "4.26",
+ }
+	},
+	{"type":"Feature","properties":
+	{
+"city": "Cheyenne",
+ "icao": "KCYS",
+ "lat": 41.15570068,
+ "lon": -104.8119965,
+ "name": "Cheyenne Regional Jerry Olson Field",
+ "state": "Wyoming",
+ "LL": "4.00",
+ "JetA": "2.99",
+ }
+	},
+	{"type":"Feature","properties":
+	{
+"city": "Daytona Beach",
+ "icao": "KDAB",
+ "lat": 29.1798992157,
+ "lon": -81.0580978394,
+ "name": "Daytona Beach International Airport",
+ "state": "Florida",
+ "LL": "4.03",
+ "JetA": "4.82",
+ }
+	},
+	{"type":"Feature","properties":
+	{
+"city": "Dallas",
+ "icao": "KDAL",
+ "lat": 32.8470993042,
+ "lon": -96.8517990112,
+ "name": "Dallas Love Field",
+ "state": "Texas",
+ "LL": "4.19",
+ "JetA": "3.74",
+ }
+	},
+	{"type":"Feature","properties":
+	{
+"city": "Dayton",
+ "icao": "KDAY",
+ "lat": 39.9024009705,
+ "lon": -84.2193984985,
+ "name": "James M Cox Dayton International Airport",
+ "state": "Ohio",
+ "LL": "4.90",
+ "JetA": "3.44",
+ }
+	},
+	{"type":"Feature","properties":
+	{
+"city": "Dubuque",
+ "icao": "KDBQ",
+ "lat": 42.40200043,
+ "lon": -90.70950317,
+ "name": "Dubuque Regional Airport",
+ "state": "Iowa",
+ "LL": "4.19",
+ "JetA": "3.72",
+ }
+	},
+	{"type":"Feature","properties":
+	{
+"city": "Decatur",
+ "icao": "KDEC",
+ "lat": 39.8345985413,
+ "lon": -88.8656997681,
+ "name": "Decatur Airport",
+ "state": "Illinois",
+ "LL": "5.74",
+ "JetA": "4.79",
+ }
+	},
+	{"type":"Feature","properties":
+	{
+"city": "Denver",
+ "icao": "KDEN",
+ "lat": 39.8616981506,
+ "lon": -104.672996521,
+ "name": "Denver International Airport",
+ "state": "Colorado",
+ "LL": "7.00",
+ "JetA": "6.31",
+ }
+	},
+	{"type":"Feature","properties":
+	{
+"city": "Detroit",
+ "icao": "KDET",
+ "lat": 42.40919876,
+ "lon": -83.00990295,
+ "name": "Coleman A. Young Municipal Airport",
+ "state": "Michigan",
+ "LL": "4.50",
+ "JetA": "6.99",
+ }
+	},
+	{"type":"Feature","properties":
+	{
+"city": "Dallas-Fort Worth",
+ "icao": "KDFW",
+ "lat": 32.8968009949,
+ "lon": -97.0380020142,
+ "name": "Dallas Fort Worth International Airport",
+ "state": "Texas",
+ "LL": "5.10",
+ "JetA": "4.40",
+ }
+	},
+	{"type":"Feature","properties":
+	{
+"city": "Dothan",
+ "icao": "KDHN",
+ "lat": 31.3213005066,
+ "lon": -85.4496002197,
+ "name": "Dothan Regional Airport",
+ "state": "Alabama",
+ "LL": "4.61",
+ "JetA": "4.31",
+ }
+	},
+	{"type":"Feature","properties":
+	{
+"city": "Duluth",
+ "icao": "KDLH",
+ "lat": 46.8420982361,
+ "lon": -92.1936035156,
+ "name": "Duluth International Airport",
+ "state": "Minnesota",
+ "LL": "4.49",
+ "JetA": "3.50",
+ }
+	},
+	{"type":"Feature","properties":
+	{
+"city": "Chicago/West Chicago",
+ "icao": "KDPA",
+ "lat": 41.90779877,
+ "lon": -88.24859619,
+ "name": "Dupage Airport",
+ "state": "Illinois",
+ "LL": "4.46",
+ "JetA": "4.33",
+ }
+	},
+	{"type":"Feature","properties":
+	{
+"city": "Des Moines",
+ "icao": "KDSM",
+ "lat": 41.5340003967,
+ "lon": -93.6631011963,
+ "name": "Des Moines International Airport",
+ "state": "Iowa",
+ "LL": "3.75",
+ "JetA": "3.00",
+ }
+	},
+	{"type":"Feature","properties":
+	{
+"city": "Shreveport",
+ "icao": "KDTN",
+ "lat": 32.5401992798,
+ "lon": -93.7450027466,
+ "name": "Shreveport Downtown Airport",
+ "state": "Louisiana",
+ "LL": "3.64",
+ "JetA": "2.86",
+ }
+	},
+	{"type":"Feature","properties":
+	{
+"city": "Denton",
+ "icao": "KDTO",
+ "lat": 33.2006988525,
+ "lon": -97.1979980469,
+ "name": "Denton Municipal Airport",
+ "state": "Texas",
+ "LL": "4.19",
+ "JetA": "4.18",
+ }
+	},
+	{"type":"Feature","properties":
+	{
+"city": "Destin",
+ "icao": "KDTS",
+ "lat": 30.40010071,
+ "lon": -86.47149658,
+ "name": "Destin Fort Walton Beach Airport",
+ "state": "Florida",
+ "LL": "4.25",
+ "JetA": "3.95",
+ }
+	},
+	{"type":"Feature","properties":
+	{
+"city": "Detroit",
+ "icao": "KDTW",
+ "lat": 42.2123985291,
+ "lon": -83.3534011841,
+ "name": "Detroit Metropolitan Wayne County Airport",
+ "state": "Michigan",
+ "LL": "7.78",
+ "JetA": "7.04",
+ }
+	},
+	{"type":"Feature","properties":
+	{
+"city": "Phoenix",
+ "icao": "KDVT",
+ "lat": 33.6883010864,
+ "lon": -112.083000183,
+ "name": "Phoenix Deer Valley Airport",
+ "state": "Arizona",
+ "LL": "5.44",
+ "JetA": "5.39",
+ }
+	},
+	{"type":"Feature","properties":
+	{
+"city": "Houston",
+ "icao": "KDWH",
+ "lat": 30.0618000031,
+ "lon": -95.5528030396,
+ "name": "David Wayne Hooks Memorial Airport",
+ "state": "Texas",
+ "LL": "4.00",
+ "JetA": "3.50",
+ }
+	},
+	{"type":"Feature","properties":
+	{
+"city": "Danbury",
+ "icao": "KDXR",
+ "lat": 41.3714981079,
+ "lon": -73.4822006226,
+ "name": "Danbury Municipal Airport",
+ "state": "Connecticut",
+ "LL": "4.51",
+ "JetA": "2.80",
+ }
+	},
+	{"type":"Feature","properties":
+	{
+"city": "Eau Claire",
+ "icao": "KEAU",
+ "lat": 44.8657989502,
+ "lon": -91.4842987061,
+ "name": "Chippewa Valley Regional Airport",
+ "state": "Wisconsin",
+ "LL": "4.62",
+ "JetA": "4.42",
+ }
+	},
+	{"type":"Feature","properties":
+	{
+"city": "Panama City Beach",
+ "icao": "KECP",
+ "lat": 30.3417,
+ "lon": -85.7973,
+ "name": "Northwest Florida Beaches International Airport",
+ "state": "Florida",
+ "LL": "4.25",
+ "JetA": "3.90",
+ }
+	},
+	{"type":"Feature","properties":
+	{
+"city": "Eagle",
+ "icao": "KEGE",
+ "lat": 39.64260101,
+ "lon": -106.9179993,
+ "name": "Eagle County Regional Airport",
+ "state": "Colorado",
+ "LL": "4.42",
+ "JetA": "3.74",
+ }
+	},
+	{"type":"Feature","properties":
+	{
+"city": "Elmira/Corning",
+ "icao": "KELM",
+ "lat": 42.1599006653,
+ "lon": -76.8916015625,
+ "name": "Elmira Corning Regional Airport",
+ "state": "New-York",
+ "LL": "4.99",
+ "JetA": "4.85",
+ }
+	},
+	{"type":"Feature","properties":
+	{
+"city": "El Paso",
+ "icao": "KELP",
+ "lat": 31.80719948,
+ "lon": -106.3779984,
+ "name": "El Paso International Airport",
+ "state": "Texas",
+ "LL": "4.49",
+ "JetA": "3.95",
+ }
+	},
+	{"type":"Feature","properties":
+	{
+"city": "El Monte",
+ "icao": "KEMT",
+ "lat": 34.086101532,
+ "lon": -118.0350036621,
+ "name": "El Monte Airport",
+ "state": "California",
+ "LL": "4.99",
+ "JetA": "3.99",
+ }
+	},
+	{"type":"Feature","properties":
+	{
+"city": "Kenosha",
+ "icao": "KENW",
+ "lat": 42.59569931,
+ "lon": -87.92780304,
+ "name": "Kenosha Regional Airport",
+ "state": "Wisconsin",
+ "LL": "3.97",
+ "JetA": "2.77",
+ }
+	},
+	{"type":"Feature","properties":
+	{
+"city": "Erie",
+ "icao": "KERI",
+ "lat": 42.0831270134,
+ "lon": -80.1738667488,
+ "name": "Erie International Tom Ridge Field",
+ "state": "Pennsylvania",
+ "LL": "5.15",
+ "JetA": "3.40",
+ }
+	},
+	{"type":"Feature","properties":
+	{
+"city": "Easton",
+ "icao": "KESN",
+ "lat": 38.8041992188,
+ "lon": -76.0690002441,
+ "name": "Easton Newnam Field",
+ "state": "Maryland",
+ "LL": "4.50",
+ "JetA": "3.10",
+ }
+	},
+	{"type":"Feature","properties":
+	{
+"city": "Eugene",
+ "icao": "KEUG",
+ "lat": 44.1245994568,
+ "lon": -123.2119979858,
+ "name": "Mahlon Sweet Field",
+ "state": "Oregon",
+ "LL": "5.10",
+ "JetA": "4.62",
+ }
+	},
+	{"type":"Feature","properties":
+	{
+"city": "New Smyrna Beach",
+ "icao": "KEVB",
+ "lat": 29.0557003021,
+ "lon": -80.9488983154,
+ "name": "New Smyrna Beach Municipal Airport",
+ "state": "Florida",
+ "LL": "5.02",
+ "JetA": "5.18",
+ }
+	},
+	{"type":"Feature","properties":
+	{
+"city": "Evansville",
+ "icao": "KEVV",
+ "lat": 38.0369987488,
+ "lon": -87.5324020386,
+ "name": "Evansville Regional Airport",
+ "state": "Indiana",
+ "LL": "5.40",
+ "JetA": "5.40",
+ }
+	},
+	{"type":"Feature","properties":
+	{
+"city": "New Bedford",
+ "icao": "KEWB",
+ "lat": 41.6761016846,
+ "lon": -70.9569015503,
+ "name": "New Bedford Regional Airport",
+ "state": "Massachusetts",
+ "LL": "5.40",
+ "JetA": "4.25",
+ }
+	},
+	{"type":"Feature","properties":
+	{
+"city": "New Bern",
+ "icao": "KEWN",
+ "lat": 35.0730018616,
+ "lon": -77.0429000854,
+ "name": "Coastal Carolina Regional Airport",
+ "state": "North-Carolina",
+ "LL": "5.15",
+ "JetA": "4.80",
+ }
+	},
+	{"type":"Feature","properties":
+	{
+"city": "Newark",
+ "icao": "KEWR",
+ "lat": 40.6925010681,
+ "lon": -74.1687011719,
+ "name": "Newark Liberty International Airport",
+ "state": "New-Jersey",
+ "LL": "6.82",
+ "JetA": "6.09",
+ }
+	},
+	{"type":"Feature","properties":
+	{
+"city": "Key West",
+ "icao": "KEYW",
+ "lat": 24.5561008453,
+ "lon": -81.7595977783,
+ "name": "Key West International Airport",
+ "state": "Florida",
+ "LL": "6.92",
+ "JetA": "6.00",
+ }
+	},
+	{"type":"Feature","properties":
+	{
+"city": "Fargo",
+ "icao": "KFAR",
+ "lat": 46.9207000732,
+ "lon": -96.8158035278,
+ "name": "Hector International Airport",
+ "state": "North-Dakota",
+ "LL": "4.78",
+ "JetA": "4.56",
+ }
+	},
+	{"type":"Feature","properties":
+	{
+"city": "Fresno",
+ "icao": "KFAT",
+ "lat": 36.7761993408,
+ "lon": -119.7180023193,
+ "name": "Fresno Yosemite International Airport",
+ "state": "California",
+ "LL": "5.39",
+ "JetA": "3.99",
+ }
+	},
+	{"type":"Feature","properties":
+	{
+"city": "Fayetteville",
+ "icao": "KFAY",
+ "lat": 34.9911994934,
+ "lon": -78.8803024292,
+ "name": "Fayetteville Regional Grannis Field",
+ "state": "North-Carolina",
+ "LL": "6.13",
+ "JetA": "4.97",
+ }
+	},
+	{"type":"Feature","properties":
+	{
+"city": "Minneapolis",
+ "icao": "KFCM",
+ "lat": 44.8272018433,
+ "lon": -93.4570999146,
+ "name": "Flying Cloud Airport",
+ "state": "Minnesota",
+ "LL": "4.45",
+ "JetA": "4.25",
+ }
+	},
+	{"type":"Feature","properties":
+	{
+"city": "Frederick",
+ "icao": "KFDK",
+ "lat": 39.4175987244,
+ "lon": -77.3742980957,
+ "name": "Frederick Municipal Airport",
+ "state": "Maryland",
+ "LL": "5.15",
+ "JetA": "5.41",
+ }
+	},
+	{"type":"Feature","properties":
+	{
+"city": "Mesa",
+ "icao": "KFFZ",
+ "lat": 33.4608001709,
+ "lon": -111.7279968262,
+ "name": "Falcon Field",
+ "state": "Alabama",
+ "LL": "4.60",
+ "JetA": "3.70",
+ }
+	},
+	{"type":"Feature","properties":
+	{
+"city": "Flagstaff",
+ "icao": "KFLG",
+ "lat": 35.13850021,
+ "lon": -111.6709976,
+ "name": "Flagstaff Pulliam Airport",
+ "state": "Arizona",
+ "LL": "4.39",
+ "JetA": "4.29",
+ }
+	},
+	{"type":"Feature","properties":
+	{
+"city": "Fort Lauderdale",
+ "icao": "KFLL",
+ "lat": 26.072599411,
+ "lon": -80.1527023315,
+ "name": "Fort Lauderdale Hollywood International Airport",
+ "state": "Florida",
+ "LL": "4.09",
+ "JetA": "2.29",
+ }
+	},
+	{"type":"Feature","properties":
+	{
+"city": "Florence",
+ "icao": "KFLO",
+ "lat": 34.1853981018,
+ "lon": -79.7238998413,
+ "name": "Florence Regional Airport",
+ "state": "South-Carolina",
+ "LL": "3.46",
+ "JetA": "3.09",
+ }
+	},
+	{"type":"Feature","properties":
+	{
+"city": "Farmington",
+ "icao": "KFMN",
+ "lat": 36.7411994934,
+ "lon": -108.2300033569,
+ "name": "Four Corners Regional Airport",
+ "state": "New-Mexico",
+ "LL": "3.79",
+ "JetA": "3.09",
+ }
+	},
+	{"type":"Feature","properties":
+	{
+"city": "Fort Myers",
+ "icao": "KFMY",
+ "lat": 26.58659935,
+ "lon": -81.8632965088,
+ "name": "Page Field",
+ "state": "Florida",
+ "LL": "2.78",
+ "JetA": "3.24",
+ }
+	},
+	{"type":"Feature","properties":
+	{
+"city": "Flint",
+ "icao": "KFNT",
+ "lat": 42.9654006958,
+ "lon": -83.743598938,
+ "name": "Bishop International Airport",
+ "state": "Michigan",
+ "LL": "4.90",
+ "JetA": "6.31",
+ }
+	},
+	{"type":"Feature","properties":
+	{
+"city": "Topeka",
+ "icao": "KFOE",
+ "lat": 38.9509010315,
+ "lon": -95.6635971069,
+ "name": "Forbes Field",
+ "state": "Kansas",
+ "LL": "5.44",
+ "JetA": "3.78",
+ }
+	},
+	{"type":"Feature","properties":
+	{
+"city": "Westhampton Beach",
+ "icao": "KFOK",
+ "lat": 40.8437004089,
+ "lon": -72.6317977905,
+ "name": "Francis S Gabreski Airport",
+ "state": "New-York",
+ "LL": "5.69",
+ "JetA": "5.34",
+ }
+	},
+	{"type":"Feature","properties":
+	{
+"city": "Fort Pierce",
+ "icao": "KFPR",
+ "lat": 27.49510002,
+ "lon": -80.36830139,
+ "name": "St Lucie County International Airport",
+ "state": "Florida",
+ "LL": "4.15",
+ "JetA": "3.65",
+ }
+	},
+	{"type":"Feature","properties":
+	{
+"city": "Farmingdale",
+ "icao": "KFRG",
+ "lat": 40.7288017273,
+ "lon": -73.4133987427,
+ "name": "Republic Airport",
+ "state": "New-York",
+ "LL": "5.70",
+ "JetA": "4.46",
+ }
+	},
+	{"type":"Feature","properties":
+	{
+"city": "Sioux Falls",
+ "icao": "KFSD",
+ "lat": 43.5820007324,
+ "lon": -96.741897583,
+ "name": "Joe Foss Field Airport",
+ "state": "South-Dakota",
+ "LL": "4.99",
+ "JetA": "3.29",
+ }
+	},
+	{"type":"Feature","properties":
+	{
+"city": "Fort Smith",
+ "icao": "KFSM",
+ "lat": 35.3366012573,
+ "lon": -94.367401123,
+ "name": "Fort Smith Regional Airport",
+ "state": "Arkansas",
+ "LL": "4.91",
+ "JetA": "5.23",
+ }
+	},
+	{"type":"Feature","properties":
+	{
+"city": "Fort Worth",
+ "icao": "KFTW",
+ "lat": 32.8198013306,
+ "lon": -97.3623962402,
+ "name": "Fort Worth Meacham International Airport",
+ "state": "Texas",
+ "LL": "5.10",
+ "JetA": "4.40",
+ }
+	},
+	{"type":"Feature","properties":
+	{
+"city": "Atlanta",
+ "icao": "KFTY",
+ "lat": 33.7790985107,
+ "lon": -84.5214004517,
+ "name": "Fulton County Airport Brown Field",
+ "state": "Georgia",
+ "LL": "5.42",
+ "JetA": "4.41",
+ }
+	},
+	{"type":"Feature","properties":
+	{
+"city": "Fullerton",
+ "icao": "KFUL",
+ "lat": 33.8720016479,
+ "lon": -117.980003357,
+ "name": "Fullerton Municipal Airport",
+ "state": "California",
+ "LL": "4.18",
+ "JetA": "4.30",
+ }
+	},
+	{"type":"Feature","properties":
+	{
+"city": "Fort Wayne",
+ "icao": "KFWA",
+ "lat": 40.97850037,
+ "lon": -85.19509888,
+ "name": "Fort Wayne International Airport",
+ "state": "Indiana",
+ "LL": "5.00",
+ "JetA": "4.25",
+ }
+	},
+	{"type":"Feature","properties":
+	{
+"city": "Fort Worth",
+ "icao": "KFWS",
+ "lat": 32.5652008057,
+ "lon": -97.3080978394,
+ "name": "Fort Worth Spinks Airport",
+ "state": "Texas",
+ "LL": "3.50",
+ "JetA": "4.25",
+ }
+	},
+	{"type":"Feature","properties":
+	{
+"city": "Fort Lauderdale",
+ "icao": "KFXE",
+ "lat": 26.1972999573,
+ "lon": -80.1707000732,
+ "name": "Fort Lauderdale Executive Airport",
+ "state": "Florida",
+ "LL": "5.48",
+ "JetA": "2.79",
+ }
+	},
+	{"type":"Feature","properties":
+	{
+"city": "Fayetteville",
+ "icao": "KFYV",
+ "lat": 36.0051002502,
+ "lon": -94.1700973511,
+ "name": "Drake Field",
+ "state": "Arkansas",
+ "LL": "3.48",
+ "JetA": "4.02",
+ }
+	},
+	{"type":"Feature","properties":
+	{
+"city": "Garden City",
+ "icao": "KGCK",
+ "lat": 37.9275016785,
+ "lon": -100.7239990234,
+ "name": "Garden City Regional Airport",
+ "state": "Kansas",
+ "LL": "3.85",
+ "JetA": "2.80",
+ }
+	},
+	{"type":"Feature","properties":
+	{
+"city": "Grand Canyon",
+ "icao": "KGCN",
+ "lat": 35.9524002075,
+ "lon": -112.1470031738,
+ "name": "Grand Canyon National Park Airport",
+ "state": "Arizona",
+ "LL": "4.39",
+ "JetA": "4.29",
+ }
+	},
+	{"type":"Feature","properties":
+	{
+"city": "Spokane",
+ "icao": "KGEG",
+ "lat": 47.6198997498,
+ "lon": -117.533996582,
+ "name": "Spokane International Airport",
+ "state": "Washington",
+ "LL": "6.06",
+ "JetA": "5.68",
+ }
+	},
+	{"type":"Feature","properties":
+	{
+"city": "Glendale",
+ "icao": "KGEU",
+ "lat": 33.5269012451,
+ "lon": -112.2949981689,
+ "name": "Glendale Municipal Airport",
+ "state": "Arizona",
+ "LL": "4.55",
+ "JetA": "4.95",
+ }
+	},
+	{"type":"Feature","properties":
+	{
+"city": "Grand Forks",
+ "icao": "KGFK",
+ "lat": 47.9492988586,
+ "lon": -97.1761016846,
+ "name": "Grand Forks International Airport",
+ "state": "North-Dakota",
+ "LL": "5.35",
+ "JetA": "5.25",
+ }
+	},
+	{"type":"Feature","properties":
+	{
+"city": "Longview",
+ "icao": "KGGG",
+ "lat": 32.3839988708,
+ "lon": -94.7115020752,
+ "name": "East Texas Regional Airport",
+ "state": "Texas",
+ "LL": "4.20",
+ "JetA": "3.20",
+ }
+	},
+	{"type":"Feature","properties":
+	{
+"city": "Grand Junction",
+ "icao": "KGJT",
+ "lat": 39.1223983765,
+ "lon": -108.527000427,
+ "name": "Grand Junction Regional Airport",
+ "state": "Colorado",
+ "LL": "4.20",
+ "JetA": "4.50",
+ }
+	},
+	{"type":"Feature","properties":
+	{
+"city": "Arlington",
+ "icao": "KGKY",
+ "lat": 32.663898468,
+ "lon": -97.0942993164,
+ "name": "Arlington Municipal Airport",
+ "state": "Oregon",
+ "LL": "3.40",
+ "JetA": "3.74",
+ }
+	},
+	{"type":"Feature","properties":
+	{
+"city": "Greenville",
+ "icao": "KGLH",
+ "lat": 33.4828987122,
+ "lon": -90.9856033325,
+ "name": "Mid Delta Regional Airport",
+ "state": "Mississippi",
+ "LL": "4.88",
+ "JetA": "4.89",
+ }
+	},
+	{"type":"Feature","properties":
+	{
+"city": "Galveston",
+ "icao": "KGLS",
+ "lat": 29.2653007507,
+ "lon": -94.8603973389,
+ "name": "Scholes International At Galveston Airport",
+ "state": "Texas",
+ "LL": "4.35",
+ "JetA": "3.99",
+ }
+	},
+	{"type":"Feature","properties":
+	{
+"city": "Greenville",
+ "icao": "KGMU",
+ "lat": 34.8479003906,
+ "lon": -82.3499984741,
+ "name": "Greenville Downtown Airport",
+ "state": "South-Carolina",
+ "LL": "4.53",
+ "JetA": "5.08",
+ }
+	},
+	{"type":"Feature","properties":
+	{
+"city": "Gainesville",
+ "icao": "KGNV",
+ "lat": 29.6900997162,
+ "lon": -82.2717971802,
+ "name": "Gainesville Regional Airport",
+ "state": "Florida",
+ "LL": "3.71",
+ "JetA": "4.07",
+ }
+	},
+	{"type":"Feature","properties":
+	{
+"city": "Groton (New London)",
+ "icao": "KGON",
+ "lat": 41.3301010132,
+ "lon": -72.0450973511,
+ "name": "Groton New London Airport",
+ "state": "Connecticut",
+ "LL": "5.10",
+ "JetA": "4.47",
+ }
+	},
+	{"type":"Feature","properties":
+	{
+"city": "Kalispell",
+ "icao": "KGPI",
+ "lat": 48.3105010986,
+ "lon": -114.2559967041,
+ "name": "Glacier Park International Airport",
+ "state": "Montana",
+ "LL": "4.70",
+ "JetA": "4.26",
+ }
+	},
+	{"type":"Feature","properties":
+	{
+"city": "Grand Prairie",
+ "icao": "KGPM",
+ "lat": 32.6987991333,
+ "lon": -97.0468978882,
+ "name": "Grand Prairie Municipal Airport",
+ "state": "Texas",
+ "LL": "3.19",
+ "JetA": "3.43",
+ }
+	},
+	{"type":"Feature","properties":
+	{
+"city": "Gulfport",
+ "icao": "KGPT",
+ "lat": 30.4073009491,
+ "lon": -89.070098877,
+ "name": "Gulfport Biloxi International Airport",
+ "state": "Mississippi",
+ "LL": "6.29",
+ "JetA": "5.89",
+ }
+	},
+	{"type":"Feature","properties":
+	{
+"city": "Green Bay",
+ "icao": "KGRB",
+ "lat": 44.4850997925,
+ "lon": -88.1296005249,
+ "name": "Austin Straubel International Airport",
+ "state": "Wisconsin",
+ "LL": "3.99",
+ "JetA": "4.19",
+ }
+	},
+	{"type":"Feature","properties":
+	{
+"city": "Grand Island",
+ "icao": "KGRI",
+ "lat": 40.9674987793,
+ "lon": -98.3096008301,
+ "name": "Central Nebraska Regional Airport",
+ "state": "Nebraska",
+ "LL": "3.98",
+ "JetA": "2.99",
+ }
+	},
+	{"type":"Feature","properties":
+	{
+"city": "Grand Rapids",
+ "icao": "KGRR",
+ "lat": 42.88079834,
+ "lon": -85.52279663,
+ "name": "Gerald R. Ford International Airport",
+ "state": "Michigan",
+ "LL": "6.19",
+ "JetA": "6.19",
+ }
+	},
+	{"type":"Feature","properties":
+	{
+"city": "Greensboro",
+ "icao": "KGSO",
+ "lat": 36.0978012085,
+ "lon": -79.9373016357,
+ "name": "Piedmont Triad International Airport",
+ "state": "North-Carolina",
+ "LL": "3.65",
+ "JetA": "3.25",
+ }
+	},
+	{"type":"Feature","properties":
+	{
+"city": "Greenville",
+ "icao": "KGSP",
+ "lat": 34.8956985474,
+ "lon": -82.2189025879,
+ "name": "Greenville Spartanburg International Airport",
+ "state": "South-Carolina",
+ "LL": "5.93",
+ "JetA": "4.11",
+ }
+	},
+	{"type":"Feature","properties":
+	{
+"city": "Great Falls",
+ "icao": "KGTF",
+ "lat": 47.48199844,
+ "lon": -111.3710022,
+ "name": "Great Falls International Airport",
+ "state": "Montana",
+ "LL": "4.90",
+ "JetA": "3.70",
+ }
+	},
+	{"type":"Feature","properties":
+	{
+"city": "Columbus/W Point/Starkville",
+ "icao": "KGTR",
+ "lat": 33.4502983093,
+ "lon": -88.5914001465,
+ "name": "Golden Triangle Regional Airport",
+ "state": "Mississippi",
+ "LL": "4.88",
+ "JetA": "4.99",
+ }
+	},
+	{"type":"Feature","properties":
+	{
+"city": "Georgetown",
+ "icao": "KGTU",
+ "lat": 30.6788005829,
+ "lon": -97.679397583,
+ "name": "Georgetown Municipal Airport",
+ "state": "Texas",
+ "LL": "4.30",
+ "JetA": "3.78",
+ }
+	},
+	{"type":"Feature","properties":
+	{
+"city": "Greenville",
+ "icao": "KGYH",
+ "lat": 34.7583007813,
+ "lon": -82.3764038086,
+ "name": "Donaldson Center Airport",
+ "state": "South-Carolina",
+ "LL": "3.90",
+ "JetA": "3.35",
+ }
+	},
+	{"type":"Feature","properties":
+	{
+"city": "Sherman/Denison",
+ "icao": "KGYI",
+ "lat": 33.714099884,
+ "lon": -96.6736984253,
+ "name": "North Texas Rgnl/Perrin Field",
+ "state": "Texas",
+ "LL": "3.79",
+ "JetA": "3.59",
+ }
+	},
+	{"type":"Feature","properties":
+	{
+"city": "Goodyear",
+ "icao": "KGYR",
+ "lat": 33.4225006104,
+ "lon": -112.3759994507,
+ "name": "Phoenix Goodyear Airport",
+ "state": "Arizona",
+ "LL": "4.79",
+ "JetA": "4.79",
+ }
+	},
+	{"type":"Feature","properties":
+	{
+"city": "Gary",
+ "icao": "KGYY",
+ "lat": 41.6162986755,
+ "lon": -87.4128036499,
+ "name": "Gary Chicago International Airport",
+ "state": "Indiana",
+ "LL": "4.80",
+ "JetA": "2.85",
+ }
+	},
+	{"type":"Feature","properties":
+	{
+"city": "Manassas",
+ "icao": "KHEF",
+ "lat": 38.72140121,
+ "lon": -77.51540375,
+ "name": "Manassas Regional Harry P. Davis field",
+ "state": "Virginia",
+ "LL": "5.35",
+ "JetA": "4.25",
+ }
+	},
+	{"type":"Feature","properties":
+	{
+"city": "Hartford",
+ "icao": "KHFD",
+ "lat": 41.7366981506,
+ "lon": -72.6493988037,
+ "name": "Hartford Brainard Airport",
+ "state": "Connecticut",
+ "LL": "4.99",
+ "JetA": "4.97",
+ }
+	},
+	{"type":"Feature","properties":
+	{
+"city": "Hagerstown",
+ "icao": "KHGR",
+ "lat": 39.707901,
+ "lon": -77.72949982,
+ "name": "Hagerstown Regional Richard A Henson Field",
+ "state": "Maryland",
+ "LL": "5.20",
+ "JetA": "6.12",
+ }
+	},
+	{"type":"Feature","properties":
+	{
+"city": "Hawthorne",
+ "icao": "KHHR",
+ "lat": 33.9227981567,
+ "lon": -118.3349990845,
+ "name": "Jack Northrop Field Hawthorne Municipal Airport",
+ "state": "California",
+ "LL": "5.14",
+ "JetA": "4.86",
+ }
+	},
+	{"type":"Feature","properties":
+	{
+"city": "Portland",
+ "icao": "KHIO",
+ "lat": 45.54040146,
+ "lon": -122.9499969,
+ "name": "Portland Hillsboro Airport",
+ "state": "Oregon",
+ "LL": "4.95",
+ "JetA": "2.30",
+ }
+	},
+	{"type":"Feature","properties":
+	{
+"city": "Jackson",
+ "icao": "KHKS",
+ "lat": 32.33449936,
+ "lon": -90.22219849,
+ "name": "Hawkins Field",
+ "state": "Mississippi",
+ "LL": "5.49",
+ "JetA": "4.79",
+ }
+	},
+	{"type":"Feature","properties":
+	{
+"city": "Hickory",
+ "icao": "KHKY",
+ "lat": 35.74110031,
+ "lon": -81.38950348,
+ "name": "Hickory Regional Airport",
+ "state": "North-Carolina",
+ "LL": "3.95",
+ "JetA": "4.11",
+ }
+	},
+	{"type":"Feature","properties":
+	{
+"city": "Wheeling",
+ "icao": "KHLG",
+ "lat": 40.1749992371,
+ "lon": -80.6463012695,
+ "name": "Wheeling Ohio County Airport",
+ "state": "West-Virginia",
+ "LL": "4.86",
+ "JetA": "3.38",
+ }
+	},
+	{"type":"Feature","properties":
+	{
+"city": "Helena",
+ "icao": "KHLN",
+ "lat": 46.6068000793,
+ "lon": -111.983001709,
+ "name": "Helena Regional Airport",
+ "state": "Montana",
+ "LL": "4.29",
+ "JetA": "4.13",
+ }
+	},
+	{"type":"Feature","properties":
+	{
+"city": "Las Vegas",
+ "icao": "KHND",
+ "lat": 35.9728012085,
+ "lon": -115.1340026855,
+ "name": "Henderson Executive Airport",
+ "state": "Nevada",
+ "LL": "3.75",
+ "JetA": "3.84",
+ }
+	},
+	{"type":"Feature","properties":
+	{
+"city": "Hobbs",
+ "icao": "KHOB",
+ "lat": 32.6875,
+ "lon": -103.2170029,
+ "name": "Lea County Regional Airport",
+ "state": "New-Mexico",
+ "LL": "4.95",
+ "JetA": "3.90",
+ }
+	},
+	{"type":"Feature","properties":
+	{
+"city": "Houston",
+ "icao": "KHOU",
+ "lat": 29.64539909,
+ "lon": -95.27890015,
+ "name": "William P Hobby Airport",
+ "state": "Texas",
+ "LL": "3.23",
+ "JetA": "3.60",
+ }
+	},
+	{"type":"Feature","properties":
+	{
+"city": "White Plains",
+ "icao": "KHPN",
+ "lat": 41.0670013428,
+ "lon": -73.7076034546,
+ "name": "Westchester County Airport",
+ "state": "New-York",
+ "LL": "5.99",
+ "JetA": "3.89",
+ }
+	},
+	{"type":"Feature","properties":
+	{
+"city": "Mesquite",
+ "icao": "KHQZ",
+ "lat": 32.7470016479,
+ "lon": -96.5304031372,
+ "name": "Mesquite Metro Airport",
+ "state": "Texas",
+ "LL": "3.20",
+ "JetA": "3.00",
+ }
+	},
+	{"type":"Feature","properties":
+	{
+"city": "Harlingen",
+ "icao": "KHRL",
+ "lat": 26.2285003662,
+ "lon": -97.6544036865,
+ "name": "Valley International Airport",
+ "state": "Texas",
+ "LL": "4.77",
+ "JetA": "2.75",
+ }
+	},
+	{"type":"Feature","properties":
+	{
+"city": "Bay St Louis",
+ "icao": "KHSA",
+ "lat": 30.3677997589,
+ "lon": -89.4545974731,
+ "name": "Stennis International Airport",
+ "state": "Mississippi",
+ "LL": "4.75",
+ "JetA": "3.75",
+ }
+	},
+	{"type":"Feature","properties":
+	{
+"city": "Huntsville",
+ "icao": "KHSV",
+ "lat": 34.6371994019,
+ "lon": -86.775100708,
+ "name": "Huntsville International Carl T Jones Field",
+ "state": "Alabama",
+ "LL": "4.50",
+ "JetA": "4.13",
+ }
+	},
+	{"type":"Feature","properties":
+	{
+"city": "Huntington",
+ "icao": "KHTS",
+ "lat": 38.36669922,
+ "lon": -82.55799866,
+ "name": "Tri-State/Milton J. Ferguson Field",
+ "state": "West-Virginia",
+ "LL": "4.68",
+ "JetA": "3.78",
+ }
+	},
+	{"type":"Feature","properties":
+	{
+"city": "Terre Haute",
+ "icao": "KHUF",
+ "lat": 39.451499939,
+ "lon": -87.3076019287,
+ "name": "Terre Haute International Hulman Field",
+ "state": "Indiana",
+ "LL": "4.46",
+ "JetA": "3.83",
+ }
+	},
+	{"type":"Feature","properties":
+	{
+"city": "Houma",
+ "icao": "KHUM",
+ "lat": 29.5664997101,
+ "lon": -90.6604003906,
+ "name": "Houma Terrebonne Airport",
+ "state": "Louisiana",
+ "LL": "4.52",
+ "JetA": "4.52",
+ }
+	},
+	{"type":"Feature","properties":
+	{
+"city": "Hutchinson",
+ "icao": "KHUT",
+ "lat": 38.0654983521,
+ "lon": -97.8606033325,
+ "name": "Hutchinson Municipal Airport",
+ "state": "Kansas",
+ "LL": "3.48",
+ "JetA": "3.58",
+ }
+	},
+	{"type":"Feature","properties":
+	{
+"city": "New Haven",
+ "icao": "KHVN",
+ "lat": 41.26369858,
+ "lon": -72.88680267,
+ "name": "Tweed New Haven Airport",
+ "state": "Connecticut",
+ "LL": "5.92",
+ "JetA": "5.80",
+ }
+	},
+	{"type":"Feature","properties":
+	{
+"city": "Hayward",
+ "icao": "KHWD",
+ "lat": 37.659198761,
+ "lon": -122.1220016479,
+ "name": "Hayward Executive Airport",
+ "state": "California",
+ "LL": "4.15",
+ "JetA": "2.95",
+ }
+	},
+	{"type":"Feature","properties":
+	{
+"city": "Hollywood",
+ "icao": "KHWO",
+ "lat": 26.0011997223,
+ "lon": -80.2406997681,
+ "name": "North Perry Airport",
+ "state": "Florida",
+ "LL": "4.24",
+ "JetA": "3.75",
+ }
+	},
+	{"type":"Feature","properties":
+	{
+"city": "Hilton Head Island",
+ "icao": "KHXD",
+ "lat": 32.2243995667,
+ "lon": -80.6975021362,
+ "name": "Hilton Head Airport",
+ "state": "South-Carolina",
+ "LL": "7.27",
+ "JetA": "6.14",
+ }
+	},
+	{"type":"Feature","properties":
+	{
+"city": "Hyannis",
+ "icao": "KHYA",
+ "lat": 41.66930008,
+ "lon": -70.28040314,
+ "name": "Barnstable Municipal Boardman Polando Field",
+ "state": "Massachusetts",
+ "LL": "5.95",
+ "JetA": "3.50",
+ }
+	},
+	{"type":"Feature","properties":
+	{
+"city": "San Marcos",
+ "icao": "KHYI",
+ "lat": 29.8927001953,
+ "lon": -97.8629989624,
+ "name": "San Marcos Municipal Airport",
+ "state": "Texas",
+ "LL": "3.99",
+ "JetA": "4.07",
+ }
+	},
+	{"type":"Feature","properties":
+	{
+"city": "Washington",
+ "icao": "KIAD",
+ "lat": 38.94449997,
+ "lon": -77.45580292,
+ "name": "Washington Dulles International Airport",
+ "state": "Virginia",
+ "LL": "6.00",
+ "JetA": "5.39",
+ }
+	},
+	{"type":"Feature","properties":
+	{
+"city": "Niagara Falls",
+ "icao": "KIAG",
+ "lat": 43.1072998047,
+ "lon": -78.9461975098,
+ "name": "Niagara Falls International Airport",
+ "state": "New-York",
+ "LL": "5.25",
+ "JetA": "5.03",
+ }
+	},
+	{"type":"Feature","properties":
+	{
+"city": "Houston",
+ "icao": "KIAH",
+ "lat": 29.9843997955,
+ "lon": -95.3414001465,
+ "name": "George Bush Intercontinental Houston Airport",
+ "state": "Texas",
+ "LL": "4.60",
+ "JetA": "3.60",
+ }
+	},
+	{"type":"Feature","properties":
+	{
+"city": "Wichita",
+ "icao": "KICT",
+ "lat": 37.6498985291,
+ "lon": -97.4330978394,
+ "name": "Wichita Mid Continent Airport",
+ "state": "Kansas",
+ "LL": "3.98",
+ "JetA": "4.25",
+ }
+	},
+	{"type":"Feature","properties":
+	{
+"city": "Idaho Falls",
+ "icao": "KIDA",
+ "lat": 43.5145988464,
+ "lon": -112.0709991455,
+ "name": "Idaho Falls Regional Airport",
+ "state": "Idaho",
+ "LL": "4.77",
+ "JetA": "4.32",
+ }
+	},
+	{"type":"Feature","properties":
+	{
+"city": "Bullhead City",
+ "icao": "KIFP",
+ "lat": 35.15739822,
+ "lon": -114.5599976,
+ "name": "Laughlin Bullhead International Airport",
+ "state": "Arizona",
+ "LL": "4.30",
+ "JetA": "4.57",
+ }
+	},
+	{"type":"Feature","properties":
+	{
+"city": "Wilmington",
+ "icao": "KILG",
+ "lat": 39.67869949,
+ "lon": -75.60649872,
+ "name": "New Castle Airport",
+ "state": "Delaware",
+ "LL": "5.59",
+ "JetA": "5.25",
+ }
+	},
+	{"type":"Feature","properties":
+	{
+"city": "Wilmington",
+ "icao": "KILM",
+ "lat": 34.2705993652,
+ "lon": -77.9026031494,
+ "name": "Wilmington International Airport",
+ "state": "North-Carolina",
+ "LL": "3.99",
+ "JetA": "4.86",
+ }
+	},
+	{"type":"Feature","properties":
+	{
+"city": "Indianapolis",
+ "icao": "KIND",
+ "lat": 39.717300415,
+ "lon": -86.2944030762,
+ "name": "Indianapolis International Airport",
+ "state": "Indiana",
+ "LL": "3.60",
+ "JetA": "2.90",
+ }
+	},
+	{"type":"Feature","properties":
+	{
+"city": "Winston Salem",
+ "icao": "KINT",
+ "lat": 36.1337013245,
+ "lon": -80.2220001221,
+ "name": "Smith Reynolds Airport",
+ "state": "North-Carolina",
+ "LL": "3.65",
+ "JetA": "3.25",
+ }
+	},
+	{"type":"Feature","properties":
+	{
+"city": "Williamsport",
+ "icao": "KIPT",
+ "lat": 41.2417984009,
+ "lon": -76.9210968018,
+ "name": "Williamsport Regional Airport",
+ "state": "Pennsylvania",
+ "LL": "5.53",
+ "JetA": "4.08",
+ }
+	},
+	{"type":"Feature","properties":
+	{
+"city": "Orlando",
+ "icao": "KISM",
+ "lat": 28.2898006439,
+ "lon": -81.4371032715,
+ "name": "Kissimmee Gateway Airport",
+ "state": "Florida",
+ "LL": "4.31",
+ "JetA": "4.41",
+ }
+	},
+	{"type":"Feature","properties":
+	{
+"city": "Kinston",
+ "icao": "KISO",
+ "lat": 35.331401825,
+ "lon": -77.6088027954,
+ "name": "Kinston Regional Jetport At Stallings Field",
+ "state": "North-Carolina",
+ "LL": "6.26",
+ "JetA": "4.92",
+ }
+	},
+	{"type":"Feature","properties":
+	{
+"city": "Islip",
+ "icao": "KISP",
+ "lat": 40.79520035,
+ "lon": -73.10019684,
+ "name": "Long Island Mac Arthur Airport",
+ "state": "New-York",
+ "LL": "5.57",
+ "JetA": "4.70",
+ }
+	},
+	{"type":"Feature","properties":
+	{
+"city": "Ithaca",
+ "icao": "KITH",
+ "lat": 42.4910011292,
+ "lon": -76.4583969116,
+ "name": "Ithaca Tompkins Regional Airport",
+ "state": "New-York",
+ "LL": "4.89",
+ "JetA": "4.79",
+ }
+	},
+	{"type":"Feature","properties":
+	{
+"city": "Phoenix",
+ "icao": "KIWA",
+ "lat": 33.30780029,
+ "lon": -111.6549988,
+ "name": "Phoenix-Mesa-Gateway Airport",
+ "state": "Arizona",
+ "LL": "5.13",
+ "JetA": "4.50",
+ }
+	},
+	{"type":"Feature","properties":
+	{
+"city": "Olathe",
+ "icao": "KIXD",
+ "lat": 38.8308982849,
+ "lon": -94.890296936,
+ "name": "New Century Aircenter Airport",
+ "state": "Kansas",
+ "LL": "4.50",
+ "JetA": "2.83",
+ }
+	},
+	{"type":"Feature","properties":
+	{
+"city": "Jackson",
+ "icao": "KJAC",
+ "lat": 43.6072998047,
+ "lon": -110.7379989624,
+ "name": "Jackson Hole Airport",
+ "state": "Wyoming",
+ "LL": "4.85",
+ "JetA": "3.95",
+ }
+	},
+	{"type":"Feature","properties":
+	{
+"city": "Jackson",
+ "icao": "KJAN",
+ "lat": 32.3111991882,
+ "lon": -90.0758972168,
+ "name": "Jackson Evers International Airport",
+ "state": "Mississippi",
+ "LL": "5.49",
+ "JetA": "4.79",
+ }
+	},
+	{"type":"Feature","properties":
+	{
+"city": "Jacksonville",
+ "icao": "KJAX",
+ "lat": 30.4941005707,
+ "lon": -81.6878967285,
+ "name": "Jacksonville International Airport",
+ "state": "Florida",
+ "LL": "4.22",
+ "JetA": "2.42",
+ }
+	},
+	{"type":"Feature","properties":
+	{
+"city": "Jefferson City",
+ "icao": "KJEF",
+ "lat": 38.5912017822,
+ "lon": -92.1560974121,
+ "name": "Jefferson City Memorial Airport",
+ "state": "Missouri",
+ "LL": "3.95",
+ "JetA": "3.34",
+ }
+	},
+	{"type":"Feature","properties":
+	{
+"city": "New York",
+ "icao": "KJFK",
+ "lat": 40.63980103,
+ "lon": -73.77890015,
+ "name": "John F Kennedy International Airport",
+ "state": "New-York",
+ "LL": "6.82",
+ "JetA": "6.09",
+ }
+	},
+	{"type":"Feature","properties":
+	{
+"city": "Joplin",
+ "icao": "KJLN",
+ "lat": 37.1517982483,
+ "lon": -94.498298645,
+ "name": "Joplin Regional Airport",
+ "state": "Missouri",
+ "LL": "4.90",
+ "JetA": "4.40",
+ }
+	},
+	{"type":"Feature","properties":
+	{
+"city": "Concord",
+ "icao": "KJQF",
+ "lat": 35.3877983093,
+ "lon": -80.7090988159,
+ "name": "Concord Regional Airport",
+ "state": "North-Carolina",
+ "LL": "5.83",
+ "JetA": "4.65",
+ }
+	},
+	{"type":"Feature","properties":
+	{
+"city": "Janesville",
+ "icao": "KJVL",
+ "lat": 42.620300293,
+ "lon": -89.0416030884,
+ "name": "Southern Wisconsin Regional Airport",
+ "state": "Wisconsin",
+ "LL": "3.85",
+ "JetA": "3.90",
+ }
+	},
+	{"type":"Feature","properties":
+	{
+"city": "Jackson",
+ "icao": "KJXN",
+ "lat": 42.2597999573,
+ "lon": -84.4593963623,
+ "name": "Jackson County Reynolds Field",
+ "state": "Michigan",
+ "LL": "3.99",
+ "JetA": "3.99",
+ }
+	},
+	{"type":"Feature","properties":
+	{
+"city": "Lafayette",
+ "icao": "KLAF",
+ "lat": 40.4123001099,
+ "lon": -86.9368972778,
+ "name": "Purdue University Airport",
+ "state": "Indiana",
+ "LL": "4.45",
+ "JetA": "3.55",
+ }
+	},
+	{"type":"Feature","properties":
+	{
+"city": "Lakeland",
+ "icao": "KLAL",
+ "lat": 27.988899231,
+ "lon": -82.0186004639,
+ "name": "Lakeland Linder Regional Airport",
+ "state": "Florida",
+ "LL": "3.29",
+ "JetA": "4.88",
+ }
+	},
+	{"type":"Feature","properties":
+	{
+"city": "Lansing",
+ "icao": "KLAN",
+ "lat": 42.7787017822,
+ "lon": -84.5874023438,
+ "name": "Capital City Airport",
+ "state": "Michigan",
+ "LL": "4.77",
+ "JetA": "6.19",
+ }
+	},
+	{"type":"Feature","properties":
+	{
+"city": "Las Vegas",
+ "icao": "KLAS",
+ "lat": 36.08010101,
+ "lon": -115.1520004,
+ "name": "McCarran International Airport",
+ "state": "Nevada",
+ "LL": "7.99",
+ "JetA": "5.59",
+ }
+	},
+	{"type":"Feature","properties":
+	{
+"city": "Lawton",
+ "icao": "KLAW",
+ "lat": 34.5676994324,
+ "lon": -98.4166030884,
+ "name": "Lawton Fort Sill Regional Airport",
+ "state": "Oklahoma",
+ "LL": "4.00",
+ "JetA": "3.50",
+ }
+	},
+	{"type":"Feature","properties":
+	{
+"city": "Los Angeles",
+ "icao": "KLAX",
+ "lat": 33.94250107,
+ "lon": -118.4079971,
+ "name": "Los Angeles International Airport",
+ "state": "California",
+ "LL": "5.14",
+ "JetA": "6.05",
+ }
+	},
+	{"type":"Feature","properties":
+	{
+"city": "Lubbock",
+ "icao": "KLBB",
+ "lat": 33.6636009216,
+ "lon": -101.8229980469,
+ "name": "Lubbock Preston Smith International Airport",
+ "state": "Texas",
+ "LL": "3.99",
+ "JetA": "4.49",
+ }
+	},
+	{"type":"Feature","properties":
+	{
+"city": "Latrobe",
+ "icao": "KLBE",
+ "lat": 40.27590179,
+ "lon": -79.40480042,
+ "name": "Arnold Palmer Regional Airport",
+ "state": "Pennsylvania",
+ "LL": "4.80",
+ "JetA": "2.84",
+ }
+	},
+	{"type":"Feature","properties":
+	{
+"city": "Lake Charles",
+ "icao": "KLCH",
+ "lat": 30.1261005402,
+ "lon": -93.2232971191,
+ "name": "Lake Charles Regional Airport",
+ "state": "Louisiana",
+ "LL": "3.04",
+ "JetA": "3.73",
+ }
+	},
+	{"type":"Feature","properties":
+	{
+"city": "Lebanon",
+ "icao": "KLEB",
+ "lat": 43.6260986328,
+ "lon": -72.3041992188,
+ "name": "Lebanon Municipal Airport",
+ "state": "New-Hampshire",
+ "LL": "6.00",
+ "JetA": "5.00",
+ }
+	},
+	{"type":"Feature","properties":
+	{
+"city": "Leesburg",
+ "icao": "KLEE",
+ "lat": 28.82309914,
+ "lon": -81.80870056,
+ "name": "Leesburg International Airport",
+ "state": "Florida",
+ "LL": "3.94",
+ "JetA": "3.95",
+ }
+	},
+	{"type":"Feature","properties":
+	{
+"city": "Lexington",
+ "icao": "KLEX",
+ "lat": 38.0364990234,
+ "lon": -84.6059036255,
+ "name": "Blue Grass Airport",
+ "state": "Kentucky",
+ "LL": "4.87",
+ "JetA": "5.07",
+ }
+	},
+	{"type":"Feature","properties":
+	{
+"city": "Lafayette",
+ "icao": "KLFT",
+ "lat": 30.20529938,
+ "lon": -91.98760223,
+ "name": "Lafayette Regional Airport",
+ "state": "Louisiana",
+ "LL": "4.50",
+ "JetA": "5.87",
+ }
+	},
+	{"type":"Feature","properties":
+	{
+"city": "New York",
+ "icao": "KLGA",
+ "lat": 40.77719879,
+ "lon": -73.87259674,
+ "name": "La Guardia Airport",
+ "state": "New-York",
+ "LL": "7.68",
+ "JetA": "6.73",
+ }
+	},
+	{"type":"Feature","properties":
+	{
+"city": "Long Beach",
+ "icao": "KLGB",
+ "lat": 33.81769943,
+ "lon": -118.1520004,
+ "name": "Long Beach /Daugherty Field/ Airport",
+ "state": "California",
+ "LL": "5.92",
+ "JetA": "6.50",
+ }
+	},
+	{"type":"Feature","properties":
+	{
+"city": "Little Rock",
+ "icao": "KLIT",
+ "lat": 34.7294006348,
+ "lon": -92.2242965698,
+ "name": "Adams Field",
+ "state": "Arkansas",
+ "LL": "5.59",
+ "JetA": "4.39",
+ }
+	},
+	{"type":"Feature","properties":
+	{
+"city": "Klamath Falls",
+ "icao": "KLMT",
+ "lat": 42.1561012268,
+ "lon": -121.733001709,
+ "name": "Klamath Falls Airport",
+ "state": "Oregon",
+ "LL": "4.68",
+ "JetA": "3.24",
+ }
+	},
+	{"type":"Feature","properties":
+	{
+"city": "Lincoln",
+ "icao": "KLNK",
+ "lat": 40.8510017395,
+ "lon": -96.7592010498,
+ "name": "Lincoln Airport",
+ "state": "Montana",
+ "LL": "4.62",
+ "JetA": "2.95",
+ }
+	},
+	{"type":"Feature","properties":
+	{
+"city": "Lancaster",
+ "icao": "KLNS",
+ "lat": 40.1217002869,
+ "lon": -76.2960968018,
+ "name": "Lancaster Airport",
+ "state": "Pennsylvania",
+ "LL": "4.31",
+ "JetA": "4.95",
+ }
+	},
+	{"type":"Feature","properties":
+	{
+"city": "Louisville",
+ "icao": "KLOU",
+ "lat": 38.2280006409,
+ "lon": -85.6636962891,
+ "name": "Bowman Field",
+ "state": "Kentucky",
+ "LL": "5.20",
+ "JetA": "4.75",
+ }
+	},
+	{"type":"Feature","properties":
+	{
+"city": "Laredo",
+ "icao": "KLRD",
+ "lat": 27.543800354,
+ "lon": -99.4616012573,
+ "name": "Laredo International Airport",
+ "state": "Texas",
+ "LL": "5.61",
+ "JetA": "4.57",
+ }
+	},
+	{"type":"Feature","properties":
+	{
+"city": "La Crosse",
+ "icao": "KLSE",
+ "lat": 43.87900162,
+ "lon": -91.25669861,
+ "name": "La Crosse Municipal Airport",
+ "state": "Wisconsin",
+ "LL": "5.04",
+ "JetA": "3.96",
+ }
+	},
+	{"type":"Feature","properties":
+	{
+"city": "Cincinnati",
+ "icao": "KLUK",
+ "lat": 39.10329819,
+ "lon": -84.41860199,
+ "name": "Cincinnati Municipal Airport Lunken Field",
+ "state": "Ohio",
+ "LL": "4.50",
+ "JetA": "3.84",
+ }
+	},
+	{"type":"Feature","properties":
+	{
+"city": "Livermore",
+ "icao": "KLVK",
+ "lat": 37.6934013367,
+ "lon": -121.8199996948,
+ "name": "Livermore Municipal Airport",
+ "state": "California",
+ "LL": "4.15",
+ "JetA": "3.95",
+ }
+	},
+	{"type":"Feature","properties":
+	{
+"city": "Lewisburg",
+ "icao": "KLWB",
+ "lat": 37.8582992554,
+ "lon": -80.3994979858,
+ "name": "Greenbrier Valley Airport",
+ "state": "West-Virginia",
+ "LL": "4.92",
+ "JetA": "4.63",
+ }
+	},
+	{"type":"Feature","properties":
+	{
+"city": "Lawrence",
+ "icao": "KLWM",
+ "lat": 42.7172012329,
+ "lon": -71.1233978271,
+ "name": "Lawrence Municipal Airport",
+ "state": "Massachusetts",
+ "LL": "4.99",
+ "JetA": "3.90",
+ }
+	},
+	{"type":"Feature","properties":
+	{
+"city": "Lewiston",
+ "icao": "KLWS",
+ "lat": 46.3745002747,
+ "lon": -117.0149993896,
+ "name": "Lewiston Nez Perce County Airport",
+ "state": "Idaho",
+ "LL": "3.45",
+ "JetA": "3.37",
+ }
+	},
+	{"type":"Feature","properties":
+	{
+"city": "Lynchburg",
+ "icao": "KLYH",
+ "lat": 37.3266983032,
+ "lon": -79.2004013062,
+ "name": "Lynchburg Regional Preston Glenn Field",
+ "state": "Virginia",
+ "LL": "4.94",
+ "JetA": "4.75",
+ }
+	},
+	{"type":"Feature","properties":
+	{
+"city": "Lawrenceville",
+ "icao": "KLZU",
+ "lat": 33.97809982,
+ "lon": -83.96240234,
+ "name": "Gwinnett County Briscoe Field",
+ "state": "Georgia",
+ "LL": "4.45",
+ "JetA": "2.95",
+ }
+	},
+	{"type":"Feature","properties":
+	{
+"city": "Midland",
+ "icao": "KMAF",
+ "lat": 31.9424991608,
+ "lon": -102.202003479,
+ "name": "Midland International Airport",
+ "state": "Texas",
+ "LL": "3.53",
+ "JetA": "3.77",
+ }
+	},
+	{"type":"Feature","properties":
+	{
+"city": "Saginaw",
+ "icao": "KMBS",
+ "lat": 43.5329017639,
+ "lon": -84.0795974731,
+ "name": "MBS International Airport",
+ "state": "Michigan",
+ "LL": "5.67",
+ "JetA": "6.34",
+ }
+	},
+	{"type":"Feature","properties":
+	{
+"city": "Kansas City",
+ "icao": "KMCI",
+ "lat": 39.2975997925,
+ "lon": -94.7138977051,
+ "name": "Kansas City International Airport",
+ "state": "Missouri",
+ "LL": "6.10",
+ "JetA": "6.59",
+ }
+	},
+	{"type":"Feature","properties":
+	{
+"city": "Macon",
+ "icao": "KMCN",
+ "lat": 32.6927986145,
+ "lon": -83.6492004395,
+ "name": "Middle Georgia Regional Airport",
+ "state": "Georgia",
+ "LL": "3.12",
+ "JetA": "3.20",
+ }
+	},
+	{"type":"Feature","properties":
+	{
+"city": "Orlando",
+ "icao": "KMCO",
+ "lat": 28.4293994904,
+ "lon": -81.3089981079,
+ "name": "Orlando International Airport",
+ "state": "Florida",
+ "LL": "6.48",
+ "JetA": "5.80",
+ }
+	},
+	{"type":"Feature","properties":
+	{
+"city": "Carbondale/Murphysboro",
+ "icao": "KMDH",
+ "lat": 37.7780990601,
+ "lon": -89.2519989014,
+ "name": "Southern Illinois Airport",
+ "state": "Illinois",
+ "LL": "4.65",
+ "JetA": "4.15",
+ }
+	},
+	{"type":"Feature","properties":
+	{
+"city": "Harrisburg",
+ "icao": "KMDT",
+ "lat": 40.1935005188,
+ "lon": -76.7633972168,
+ "name": "Harrisburg International Airport",
+ "state": "Pennsylvania",
+ "LL": "4.42",
+ "JetA": "4.26",
+ }
+	},
+	{"type":"Feature","properties":
+	{
+"city": "Chicago",
+ "icao": "KMDW",
+ "lat": 41.7859992981,
+ "lon": -87.7524032593,
+ "name": "Chicago Midway International Airport",
+ "state": "Illinois",
+ "LL": "4.80",
+ "JetA": "2.85",
+ }
+	},
+	{"type":"Feature","properties":
+	{
+"city": "Meridian",
+ "icao": "KMEI",
+ "lat": 32.3325996399,
+ "lon": -88.7518997192,
+ "name": "Key Field",
+ "state": "Mississippi",
+ "LL": "4.00",
+ "JetA": "3.25",
+ }
+	},
+	{"type":"Feature","properties":
+	{
+"city": "Memphis",
+ "icao": "KMEM",
+ "lat": 35.0424003601,
+ "lon": -89.9766998291,
+ "name": "Memphis International Airport",
+ "state": "Tennessee",
+ "LL": "6.47",
+ "JetA": "6.21",
+ }
+	},
+	{"type":"Feature","properties":
+	{
+"city": "Merced",
+ "icao": "KMER",
+ "lat": 37.38050079,
+ "lon": -120.5680008,
+ "name": "Castle Airport",
+ "state": "California",
+ "LL": "5.47",
+ "JetA": "3.99",
+ }
+	},
+	{"type":"Feature","properties":
+	{
+"city": "Mansfield",
+ "icao": "KMFD",
+ "lat": 40.8213996887,
+ "lon": -82.5166015625,
+ "name": "Mansfield Lahm Regional Airport",
+ "state": "Ohio",
+ "LL": "5.22",
+ "JetA": "4.31",
+ }
+	},
+	{"type":"Feature","properties":
+	{
+"city": "Mc Allen",
+ "icao": "KMFE",
+ "lat": 26.17580032,
+ "lon": -98.23860168,
+ "name": "Mc Allen Miller International Airport",
+ "state": "Texas",
+ "LL": "3.99",
+ "JetA": "3.85",
+ }
+	},
+	{"type":"Feature","properties":
+	{
+"city": "Medford",
+ "icao": "KMFR",
+ "lat": 42.3741989136,
+ "lon": -122.8730010986,
+ "name": "Rogue Valley International Medford Airport",
+ "state": "Oregon",
+ "LL": "4.70",
+ "JetA": "3.91",
+ }
+	},
+	{"type":"Feature","properties":
+	{
+"city": "Montgomery",
+ "icao": "KMGM",
+ "lat": 32.30059814,
+ "lon": -86.39399719,
+ "name": "Montgomery Regional (Dannelly Field) Airport",
+ "state": "Alabama",
+ "LL": "5.15",
+ "JetA": "4.90",
+ }
+	},
+	{"type":"Feature","properties":
+	{
+"city": "Morgantown",
+ "icao": "KMGW",
+ "lat": 39.64289856,
+ "lon": -79.91629791,
+ "name": "Morgantown Municipal Walter L. Bill Hart Field",
+ "state": "West-Virginia",
+ "LL": "4.00",
+ "JetA": "3.50",
+ }
+	},
+	{"type":"Feature","properties":
+	{
+"city": "Manhattan",
+ "icao": "KMHK",
+ "lat": 39.1409988403,
+ "lon": -96.6707992554,
+ "name": "Manhattan Regional Airport",
+ "state": "Kansas",
+ "LL": "3.59",
+ "JetA": "2.69",
+ }
+	},
+	{"type":"Feature","properties":
+	{
+"city": "Sacramento",
+ "icao": "KMHR",
+ "lat": 38.55390167,
+ "lon": -121.2979965,
+ "name": "Sacramento Mather Airport",
+ "state": "California",
+ "LL": "3.73",
+ "JetA": "4.39",
+ }
+	},
+	{"type":"Feature","properties":
+	{
+"city": "Manchester",
+ "icao": "KMHT",
+ "lat": 42.932598114,
+ "lon": -71.4356994629,
+ "name": "Manchester Airport",
+ "state": "New-Hampshire",
+ "LL": "6.75",
+ "JetA": "5.26",
+ }
+	},
+	{"type":"Feature","properties":
+	{
+"city": "Miami",
+ "icao": "KMIA",
+ "lat": 25.7931995392,
+ "lon": -80.2906036377,
+ "name": "Miami International Airport",
+ "state": "Florida",
+ "LL": "6.75",
+ "JetA": "4.84",
+ }
+	},
+	{"type":"Feature","properties":
+	{
+"city": "Muncie",
+ "icao": "KMIE",
+ "lat": 40.2422981262,
+ "lon": -85.3958969116,
+ "name": "Delaware County Johnson Field",
+ "state": "Indiana",
+ "LL": "4.46",
+ "JetA": "3.57",
+ }
+	},
+	{"type":"Feature","properties":
+	{
+"city": "Kansas City",
+ "icao": "KMKC",
+ "lat": 39.1231994629,
+ "lon": -94.5927963257,
+ "name": "Charles B. Wheeler Downtown Airport",
+ "state": "Missouri",
+ "LL": "4.50",
+ "JetA": "3.55",
+ }
+	},
+	{"type":"Feature","properties":
+	{
+"city": "Milwaukee",
+ "icao": "KMKE",
+ "lat": 42.9472007751,
+ "lon": -87.8965988159,
+ "name": "General Mitchell International Airport",
+ "state": "Wisconsin",
+ "LL": "4.65",
+ "JetA": "6.19",
+ }
+	},
+	{"type":"Feature","properties":
+	{
+"city": "Muskegon",
+ "icao": "KMKG",
+ "lat": 43.16949844,
+ "lon": -86.23819733,
+ "name": "Muskegon County Airport",
+ "state": "Michigan",
+ "LL": "4.99",
+ "JetA": "4.79",
+ }
+	},
+	{"type":"Feature","properties":
+	{
+"city": "Jackson",
+ "icao": "KMKL",
+ "lat": 35.59989929,
+ "lon": -88.91560364,
+ "name": "Mc Kellar Sipes Regional Airport",
+ "state": "Tennessee",
+ "LL": "3.50",
+ "JetA": "3.85",
+ }
+	},
+	{"type":"Feature","properties":
+	{
+"city": "Melbourne",
+ "icao": "KMLB",
+ "lat": 28.1028003693,
+ "lon": -80.6453018188,
+ "name": "Melbourne International Airport",
+ "state": "Florida",
+ "LL": "5.07",
+ "JetA": "4.63",
+ }
+	},
+	{"type":"Feature","properties":
+	{
+"city": "Moline",
+ "icao": "KMLI",
+ "lat": 41.4485015869,
+ "lon": -90.5074996948,
+ "name": "Quad City International Airport",
+ "state": "Illinois",
+ "LL": "3.99",
+ "JetA": "2.99",
+ }
+	},
+	{"type":"Feature","properties":
+	{
+"city": "Monroe",
+ "icao": "KMLU",
+ "lat": 32.5108985901,
+ "lon": -92.0376968384,
+ "name": "Monroe Regional Airport",
+ "state": "Louisiana",
+ "LL": "4.25",
+ "JetA": "4.70",
+ }
+	},
+	{"type":"Feature","properties":
+	{
+"city": "Morristown",
+ "icao": "KMMU",
+ "lat": 40.7994003296,
+ "lon": -74.4149017334,
+ "name": "Morristown Municipal Airport",
+ "state": "New-Jersey",
+ "LL": "5.99",
+ "JetA": "3.89",
+ }
+	},
+	{"type":"Feature","properties":
+	{
+"city": "Mobile",
+ "icao": "KMOB",
+ "lat": 30.6912002563,
+ "lon": -88.2427978516,
+ "name": "Mobile Regional Airport",
+ "state": "Alabama",
+ "LL": "6.18",
+ "JetA": "5.41",
+ }
+	},
+	{"type":"Feature","properties":
+	{
+"city": "Modesto",
+ "icao": "KMOD",
+ "lat": 37.62580109,
+ "lon": -120.9540024,
+ "name": "Modesto City Co-Harry Sham Field",
+ "state": "California",
+ "LL": "3.45",
+ "JetA": "3.99",
+ }
+	},
+	{"type":"Feature","properties":
+	{
+"city": "Minot",
+ "icao": "KMOT",
+ "lat": 48.2593994141,
+ "lon": -101.2799987793,
+ "name": "Minot International Airport",
+ "state": "North-Dakota",
+ "LL": "4.96",
+ "JetA": "4.80",
+ }
+	},
+	{"type":"Feature","properties":
+	{
+"city": "Smyrna",
+ "icao": "KMQY",
+ "lat": 36.0089988708,
+ "lon": -86.5201034546,
+ "name": "Smyrna Airport",
+ "state": "Delaware",
+ "LL": "4.10",
+ "JetA": "3.49",
+ }
+	},
+	{"type":"Feature","properties":
+	{
+"city": "Monterey",
+ "icao": "KMRY",
+ "lat": 36.5870018005,
+ "lon": -121.8430023193,
+ "name": "Monterey Peninsula Airport",
+ "state": "California",
+ "LL": "3.99",
+ "JetA": "3.88",
+ }
+	},
+	{"type":"Feature","properties":
+	{
+"city": "Madison",
+ "icao": "KMSN",
+ "lat": 43.1399002075,
+ "lon": -89.3375015259,
+ "name": "Dane County Regional Truax Field",
+ "state": "Wisconsin",
+ "LL": "4.39",
+ "JetA": "3.99",
+ }
+	},
+	{"type":"Feature","properties":
+	{
+"city": "Missoula",
+ "icao": "KMSO",
+ "lat": 46.91630173,
+ "lon": -114.0910034,
+ "name": "Missoula International Airport",
+ "state": "Montana",
+ "LL": "4.40",
+ "JetA": "3.80",
+ }
+	},
+	{"type":"Feature","properties":
+	{
+"city": "Minneapolis",
+ "icao": "KMSP",
+ "lat": 44.8819999695,
+ "lon": -93.2218017578,
+ "name": "Minneapolis-St Paul International/Wold-Chamberlain Airport",
+ "state": "Minnesota",
+ "LL": "4.14",
+ "JetA": "5.39",
+ }
+	},
+	{"type":"Feature","properties":
+	{
+"city": "New Orleans",
+ "icao": "KMSY",
+ "lat": 29.9934005737,
+ "lon": -90.2580032349,
+ "name": "Louis Armstrong New Orleans International Airport",
+ "state": "Louisiana",
+ "LL": "5.64",
+ "JetA": "4.45",
+ }
+	},
+	{"type":"Feature","properties":
+	{
+"city": "Baltimore",
+ "icao": "KMTN",
+ "lat": 39.32569885,
+ "lon": -76.4138031,
+ "name": "Martin State Airport",
+ "state": "Maryland",
+ "LL": "3.69",
+ "JetA": "3.74",
+ }
+	},
+	{"type":"Feature","properties":
+	{
+"city": "Martha's Vineyard",
+ "icao": "KMVY",
+ "lat": 41.3931007385,
+ "lon": -70.6143035889,
+ "name": "Martha's Vineyard Airport",
+ "state": "Massachusetts",
+ "LL": "5.74",
+ "JetA": "4.46",
+ }
+	},
+	{"type":"Feature","properties":
+	{
+"city": "Marion",
+ "icao": "KMWA",
+ "lat": 37.75500107,
+ "lon": -89.01110077,
+ "name": "Williamson County Regional Airport",
+ "state": "Illinois",
+ "LL": "4.61",
+ "JetA": "3.48",
+ }
+	},
+	{"type":"Feature","properties":
+	{
+"city": "Milwaukee",
+ "icao": "KMWC",
+ "lat": 43.1104011536,
+ "lon": -88.0344009399,
+ "name": "Lawrence J Timmerman Airport",
+ "state": "Wisconsin",
+ "LL": "4.99",
+ "JetA": "4.35",
+ }
+	},
+	{"type":"Feature","properties":
+	{
+"city": "San Diego",
+ "icao": "KMYF",
+ "lat": 32.815700531,
+ "lon": -117.1399993896,
+ "name": "Montgomery Field",
+ "state": "California",
+ "LL": "4.69",
+ "JetA": "3.59",
+ }
+	},
+	{"type":"Feature","properties":
+	{
+"city": "Myrtle Beach",
+ "icao": "KMYR",
+ "lat": 33.6796989441,
+ "lon": -78.9282989502,
+ "name": "Myrtle Beach International Airport",
+ "state": "South-Carolina",
+ "LL": "4.01",
+ "JetA": "3.79",
+ }
+	},
+	{"type":"Feature","properties":
+	{
+"city": "New Orleans",
+ "icao": "KNEW",
+ "lat": 30.0424003601,
+ "lon": -90.0282974243,
+ "name": "Lakefront Airport",
+ "state": "Louisiana",
+ "LL": "5.64",
+ "JetA": "4.45",
+ }
+	},
+	{"type":"Feature","properties":
+	{
+"city": "Millington",
+ "icao": "KNQA",
+ "lat": 35.3567008972,
+ "lon": -89.870300293,
+ "name": "Millington Regional Jetport Airport",
+ "state": "Tennessee",
+ "LL": "3.00",
+ "JetA": "2.30",
+ }
+	},
+	{"type":"Feature","properties":
+	{
+"city": "Jacksonville",
+ "icao": "KOAJ",
+ "lat": 34.8292007446,
+ "lon": -77.6120986938,
+ "name": "Albert J Ellis Airport",
+ "state": "North-Carolina",
+ "LL": "3.99",
+ "JetA": "5.05",
+ }
+	},
+	{"type":"Feature","properties":
+	{
+"city": "Oakland",
+ "icao": "KOAK",
+ "lat": 37.7212982178,
+ "lon": -122.2210006714,
+ "name": "Metropolitan Oakland International Airport",
+ "state": "California",
+ "LL": "6.49",
+ "JetA": "4.33",
+ }
+	},
+	{"type":"Feature","properties":
+	{
+"city": "Ocala",
+ "icao": "KOCF",
+ "lat": 29.17259979,
+ "lon": -82.22419739,
+ "name": "Ocala International Jim Taylor Field",
+ "state": "Florida",
+ "LL": "4.27",
+ "JetA": "5.32",
+ }
+	},
+	{"type":"Feature","properties":
+	{
+"city": "Ogden",
+ "icao": "KOGD",
+ "lat": 41.1958999634,
+ "lon": -112.0120010376,
+ "name": "Ogden Hinckley Airport",
+ "state": "Utah",
+ "LL": "3.95",
+ "JetA": "3.30",
+ }
+	},
+	{"type":"Feature","properties":
+	{
+"city": "Olathe",
+ "icao": "KOJC",
+ "lat": 38.84759903,
+ "lon": -94.73760223,
+ "name": "Johnson County Executive Airport",
+ "state": "Kansas",
+ "LL": "5.25",
+ "JetA": "4.50",
+ }
+	},
+	{"type":"Feature","properties":
+	{
+"city": "Oklahoma City",
+ "icao": "KOKC",
+ "lat": 35.3931007385,
+ "lon": -97.6007003784,
+ "name": "Will Rogers World Airport",
+ "state": "Oklahoma",
+ "LL": "6.00",
+ "JetA": "5.69",
+ }
+	},
+	{"type":"Feature","properties":
+	{
+"city": "Olympia",
+ "icao": "KOLM",
+ "lat": 46.9693985,
+ "lon": -122.9029999,
+ "name": "Olympia Regional Airport",
+ "state": "Washington",
+ "LL": "4.64",
+ "JetA": "3.67",
+ }
+	},
+	{"type":"Feature","properties":
+	{
+"city": "Olive Branch",
+ "icao": "KOLV",
+ "lat": 34.9786987305,
+ "lon": -89.7869033813,
+ "name": "Olive Branch Airport",
+ "state": "Mississippi",
+ "LL": "2.99",
+ "JetA": "3.40",
+ }
+	},
+	{"type":"Feature","properties":
+	{
+"city": "Omaha",
+ "icao": "KOMA",
+ "lat": 41.3031997681,
+ "lon": -95.8940963745,
+ "name": "Eppley Airfield",
+ "state": "Nebraska",
+ "LL": "3.65",
+ "JetA": "2.79",
+ }
+	},
+	{"type":"Feature","properties":
+	{
+"city": "Ormond Beach",
+ "icao": "KOMN",
+ "lat": 29.3006000519,
+ "lon": -81.1136016846,
+ "name": "Ormond Beach Municipal Airport",
+ "state": "Florida",
+ "LL": "4.14",
+ "JetA": "4.45",
+ }
+	},
+	{"type":"Feature","properties":
+	{
+"city": "Ontario",
+ "icao": "KONT",
+ "lat": 34.0559997559,
+ "lon": -117.6009979248,
+ "name": "Ontario International Airport",
+ "state": "California",
+ "LL": "3.79",
+ "JetA": "2.95",
+ }
+	},
+	{"type":"Feature","properties":
+	{
+"city": "Miami",
+ "icao": "KOPF",
+ "lat": 25.90699959,
+ "lon": -80.27839661,
+ "name": "Opa-locka Executive Airport",
+ "state": "Florida",
+ "LL": "4.09",
+ "JetA": "2.29",
+ }
+	},
+	{"type":"Feature","properties":
+	{
+"city": "Chicago",
+ "icao": "KORD",
+ "lat": 41.97859955,
+ "lon": -87.90480042,
+ "name": "Chicago O'Hare International Airport",
+ "state": "Illinois",
+ "LL": "4.80",
+ "JetA": "2.85",
+ }
+	},
+	{"type":"Feature","properties":
+	{
+"city": "Norfolk",
+ "icao": "KORF",
+ "lat": 36.8945999146,
+ "lon": -76.2012023926,
+ "name": "Norfolk International Airport",
+ "state": "Virginia",
+ "LL": "4.69",
+ "JetA": "3.49",
+ }
+	},
+	{"type":"Feature","properties":
+	{
+"city": "Worcester",
+ "icao": "KORH",
+ "lat": 42.2672996521,
+ "lon": -71.8757019043,
+ "name": "Worcester Regional Airport",
+ "state": "Massachusetts",
+ "LL": "5.50",
+ "JetA": "6.36",
+ }
+	},
+	{"type":"Feature","properties":
+	{
+"city": "Orlando",
+ "icao": "KORL",
+ "lat": 28.5454998016,
+ "lon": -81.332901001,
+ "name": "Executive Airport",
+ "state": "Florida",
+ "LL": "5.20",
+ "JetA": "5.74",
+ }
+	},
+	{"type":"Feature","properties":
+	{
+"city": "Oshkosh",
+ "icao": "KOSH",
+ "lat": 43.9844017029,
+ "lon": -88.5569992065,
+ "name": "Wittman Regional Airport",
+ "state": "Wisconsin",
+ "LL": "4.59",
+ "JetA": "4.19",
+ }
+	},
+	{"type":"Feature","properties":
+	{
+"city": "Columbus",
+ "icao": "KOSU",
+ "lat": 40.0797996521,
+ "lon": -83.0729980469,
+ "name": "Ohio State University Airport",
+ "state": "Ohio",
+ "LL": "5.19",
+ "JetA": "3.25",
+ }
+	},
+	{"type":"Feature","properties":
+	{
+"city": "North Bend",
+ "icao": "KOTH",
+ "lat": 43.417098999,
+ "lon": -124.2460021973,
+ "name": "Southwest Oregon Regional Airport",
+ "state": "Oregon",
+ "LL": "5.70",
+ "JetA": "5.15",
+ }
+	},
+	{"type":"Feature","properties":
+	{
+"city": "Norman",
+ "icao": "KOUN",
+ "lat": 35.2456016541,
+ "lon": -97.4720993042,
+ "name": "University of Oklahoma Westheimer Airport",
+ "state": "Oklahoma",
+ "LL": "4.81",
+ "JetA": "3.97",
+ }
+	},
+	{"type":"Feature","properties":
+	{
+"city": "Owensboro",
+ "icao": "KOWB",
+ "lat": 37.74010086,
+ "lon": -87.16680145,
+ "name": "Owensboro Daviess County Airport",
+ "state": "Kentucky",
+ "LL": "4.75",
+ "JetA": "5.40",
+ }
+	},
+	{"type":"Feature","properties":
+	{
+"city": "Norwood",
+ "icao": "KOWD",
+ "lat": 42.1904983521,
+ "lon": -71.1728973389,
+ "name": "Norwood Memorial Airport",
+ "state": "Massachusetts",
+ "LL": "4.57",
+ "JetA": "4.12",
+ }
+	},
+	{"type":"Feature","properties":
+	{
+"city": "Oxford",
+ "icao": "KOXC",
+ "lat": 41.4785995483,
+ "lon": -73.1352005005,
+ "name": "Waterbury Oxford Airport",
+ "state": "Connecticut",
+ "LL": "6.41",
+ "JetA": "5.70",
+ }
+	},
+	{"type":"Feature","properties":
+	{
+"city": "Oxnard",
+ "icao": "KOXR",
+ "lat": 34.2008018494,
+ "lon": -119.2070007324,
+ "name": "Oxnard Airport",
+ "state": "California",
+ "LL": "4.75",
+ "JetA": "3.00",
+ }
+	},
+	{"type":"Feature","properties":
+	{
+"city": "Everett",
+ "icao": "KPAE",
+ "lat": 47.90629959,
+ "lon": -122.2819977,
+ "name": "Snohomish County (Paine Field) Airport",
+ "state": "Washington",
+ "LL": "4.94",
+ "JetA": "3.55",
+ }
+	},
+	{"type":"Feature","properties":
+	{
+"city": "Paducah",
+ "icao": "KPAH",
+ "lat": 37.060798645,
+ "lon": -88.7738037109,
+ "name": "Barkley Regional Airport",
+ "state": "Kentucky",
+ "LL": "4.60",
+ "JetA": "3.40",
+ }
+	},
+	{"type":"Feature","properties":
+	{
+"city": "Palo Alto",
+ "icao": "KPAO",
+ "lat": 37.461101532,
+ "lon": -122.1149978638,
+ "name": "Palo Alto Airport of Santa Clara County",
+ "state": "California",
+ "LL": "4.15",
+ "JetA": "3.44",
+ }
+	},
+	{"type":"Feature","properties":
+	{
+"city": "West Palm Beach",
+ "icao": "KPBI",
+ "lat": 26.6832008362,
+ "lon": -80.0955963135,
+ "name": "Palm Beach International Airport",
+ "state": "Florida",
+ "LL": "4.96",
+ "JetA": "0.00",
+ }
+	},
+	{"type":"Feature","properties":
+	{
+"city": "Atlanta",
+ "icao": "KPDK",
+ "lat": 33.8755989075,
+ "lon": -84.3020019531,
+ "name": "DeKalb Peachtree Airport",
+ "state": "Georgia",
+ "LL": "5.42",
+ "JetA": "4.41",
+ }
+	},
+	{"type":"Feature","properties":
+	{
+"city": "Pendleton",
+ "icao": "KPDT",
+ "lat": 45.695098877,
+ "lon": -118.841003418,
+ "name": "Eastern Oregon Regional At Pendleton Airport",
+ "state": "Oregon",
+ "LL": "4.00",
+ "JetA": "3.69",
+ }
+	},
+	{"type":"Feature","properties":
+	{
+"city": "Portland",
+ "icao": "KPDX",
+ "lat": 45.58869934,
+ "lon": -122.5979996,
+ "name": "Portland International Airport",
+ "state": "Oregon",
+ "LL": "4.95",
+ "JetA": "2.30",
+ }
+	},
+	{"type":"Feature","properties":
+	{
+"city": "Punta Gorda",
+ "icao": "KPGD",
+ "lat": 26.920200350000002,
+ "lon": -81.9905014,
+ "name": "Charlotte County Airport",
+ "state": "Florida",
+ "LL": "2.78",
+ "JetA": "3.24",
+ }
+	},
+	{"type":"Feature","properties":
+	{
+"city": "Newport News",
+ "icao": "KPHF",
+ "lat": 37.13190079,
+ "lon": -76.49299622,
+ "name": "Newport News Williamsburg International Airport",
+ "state": "Virginia",
+ "LL": "5.00",
+ "JetA": "4.50",
+ }
+	},
+	{"type":"Feature","properties":
+	{
+"city": "Philadelphia",
+ "icao": "KPHL",
+ "lat": 39.8718986511,
+ "lon": -75.2410964966,
+ "name": "Philadelphia International Airport",
+ "state": "Pennsylvania",
+ "LL": "5.85",
+ "JetA": "5.25",
+ }
+	},
+	{"type":"Feature","properties":
+	{
+"city": "Phoenix",
+ "icao": "KPHX",
+ "lat": 33.434299469,
+ "lon": -112.0120010376,
+ "name": "Phoenix Sky Harbor International Airport",
+ "state": "Arizona",
+ "LL": "5.13",
+ "JetA": "4.50",
+ }
+	},
+	{"type":"Feature","properties":
+	{
+"city": "Peoria",
+ "icao": "KPIA",
+ "lat": 40.6641998291,
+ "lon": -89.6932983398,
+ "name": "Greater Peoria Regional Airport",
+ "state": "Illinois",
+ "LL": "5.65",
+ "JetA": "4.20",
+ }
+	},
+	{"type":"Feature","properties":
+	{
+"city": "St Petersburg-Clearwater",
+ "icao": "KPIE",
+ "lat": 27.91020012,
+ "lon": -82.68740082,
+ "name": "St Petersburg Clearwater International Airport",
+ "state": "Florida",
+ "LL": "5.29",
+ "JetA": "5.14",
+ }
+	},
+	{"type":"Feature","properties":
+	{
+"city": "Pocatello",
+ "icao": "KPIH",
+ "lat": 42.9098014832,
+ "lon": -112.5960006714,
+ "name": "Pocatello Regional Airport",
+ "state": "Idaho",
+ "LL": "5.25",
+ "JetA": "4.44",
+ }
+	},
+	{"type":"Feature","properties":
+	{
+"city": "Pittsburgh",
+ "icao": "KPIT",
+ "lat": 40.49150085,
+ "lon": -80.23290253,
+ "name": "Pittsburgh International Airport",
+ "state": "Pennsylvania",
+ "LL": "4.10",
+ "JetA": "2.03",
+ }
+	},
+	{"type":"Feature","properties":
+	{
+"city": "Parkersburg",
+ "icao": "KPKB",
+ "lat": 39.3451004028,
+ "lon": -81.439201355,
+ "name": "Mid Ohio Valley Regional Airport",
+ "state": "West-Virginia",
+ "LL": "4.90",
+ "JetA": "3.50",
+ }
+	},
+	{"type":"Feature","properties":
+	{
+"city": "Pompano Beach",
+ "icao": "KPMP",
+ "lat": 26.2471008301,
+ "lon": -80.1110992432,
+ "name": "Pompano Beach Airpark",
+ "state": "Florida",
+ "LL": "3.89",
+ "JetA": "3.49",
+ }
+	},
+	{"type":"Feature","properties":
+	{
+"city": "Philadelphia",
+ "icao": "KPNE",
+ "lat": 40.08190155,
+ "lon": -75.01059723,
+ "name": "Northeast Philadelphia Airport",
+ "state": "Pennsylvania",
+ "LL": "6.55",
+ "JetA": "5.37",
+ }
+	},
+	{"type":"Feature","properties":
+	{
+"city": "Pensacola",
+ "icao": "KPNS",
+ "lat": 30.473400116,
+ "lon": -87.1865997314,
+ "name": "Pensacola Regional Airport",
+ "state": "Florida",
+ "LL": "4.25",
+ "JetA": "3.95",
+ }
+	},
+	{"type":"Feature","properties":
+	{
+"city": "La Verne",
+ "icao": "KPOC",
+ "lat": 34.0915985107,
+ "lon": -117.7819976807,
+ "name": "Brackett Field",
+ "state": "Minnesota",
+ "LL": "5.59",
+ "JetA": "4.49",
+ }
+	},
+	{"type":"Feature","properties":
+	{
+"city": "Poughkeepsie",
+ "icao": "KPOU",
+ "lat": 41.6265983582,
+ "lon": -73.8842010498,
+ "name": "Dutchess County Airport",
+ "state": "New-York",
+ "LL": "4.90",
+ "JetA": "4.62",
+ }
+	},
+	{"type":"Feature","properties":
+	{
+"city": "Prescott",
+ "icao": "KPRC",
+ "lat": 34.65449905,
+ "lon": -112.4199982,
+ "name": "Ernest A. Love Field",
+ "state": "Arizona",
+ "LL": "4.58",
+ "JetA": "4.88",
+ }
+	},
+	{"type":"Feature","properties":
+	{
+"city": "Pasco",
+ "icao": "KPSC",
+ "lat": 46.2647018433,
+ "lon": -119.1190032959,
+ "name": "Tri Cities Airport",
+ "state": "Washington",
+ "LL": "5.97",
+ "JetA": "3.23",
+ }
+	},
+	{"type":"Feature","properties":
+	{
+"city": "Palm Springs",
+ "icao": "KPSP",
+ "lat": 33.82970047,
+ "lon": -116.5070037842,
+ "name": "Palm Springs International Airport",
+ "state": "California",
+ "LL": "5.80",
+ "JetA": "5.27",
+ }
+	},
+	{"type":"Feature","properties":
+	{
+"city": "Pontiac",
+ "icao": "KPTK",
+ "lat": 42.6655006409,
+ "lon": -83.4200973511,
+ "name": "Oakland County International Airport",
+ "state": "Michigan",
+ "LL": "3.10",
+ "JetA": "1.50",
+ }
+	},
+	{"type":"Feature","properties":
+	{
+"city": "Pueblo",
+ "icao": "KPUB",
+ "lat": 38.289100647,
+ "lon": -104.4970016479,
+ "name": "Pueblo Memorial Airport",
+ "state": "Colorado",
+ "LL": "4.99",
+ "JetA": "3.79",
+ }
+	},
+	{"type":"Feature","properties":
+	{
+"city": "Providence",
+ "icao": "KPVD",
+ "lat": 41.7326011658,
+ "lon": -71.4204025269,
+ "name": "Theodore Francis Green State Airport",
+ "state": "Rhode-Island",
+ "LL": "7.32",
+ "JetA": "6.47",
+ }
+	},
+	{"type":"Feature","properties":
+	{
+"city": "Provo",
+ "icao": "KPVU",
+ "lat": 40.2192001343,
+ "lon": -111.7229995728,
+ "name": "Provo Municipal Airport",
+ "state": "Utah",
+ "LL": "5.45",
+ "JetA": "4.93",
+ }
+	},
+	{"type":"Feature","properties":
+	{
+"city": "Oklahoma City",
+ "icao": "KPWA",
+ "lat": 35.53419876,
+ "lon": -97.64710236,
+ "name": "Wiley Post Airport",
+ "state": "Oklahoma",
+ "LL": "4.69",
+ "JetA": "4.22",
+ }
+	},
+	{"type":"Feature","properties":
+	{
+"city": "Chicago/Prospect Heights/Wheeling",
+ "icao": "KPWK",
+ "lat": 42.114222,
+ "lon": -87.901494,
+ "name": "Chicago Executive Airport",
+ "state": "Illinois",
+ "LL": "4.80",
+ "JetA": "2.85",
+ }
+	},
+	{"type":"Feature","properties":
+	{
+"city": "Portland",
+ "icao": "KPWM",
+ "lat": 43.64619827,
+ "lon": -70.30930328,
+ "name": "Portland International Jetport Airport",
+ "state": "Maine",
+ "LL": "4.82",
+ "JetA": "3.47",
+ }
+	},
+	{"type":"Feature","properties":
+	{
+"city": "Riverside",
+ "icao": "KRAL",
+ "lat": 33.95190048,
+ "lon": -117.4449997,
+ "name": "Riverside Municipal Airport",
+ "state": "California",
+ "LL": "3.50",
+ "JetA": "3.00",
+ }
+	},
+	{"type":"Feature","properties":
+	{
+"city": "Rapid City",
+ "icao": "KRAP",
+ "lat": 44.04529953,
+ "lon": -103.0569992065,
+ "name": "Rapid City Regional Airport",
+ "state": "South-Dakota",
+ "LL": "3.98",
+ "JetA": "2.89",
+ }
+	},
+	{"type":"Feature","properties":
+	{
+"city": "Dallas",
+ "icao": "KRBD",
+ "lat": 32.6809005737,
+ "lon": -96.8682022095,
+ "name": "Dallas Executive Airport",
+ "state": "Texas",
+ "LL": "3.20",
+ "JetA": "3.00",
+ }
+	},
+	{"type":"Feature","properties":
+	{
+"city": "Redding",
+ "icao": "KRDD",
+ "lat": 40.50899887,
+ "lon": -122.2929993,
+ "name": "Redding Municipal Airport",
+ "state": "California",
+ "LL": "4.89",
+ "JetA": "4.29",
+ }
+	},
+	{"type":"Feature","properties":
+	{
+"city": "Reading",
+ "icao": "KRDG",
+ "lat": 40.3785018921,
+ "lon": -75.9652023315,
+ "name": "Reading Regional Carl A Spaatz Field",
+ "state": "Pennsylvania",
+ "LL": "4.89",
+ "JetA": "3.16",
+ }
+	},
+	{"type":"Feature","properties":
+	{
+"city": "Redmond",
+ "icao": "KRDM",
+ "lat": 44.2541008,
+ "lon": -121.1500015,
+ "name": "Roberts Field",
+ "state": "Indiana",
+ "LL": "4.51",
+ "JetA": "4.69",
+ }
+	},
+	{"type":"Feature","properties":
+	{
+"city": "Raleigh/Durham",
+ "icao": "KRDU",
+ "lat": 35.8776016235,
+ "lon": -78.7874984741,
+ "name": "Raleigh Durham International Airport",
+ "state": "North-Carolina",
+ "LL": "6.20",
+ "JetA": "5.81",
+ }
+	},
+	{"type":"Feature","properties":
+	{
+"city": "Chicago/Rockford",
+ "icao": "KRFD",
+ "lat": 42.195400238,
+ "lon": -89.0971984863,
+ "name": "Chicago Rockford International Airport",
+ "state": "Illinois",
+ "LL": "5.10",
+ "JetA": "4.80",
+ }
+	},
+	{"type":"Feature","properties":
+	{
+"city": "San Jose",
+ "icao": "KRHV",
+ "lat": 37.332901001,
+ "lon": -121.8190002441,
+ "name": "Reid Hillview of Santa Clara County Airport",
+ "state": "California",
+ "LL": "4.29",
+ "JetA": "3.39",
+ }
+	},
+	{"type":"Feature","properties":
+	{
+"city": "Richmond",
+ "icao": "KRIC",
+ "lat": 37.5051994324,
+ "lon": -77.3197021484,
+ "name": "Richmond International Airport",
+ "state": "Virginia",
+ "LL": "5.67",
+ "JetA": "3.53",
+ }
+	},
+	{"type":"Feature","properties":
+	{
+"city": "Rome",
+ "icao": "KRME",
+ "lat": 43.23379898,
+ "lon": -75.40699768,
+ "name": "Griffiss International Airport",
+ "state": "New-York",
+ "LL": "3.07",
+ "JetA": "3.78",
+ }
+	},
+	{"type":"Feature","properties":
+	{
+"city": "Ramona",
+ "icao": "KRNM",
+ "lat": 33.0391998291,
+ "lon": -116.9150009155,
+ "name": "Ramona Airport",
+ "state": "California",
+ "LL": "4.25",
+ "JetA": "3.50",
+ }
+	},
+	{"type":"Feature","properties":
+	{
+"city": "Reno",
+ "icao": "KRNO",
+ "lat": 39.4990997314,
+ "lon": -119.7679977417,
+ "name": "Reno Tahoe International Airport",
+ "state": "Nevada",
+ "LL": "3.95",
+ "JetA": "2.75",
+ }
+	},
+	{"type":"Feature","properties":
+	{
+"city": "Renton",
+ "icao": "KRNT",
+ "lat": 47.4930992126,
+ "lon": -122.216003418,
+ "name": "Renton Municipal Airport",
+ "state": "Washington",
+ "LL": "4.07",
+ "JetA": "3.82",
+ }
+	},
+	{"type":"Feature","properties":
+	{
+"city": "Roanoke",
+ "icao": "KROA",
+ "lat": 37.3255004883,
+ "lon": -79.975402832,
+ "name": "Roanoke Regional Woodrum Field",
+ "state": "Virginia",
+ "LL": "5.80",
+ "JetA": "5.36",
+ }
+	},
+	{"type":"Feature","properties":
+	{
+"city": "Rochester",
+ "icao": "KROC",
+ "lat": 43.1189002991,
+ "lon": -77.6724014282,
+ "name": "Greater Rochester International Airport",
+ "state": "New-York",
+ "LL": "5.15",
+ "JetA": "4.52",
+ }
+	},
+	{"type":"Feature","properties":
+	{
+"city": "Rogers",
+ "icao": "KROG",
+ "lat": 36.37229919,
+ "lon": -94.10690308,
+ "name": "Rogers Municipal Carter Field",
+ "state": "Arkansas",
+ "LL": "4.68",
+ "JetA": "4.38",
+ }
+	},
+	{"type":"Feature","properties":
+	{
+"city": "Roswell",
+ "icao": "KROW",
+ "lat": 33.3016014099,
+ "lon": -104.53099823,
+ "name": "Roswell International Air Center Airport",
+ "state": "New-Mexico",
+ "LL": "5.30",
+ "JetA": "6.25",
+ }
+	},
+	{"type":"Feature","properties":
+	{
+"city": "Rochester",
+ "icao": "KRST",
+ "lat": 43.9082984924,
+ "lon": -92.5,
+ "name": "Rochester International Airport",
+ "state": "Minnesota",
+ "LL": "4.93",
+ "JetA": "6.30",
+ }
+	},
+	{"type":"Feature","properties":
+	{
+"city": "Fort Myers",
+ "icao": "KRSW",
+ "lat": 26.5361995697,
+ "lon": -81.7552032471,
+ "name": "Southwest Florida International Airport",
+ "state": "Florida",
+ "LL": "5.53",
+ "JetA": "3.81",
+ }
+	},
+	{"type":"Feature","properties":
+	{
+"city": "Tulsa",
+ "icao": "KRVS",
+ "lat": 36.0396003723,
+ "lon": -95.9845962524,
+ "name": "Richard Lloyd Jones Jr Airport",
+ "state": "Oklahoma",
+ "LL": "4.35",
+ "JetA": "3.00",
+ }
+	},
+	{"type":"Feature","properties":
+	{
+"city": "Tucson",
+ "icao": "KRYN",
+ "lat": 32.14220047,
+ "lon": -111.1750030518,
+ "name": "Ryan Field",
+ "state": "Arizona",
+ "LL": "4.49",
+ "JetA": "3.90",
+ }
+	},
+	{"type":"Feature","properties":
+	{
+"city": "Atlanta",
+ "icao": "KRYY",
+ "lat": 34.01319885,
+ "lon": -84.59860229,
+ "name": "Cobb County-Mc Collum Field",
+ "state": "Georgia",
+ "LL": "5.42",
+ "JetA": "4.41",
+ }
+	},
+	{"type":"Feature","properties":
+	{
+"city": "Sacramento",
+ "icao": "KSAC",
+ "lat": 38.5125007629,
+ "lon": -121.4929962158,
+ "name": "Sacramento Executive Airport",
+ "state": "California",
+ "LL": "3.73",
+ "JetA": "4.39",
+ }
+	},
+	{"type":"Feature","properties":
+	{
+"city": "Santa Fe",
+ "icao": "KSAF",
+ "lat": 35.617099762,
+ "lon": -106.088996887,
+ "name": "Santa Fe Municipal Airport",
+ "state": "New-Mexico",
+ "LL": "4.49",
+ "JetA": "3.99",
+ }
+	},
+	{"type":"Feature","properties":
+	{
+"city": "San Diego",
+ "icao": "KSAN",
+ "lat": 32.7336006165,
+ "lon": -117.1900024414,
+ "name": "San Diego International Airport",
+ "state": "California",
+ "LL": "4.69",
+ "JetA": "3.99",
+ }
+	},
+	{"type":"Feature","properties":
+	{
+"city": "San Antonio",
+ "icao": "KSAT",
+ "lat": 29.533700943,
+ "lon": -98.4698028564,
+ "name": "San Antonio International Airport",
+ "state": "Texas",
+ "LL": "6.95",
+ "JetA": "5.59",
+ }
+	},
+	{"type":"Feature","properties":
+	{
+"city": "Savannah",
+ "icao": "KSAV",
+ "lat": 32.12760162,
+ "lon": -81.20210266,
+ "name": "Savannah Hilton Head International Airport",
+ "state": "Georgia",
+ "LL": "6.97",
+ "JetA": "4.96",
+ }
+	},
+	{"type":"Feature","properties":
+	{
+"city": "Marquette",
+ "icao": "KSAW",
+ "lat": 46.3535995483,
+ "lon": -87.395401001,
+ "name": "Sawyer International Airport",
+ "state": "Michigan",
+ "LL": "5.00",
+ "JetA": "4.58",
+ }
+	},
+	{"type":"Feature","properties":
+	{
+"city": "Santa Barbara",
+ "icao": "KSBA",
+ "lat": 34.42620087,
+ "lon": -119.8399963,
+ "name": "Santa Barbara Municipal Airport",
+ "state": "California",
+ "LL": "3.93",
+ "JetA": "5.66",
+ }
+	},
+	{"type":"Feature","properties":
+	{
+"city": "South Bend",
+ "icao": "KSBN",
+ "lat": 41.7086982727,
+ "lon": -86.3172988892,
+ "name": "South Bend Regional Airport",
+ "state": "Indiana",
+ "LL": "3.99",
+ "JetA": "3.95",
+ }
+	},
+	{"type":"Feature","properties":
+	{
+"city": "San Luis Obispo",
+ "icao": "KSBP",
+ "lat": 35.2368011475,
+ "lon": -120.641998291,
+ "name": "San Luis County Regional Airport",
+ "state": "California",
+ "LL": "3.87",
+ "JetA": "3.66",
+ }
+	},
+	{"type":"Feature","properties":
+	{
+"city": "Salisbury",
+ "icao": "KSBY",
+ "lat": 38.3404998779,
+ "lon": -75.5102996826,
+ "name": "Salisbury Ocean City Wicomico Regional Airport",
+ "state": "Maryland",
+ "LL": "5.18",
+ "JetA": "3.48",
+ }
+	},
+	{"type":"Feature","properties":
+	{
+"city": "Stockton",
+ "icao": "KSCK",
+ "lat": 37.8941993713,
+ "lon": -121.2379989624,
+ "name": "Stockton Metropolitan Airport",
+ "state": "California",
+ "LL": "5.52",
+ "JetA": "5.08",
+ }
+	},
+	{"type":"Feature","properties":
+	{
+"city": "Louisville",
+ "icao": "KSDF",
+ "lat": 38.1744003296,
+ "lon": -85.736000061,
+ "name": "Louisville International Standiford Field",
+ "state": "Kentucky",
+ "LL": "5.20",
+ "JetA": "4.75",
+ }
+	},
+	{"type":"Feature","properties":
+	{
+"city": "Scottsdale",
+ "icao": "KSDL",
+ "lat": 33.6228981018,
+ "lon": -111.9110031128,
+ "name": "Scottsdale Airport",
+ "state": "Arizona",
+ "LL": "5.13",
+ "JetA": "4.50",
+ }
+	},
+	{"type":"Feature","properties":
+	{
+"city": "San Diego",
+ "icao": "KSDM",
+ "lat": 32.5722999573,
+ "lon": -116.9800033569,
+ "name": "Brown Field Municipal Airport",
+ "state": "California",
+ "LL": "3.35",
+ "JetA": "2.99",
+ }
+	},
+	{"type":"Feature","properties":
+	{
+"city": "San Diego/El Cajon",
+ "icao": "KSEE",
+ "lat": 32.8261985779,
+ "lon": -116.9720001221,
+ "name": "Gillespie Field",
+ "state": "California",
+ "LL": "4.45",
+ "JetA": "3.49",
+ }
+	},
+	{"type":"Feature","properties":
+	{
+"city": "Orlando",
+ "icao": "KSFB",
+ "lat": 28.7775993347,
+ "lon": -81.2375030518,
+ "name": "Orlando Sanford International Airport",
+ "state": "Florida",
+ "LL": "4.72",
+ "JetA": "4.43",
+ }
+	},
+	{"type":"Feature","properties":
+	{
+"city": "Spokane",
+ "icao": "KSFF",
+ "lat": 47.682800293,
+ "lon": -117.3229980469,
+ "name": "Felts Field",
+ "state": "Oregon",
+ "LL": "4.22",
+ "JetA": "3.88",
+ }
+	},
+	{"type":"Feature","properties":
+	{
+"city": "San Francisco",
+ "icao": "KSFO",
+ "lat": 37.6189994812,
+ "lon": -122.375,
+ "name": "San Francisco International Airport",
+ "state": "California",
+ "LL": "6.49",
+ "JetA": "4.33",
+ }
+	},
+	{"type":"Feature","properties":
+	{
+"city": "Springfield",
+ "icao": "KSGF",
+ "lat": 37.24570084,
+ "lon": -93.38860321,
+ "name": "Springfield Branson National Airport",
+ "state": "Missouri",
+ "LL": "3.88",
+ "JetA": "3.81",
+ }
+	},
+	{"type":"Feature","properties":
+	{
+"city": "St Augustine",
+ "icao": "KSGJ",
+ "lat": 29.9591999054,
+ "lon": -81.3397979736,
+ "name": "St Augustine Airport",
+ "state": "Florida",
+ "LL": "4.22",
+ "JetA": "2.42",
+ }
+	},
+	{"type":"Feature","properties":
+	{
+"city": "Houston",
+ "icao": "KSGR",
+ "lat": 29.6222991943,
+ "lon": -95.65650177,
+ "name": "Sugar Land Regional Airport",
+ "state": "Texas",
+ "LL": "3.23",
+ "JetA": "3.60",
+ }
+	},
+	{"type":"Feature","properties":
+	{
+"city": "Shreveport",
+ "icao": "KSHV",
+ "lat": 32.4466018677,
+ "lon": -93.8255996704,
+ "name": "Shreveport Regional Airport",
+ "state": "Louisiana",
+ "LL": "6.11",
+ "JetA": "4.88",
+ }
+	},
+	{"type":"Feature","properties":
+	{
+"city": "San Jose",
+ "icao": "KSJC",
+ "lat": 37.3625984192,
+ "lon": -121.9290008545,
+ "name": "Norman Y. Mineta San Jose International Airport",
+ "state": "California",
+ "LL": "5.77",
+ "JetA": "6.50",
+ }
+	},
+	{"type":"Feature","properties":
+	{
+"city": "San Angelo",
+ "icao": "KSJT",
+ "lat": 31.3577003479,
+ "lon": -100.4960021973,
+ "name": "San Angelo Regional Mathis Field",
+ "state": "Texas",
+ "LL": "4.39",
+ "JetA": "3.41",
+ }
+	},
+	{"type":"Feature","properties":
+	{
+"city": "Salt Lake City",
+ "icao": "KSLC",
+ "lat": 40.7883987427,
+ "lon": -111.9779968262,
+ "name": "Salt Lake City International Airport",
+ "state": "Utah",
+ "LL": "3.95",
+ "JetA": "3.30",
+ }
+	},
+	{"type":"Feature","properties":
+	{
+"city": "Salem",
+ "icao": "KSLE",
+ "lat": 44.90950012,
+ "lon": -123.0029984,
+ "name": "McNary Field",
+ "state": "Oregon",
+ "LL": "4.75",
+ "JetA": "4.50",
+ }
+	},
+	{"type":"Feature","properties":
+	{
+"city": "Salina",
+ "icao": "KSLN",
+ "lat": 38.7910003662,
+ "lon": -97.6521987915,
+ "name": "Salina Municipal Airport",
+ "state": "Kansas",
+ "LL": "4.75",
+ "JetA": "3.20",
+ }
+	},
+	{"type":"Feature","properties":
+	{
+"city": "Sacramento",
+ "icao": "KSMF",
+ "lat": 38.695400238,
+ "lon": -121.591003418,
+ "name": "Sacramento International Airport",
+ "state": "California",
+ "LL": "3.73",
+ "JetA": "4.39",
+ }
+	},
+	{"type":"Feature","properties":
+	{
+"city": "Santa Monica",
+ "icao": "KSMO",
+ "lat": 34.0158004761,
+ "lon": -118.4509963989,
+ "name": "Santa Monica Municipal Airport",
+ "state": "California",
+ "LL": "5.14",
+ "JetA": "4.86",
+ }
+	},
+	{"type":"Feature","properties":
+	{
+"city": "Santa Maria",
+ "icao": "KSMX",
+ "lat": 34.89889908,
+ "lon": -120.4570007,
+ "name": "Santa Maria Pub/Capt G Allan Hancock Field",
+ "state": "California",
+ "LL": "4.12",
+ "JetA": "4.06",
+ }
+	},
+	{"type":"Feature","properties":
+	{
+"city": "Santa Ana",
+ "icao": "KSNA",
+ "lat": 33.67570114,
+ "lon": -117.8679962,
+ "name": "John Wayne Airport-Orange County Airport",
+ "state": "California",
+ "LL": "4.45",
+ "JetA": "3.23",
+ }
+	},
+	{"type":"Feature","properties":
+	{
+"city": "Salinas",
+ "icao": "KSNS",
+ "lat": 36.6627998352,
+ "lon": -121.6060028076,
+ "name": "Salinas Municipal Airport",
+ "state": "California",
+ "LL": "3.99",
+ "JetA": "3.88",
+ }
+	},
+	{"type":"Feature","properties":
+	{
+"city": "St Petersburg",
+ "icao": "KSPG",
+ "lat": 27.7651004791,
+ "lon": -82.6269989014,
+ "name": "Albert Whitted Airport",
+ "state": "Florida",
+ "LL": "3.99",
+ "JetA": "4.32",
+ }
+	},
+	{"type":"Feature","properties":
+	{
+"city": "Springfield",
+ "icao": "KSPI",
+ "lat": 39.84410095,
+ "lon": -89.67790221999999,
+ "name": "Abraham Lincoln Capital Airport",
+ "state": "Illinois",
+ "LL": "5.75",
+ "JetA": "5.12",
+ }
+	},
+	{"type":"Feature","properties":
+	{
+"city": "San Carlos",
+ "icao": "KSQL",
+ "lat": 37.5119018555,
+ "lon": -122.25,
+ "name": "San Carlos Airport",
+ "state": "Arizona",
+ "LL": "3.95",
+ "JetA": "2.95",
+ }
+	},
+	{"type":"Feature","properties":
+	{
+"city": "Sarasota/Bradenton",
+ "icao": "KSRQ",
+ "lat": 27.3953990936,
+ "lon": -82.554397583,
+ "name": "Sarasota Bradenton International Airport",
+ "state": "Florida",
+ "LL": "5.92",
+ "JetA": "5.60",
+ }
+	},
+	{"type":"Feature","properties":
+	{
+"city": "San Antonio",
+ "icao": "KSSF",
+ "lat": 29.3369998932,
+ "lon": -98.4710998535,
+ "name": "Stinson Municipal Airport",
+ "state": "Texas",
+ "LL": "5.19",
+ "JetA": "4.25",
+ }
+	},
+	{"type":"Feature","properties":
+	{
+"city": "St Cloud",
+ "icao": "KSTC",
+ "lat": 45.5466003418,
+ "lon": -94.0598983765,
+ "name": "St Cloud Regional Airport",
+ "state": "Minnesota",
+ "LL": "5.19",
+ "JetA": "4.99",
+ }
+	},
+	{"type":"Feature","properties":
+	{
+"city": "St Joseph",
+ "icao": "KSTJ",
+ "lat": 39.771900177,
+ "lon": -94.9096984863,
+ "name": "Rosecrans Memorial Airport",
+ "state": "Missouri",
+ "LL": "4.99",
+ "JetA": "4.68",
+ }
+	},
+	{"type":"Feature","properties":
+	{
+"city": "St Louis",
+ "icao": "KSTL",
+ "lat": 38.7486991882,
+ "lon": -90.3700027466,
+ "name": "Lambert St Louis International Airport",
+ "state": "Missouri",
+ "LL": "5.85",
+ "JetA": "5.67",
+ }
+	},
+	{"type":"Feature","properties":
+	{
+"city": "St Paul",
+ "icao": "KSTP",
+ "lat": 44.9345016479,
+ "lon": -93.0599975586,
+ "name": "St Paul Downtown Holman Field",
+ "state": "Minnesota",
+ "LL": "5.55",
+ "JetA": "5.70",
+ }
+	},
+	{"type":"Feature","properties":
+	{
+"city": "Santa Rosa",
+ "icao": "KSTS",
+ "lat": 38.50899887,
+ "lon": -122.8130035,
+ "name": "Charles M. Schulz Sonoma County Airport",
+ "state": "California",
+ "LL": "4.64",
+ "JetA": "3.93",
+ }
+	},
+	{"type":"Feature","properties":
+	{
+"city": "Stuart",
+ "icao": "KSUA",
+ "lat": 27.18169975,
+ "lon": -80.22109985,
+ "name": "Witham Field",
+ "state": "Florida",
+ "LL": "4.86",
+ "JetA": "4.18",
+ }
+	},
+	{"type":"Feature","properties":
+	{
+"city": "Hailey",
+ "icao": "KSUN",
+ "lat": 43.50439835,
+ "lon": -114.2959976,
+ "name": "Friedman Memorial Airport",
+ "state": "Idaho",
+ "LL": "4.30",
+ "JetA": "4.20",
+ }
+	},
+	{"type":"Feature","properties":
+	{
+"city": "St Louis",
+ "icao": "KSUS",
+ "lat": 38.6621017456,
+ "lon": -90.6520004272,
+ "name": "Spirit of St Louis Airport",
+ "state": "Missouri",
+ "LL": "3.65",
+ "JetA": "3.59",
+ }
+	},
+	{"type":"Feature","properties":
+	{
+"city": "Sioux City",
+ "icao": "KSUX",
+ "lat": 42.40259933,
+ "lon": -96.38439941,
+ "name": "Sioux Gateway Col. Bud Day Field",
+ "state": "Iowa",
+ "LL": "5.79",
+ "JetA": "5.19",
+ }
+	},
+	{"type":"Feature","properties":
+	{
+"city": "Newburgh",
+ "icao": "KSWF",
+ "lat": 41.5041007996,
+ "lon": -74.1047973633,
+ "name": "Stewart International Airport",
+ "state": "New-York",
+ "LL": "6.99",
+ "JetA": "5.32",
+ }
+	},
+	{"type":"Feature","properties":
+	{
+"city": "Stillwater",
+ "icao": "KSWO",
+ "lat": 36.1612014771,
+ "lon": -97.0857009888,
+ "name": "Stillwater Regional Airport",
+ "state": "Oklahoma",
+ "LL": "3.49",
+ "JetA": "2.99",
+ }
+	},
+	{"type":"Feature","properties":
+	{
+"city": "Syracuse",
+ "icao": "KSYR",
+ "lat": 43.1111984253,
+ "lon": -76.106300354,
+ "name": "Syracuse Hancock International Airport",
+ "state": "New-York",
+ "LL": "4.88",
+ "JetA": "4.48",
+ }
+	},
+	{"type":"Feature","properties":
+	{
+"city": "Teterboro",
+ "icao": "KTEB",
+ "lat": 40.8501014709,
+ "lon": -74.060798645,
+ "name": "Teterboro Airport",
+ "state": "New-Jersey",
+ "LL": "5.70",
+ "JetA": "3.89",
+ }
+	},
+	{"type":"Feature","properties":
+	{
+"city": "Tacoma",
+ "icao": "KTIW",
+ "lat": 47.26789856,
+ "lon": -122.5780029,
+ "name": "Tacoma Narrows Airport",
+ "state": "Washington",
+ "LL": "4.49",
+ "JetA": "2.92",
+ }
+	},
+	{"type":"Feature","properties":
+	{
+"city": "Titusville",
+ "icao": "KTIX",
+ "lat": 28.514799118,
+ "lon": -80.7992019653,
+ "name": "Space Coast Regional Airport",
+ "state": "Florida",
+ "LL": "3.75",
+ "JetA": "4.20",
+ }
+	},
+	{"type":"Feature","properties":
+	{
+"city": "Dallas",
+ "icao": "KTKI",
+ "lat": 33.17789841,
+ "lon": -96.59049988,
+ "name": "Collin County Regional At Mc Kinney Airport",
+ "state": "Texas",
+ "LL": "4.89",
+ "JetA": "3.89",
+ }
+	},
+	{"type":"Feature","properties":
+	{
+"city": "Tallahassee",
+ "icao": "KTLH",
+ "lat": 30.3964996338,
+ "lon": -84.3503036499,
+ "name": "Tallahassee Regional Airport",
+ "state": "Florida",
+ "LL": "4.44",
+ "JetA": "5.39",
+ }
+	},
+	{"type":"Feature","properties":
+	{
+"city": "Miami",
+ "icao": "KTMB",
+ "lat": 25.6475637,
+ "lon": -80.4332246,
+ "name": "Miami Executive Airport",
+ "state": "Miami",
+ "LL": "4.75",
+ "JetA": "4.24",
+ }
+	},
+	{"type":"Feature","properties":
+	{
+"city": "Toledo",
+ "icao": "KTOL",
+ "lat": 41.58679962,
+ "lon": -83.80780029,
+ "name": "Toledo Express Airport",
+ "state": "Ohio",
+ "LL": "4.93",
+ "JetA": "4.14",
+ }
+	},
+	{"type":"Feature","properties":
+	{
+"city": "Topeka",
+ "icao": "KTOP",
+ "lat": 39.0686988831,
+ "lon": -95.6224975586,
+ "name": "Philip Billard Municipal Airport",
+ "state": "Kansas",
+ "LL": "3.98",
+ "JetA": "3.19",
+ }
+	},
+	{"type":"Feature","properties":
+	{
+"city": "Tampa",
+ "icao": "KTPA",
+ "lat": 27.9755001068,
+ "lon": -82.533203125,
+ "name": "Tampa International Airport",
+ "state": "Florida",
+ "LL": "5.28",
+ "JetA": "5.20",
+ }
+	},
+	{"type":"Feature","properties":
+	{
+"city": "Bristol/Johnson/Kingsport",
+ "icao": "KTRI",
+ "lat": 36.4752006531,
+ "lon": -82.4074020386,
+ "name": "Tri Cities Regional Tn Va Airport",
+ "state": "Tennessee",
+ "LL": "5.54",
+ "JetA": "6.06",
+ }
+	},
+	{"type":"Feature","properties":
+	{
+"city": "Portland",
+ "icao": "KTTD",
+ "lat": 45.5494003296,
+ "lon": -122.4010009766,
+ "name": "Portland Troutdale Airport",
+ "state": "Oregon",
+ "LL": "3.95",
+ "JetA": "4.05",
+ }
+	},
+	{"type":"Feature","properties":
+	{
+"city": "Trenton",
+ "icao": "KTTN",
+ "lat": 40.2766990662,
+ "lon": -74.8134994507,
+ "name": "Trenton Mercer Airport",
+ "state": "New-Jersey",
+ "LL": "5.24",
+ "JetA": "5.52",
+ }
+	},
+	{"type":"Feature","properties":
+	{
+"city": "Tulsa",
+ "icao": "KTUL",
+ "lat": 36.1983985901,
+ "lon": -95.8880996704,
+ "name": "Tulsa International Airport",
+ "state": "Oklahoma",
+ "LL": "4.38",
+ "JetA": "2.70",
+ }
+	},
+	{"type":"Feature","properties":
+	{
+"city": "Tupelo",
+ "icao": "KTUP",
+ "lat": 34.2681007385,
+ "lon": -88.7698974609,
+ "name": "Tupelo Regional Airport",
+ "state": "Mississippi",
+ "LL": "3.85",
+ "JetA": "4.10",
+ }
+	},
+	{"type":"Feature","properties":
+	{
+"city": "Tucson",
+ "icao": "KTUS",
+ "lat": 32.1161003113,
+ "lon": -110.9410018921,
+ "name": "Tucson International Airport",
+ "state": "Arizona",
+ "LL": "4.99",
+ "JetA": "3.90",
+ }
+	},
+	{"type":"Feature","properties":
+	{
+"city": "Traverse City",
+ "icao": "KTVC",
+ "lat": 44.7414016724,
+ "lon": -85.5821990967,
+ "name": "Cherry Capital Airport",
+ "state": "Michigan",
+ "LL": "5.15",
+ "JetA": "6.45",
+ }
+	},
+	{"type":"Feature","properties":
+	{
+"city": "Twin Falls",
+ "icao": "KTWF",
+ "lat": 42.48180008,
+ "lon": -114.487999,
+ "name": "Joslin Field Magic Valley Regional Airport",
+ "state": "Idaho",
+ "LL": "4.30",
+ "JetA": "4.18",
+ }
+	},
+	{"type":"Feature","properties":
+	{
+"city": "Texarkana",
+ "icao": "KTXK",
+ "lat": 33.4537010193,
+ "lon": -93.9909973145,
+ "name": "Texarkana Regional Webb Field",
+ "state": "Arkansas",
+ "LL": "4.98",
+ "JetA": "4.99",
+ }
+	},
+	{"type":"Feature","properties":
+	{
+"city": "Tyler",
+ "icao": "KTYR",
+ "lat": 32.3540992737,
+ "lon": -95.4023971558,
+ "name": "Tyler Pounds Regional Airport",
+ "state": "Texas",
+ "LL": "4.28",
+ "JetA": "2.95",
+ }
+	},
+	{"type":"Feature","properties":
+	{
+"city": "Knoxville",
+ "icao": "KTYS",
+ "lat": 35.81100082,
+ "lon": -83.9940033,
+ "name": "McGhee Tyson Airport",
+ "state": "Tennessee",
+ "LL": "5.72",
+ "JetA": "5.18",
+ }
+	},
+	{"type":"Feature","properties":
+	{
+"city": "Columbus",
+ "icao": "KTZR",
+ "lat": 39.9011993408,
+ "lon": -83.1369018555,
+ "name": "Bolton Field",
+ "state": "Ohio",
+ "LL": "3.98",
+ "JetA": "3.27",
+ }
+	},
+	{"type":"Feature","properties":
+	{
+"city": "Aurora",
+ "icao": "KUAO",
+ "lat": 45.2471008301,
+ "lon": -122.7699966431,
+ "name": "Aurora State Airport",
+ "state": "Oregon",
+ "LL": "5.29",
+ "JetA": "4.54",
+ }
+	},
+	{"type":"Feature","properties":
+	{
+"city": "Waukesha",
+ "icao": "KUES",
+ "lat": 43.0410003662,
+ "lon": -88.2370986938,
+ "name": "Waukesha County Airport",
+ "state": "Wisconsin",
+ "LL": "4.75",
+ "JetA": "3.90",
+ }
+	},
+	{"type":"Feature","properties":
+	{
+"city": "Chicago/Waukegan",
+ "icao": "KUGN",
+ "lat": 42.4221992493,
+ "lon": -87.8678970337,
+ "name": "Waukegan Regional Airport",
+ "state": "Illinois",
+ "LL": "4.75",
+ "JetA": "5.19",
+ }
+	},
+	{"type":"Feature","properties":
+	{
+"city": "State College",
+ "icao": "KUNV",
+ "lat": 40.8493003845,
+ "lon": -77.8487014771,
+ "name": "University Park Airport",
+ "state": "Pennsylvania",
+ "LL": "4.35",
+ "JetA": "4.99",
+ }
+	},
+	{"type":"Feature","properties":
+	{
+"city": "Victoria",
+ "icao": "KVCT",
+ "lat": 28.8526000977,
+ "lon": -96.9185028076,
+ "name": "Victoria Regional Airport",
+ "state": "Texas",
+ "LL": "4.04",
+ "JetA": "3.50",
+ }
+	},
+	{"type":"Feature","properties":
+	{
+"city": "Victorville",
+ "icao": "KVCV",
+ "lat": 34.5974998474,
+ "lon": -117.3830032349,
+ "name": "Southern California Logistics Airport",
+ "state": "California",
+ "LL": "5.08",
+ "JetA": "4.01",
+ }
+	},
+	{"type":"Feature","properties":
+	{
+"city": "Las Vegas",
+ "icao": "KVGT",
+ "lat": 36.2107009888,
+ "lon": -115.1940002441,
+ "name": "North Las Vegas Airport",
+ "state": "Nevada",
+ "LL": "3.75",
+ "JetA": "3.84",
+ }
+	},
+	{"type":"Feature","properties":
+	{
+"city": "Van Nuys",
+ "icao": "KVNY",
+ "lat": 34.2098007202,
+ "lon": -118.4899978638,
+ "name": "Van Nuys Airport",
+ "state": "California",
+ "LL": "5.11",
+ "JetA": "4.42",
+ }
+	},
+	{"type":"Feature","properties":
+	{
+"city": "Jacksonville",
+ "icao": "KVQQ",
+ "lat": 30.2187004089,
+ "lon": -81.876701355,
+ "name": "Cecil Field",
+ "state": "Florida",
+ "LL": "4.22",
+ "JetA": "2.42",
+ }
+	},
+	{"type":"Feature","properties":
+	{
+"city": "Vero Beach",
+ "icao": "KVRB",
+ "lat": 27.6555995941,
+ "lon": -80.4179000854,
+ "name": "Vero Beach Municipal Airport",
+ "state": "Florida",
+ "LL": "3.75",
+ "JetA": "3.01",
+ }
+	},
+	{"type":"Feature","properties":
+	{
+"city": "Enid",
+ "icao": "KWDG",
+ "lat": 36.3791999817,
+ "lon": -97.7910995483,
+ "name": "Enid Woodring Regional Airport",
+ "state": "Oklahoma",
+ "LL": "3.00",
+ "JetA": "2.79",
+ }
+	},
+	{"type":"Feature","properties":
+	{
+"city": "Los Angeles",
+ "icao": "KWHP",
+ "lat": 34.2593002319,
+ "lon": -118.4130020142,
+ "name": "Whiteman Airport",
+ "state": "California",
+ "LL": "3.99",
+ "JetA": "3.89",
+ }
+	},
+	{"type":"Feature","properties":
+	{
+"city": "Lancaster",
+ "icao": "KWJF",
+ "lat": 34.74110031,
+ "lon": -118.2190018,
+ "name": "General WM J Fox Airfield",
+ "state": "California",
+ "LL": "5.29",
+ "JetA": "4.49",
+ }
+	},
+	{"type":"Feature","properties":
+	{
+"city": "Fayetteville/Springdale/",
+ "icao": "KXNA",
+ "lat": 36.2818984985,
+ "lon": -94.3068008423,
+ "name": "Northwest Arkansas Regional Airport",
+ "state": "Arkansas",
+ "LL": "4.68",
+ "JetA": "3.25",
+ }
+	},
+	{"type":"Feature","properties":
+	{
+"city": "Detroit",
+ "icao": "KYIP",
+ "lat": 42.23789978,
+ "lon": -83.53040314,
+ "name": "Willow Run Airport",
+ "state": "Michigan",
+ "LL": "5.00",
+ "JetA": "4.45",
+ }
+	},
+	{"type":"Feature","properties":
+	{
+"city": "Yakima",
+ "icao": "KYKM",
+ "lat": 46.56819916,
+ "lon": -120.5439987,
+ "name": "Yakima Air Terminal McAllister Field",
+ "state": "Washington",
+ "LL": "5.66",
+ "JetA": "3.93",
+ }
+	},
+	{"type":"Feature","properties":
+	{
+"city": "Youngstown/Warren",
+ "icao": "KYNG",
+ "lat": 41.26070023,
+ "lon": -80.67910004,
+ "name": "Youngstown Warren Regional Airport",
+ "state": "Ohio",
+ "LL": "5.74",
+ "JetA": "4.88",
+ }
+	}
+]});

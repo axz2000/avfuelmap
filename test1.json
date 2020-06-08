@@ -1,0 +1,50 @@
+eqfeed_callback({"type":"FeatureCollection", "features":[
+	{"type":"Feature","properties":
+	{
+"city": "Broadus",
+ "icao": "K00F",
+ "lat": 45.47249985,
+ "lon": -105.4540024,
+ "name": "Broadus Airport",
+ "state": "Montana",
+ "LL": "4.50",
+ "JetA": "3.77",
+ }
+	},
+	{"type":"Feature","properties":
+	{
+"city": "Belmont",
+ "icao": "K01M",
+ "lat": 34.4916992188,
+ "lon": -88.2011032104,
+ "name": "Tishomingo County Airport",
+ "state": "Mississippi",
+ "LL": "4.25",
+ "JetA": "3.00",
+ }
+	},
+	{"type":"Feature","properties":
+	{
+"city": "Clanton",
+ "icao": "K02A",
+ "lat": 32.8504981995,
+ "lon": -86.6113967896,
+ "name": "Gragg-Wade Field",
+ "state": "Alabama",
+ "LL": "4.45",
+ "JetA": "3.45",
+ }
+	},
+	{"type":"Feature","properties":
+	{
+"city": "Eureka",
+ "icao": "K05U",
+ "lat": 39.6041984558,
+ "lon": -116.0049972534,
+ "name": "Eureka Airport",
+ "state": "Nevada",
+ "LL": "5.11",
+ "JetA": "4.31",
+ }
+	}
+]});

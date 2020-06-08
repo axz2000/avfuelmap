@@ -1,0 +1,34 @@
+eqfeed_callback({"type":"FeatureCollection", "features":[
+	{"type":"Feature","properties":
+	{
+        "icao": "00AK",
+        "iata": "",
+        "name": "Lowell Field",
+        "city": "Anchor Point",
+        "state": "Alaska", 
+        "country": "US",
+        "elevation": 450,
+        "lat": 59.94919968,
+        "lon": -151.695999146,
+        "tz": "America\/Anchorage",
+        "LL": "5.50",
+        "JetA" : "6.25"
+    }
+	},
+	{"type":"Feature","properties":
+	{
+        "icao": "00AL",
+        "iata": "",
+        "name": "Epps Airpark",
+        "city": "Harvest",
+        "state": "Alabama",
+        "country": "US",
+        "elevation": 820,
+        "lat": 34.8647994995,
+        "lon": -86.7703018188,
+        "tz": "America\/Chicago",
+        "LL": "5.50",
+        "JetA" : "6.25"
+    }
+	}
+]});

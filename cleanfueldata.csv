@@ -1,0 +1,1906 @@
+,city,icao,lat,lon,name,state,LL,JA
+0,Broadus,K00F,45.47249985,-105.4540024,Broadus Airport,Montana,4.50,3.77
+1,Belmont,K01M,34.4916992188,-88.2011032104,Tishomingo County Airport,Mississippi,4.25,3.00
+2,Clanton,K02A,32.8504981995,-86.6113967896,Gragg-Wade Field,Alabama,4.45,3.45
+3,Eureka,K05U,39.6041984558,-116.0049972534,Eureka Airport,Nevada,5.11,4.31
+4,Chicago/Schaumburg,K06C,41.9892997742,-88.1011962891,Schaumburg Regional Airport,Illinois,5.47,5.69
+5,Stanley,K08D,48.3008003235,-102.40599823,Stanley Municipal Airport,North-Dakota,3.45,3.00
+6,Smithville,K0A3,35.9852981567,-85.8093032837,Smithville Municipal Airport,Tennessee,3.55,N/A
+7,Elizabethton,K0A9,36.3712005615,-82.1733016968,Elizabethton Municipal Airport,Tennessee,4.49,3.79
+8,Gettysburg,K0D8,44.98669815,-99.95279694,Gettysburg Municipal Airport,South-Dakota,4.10,3.75
+9,Bowie,K0F2,33.6016998291,-97.7755966187,Bowie Municipal Airport,Texas,3.65,3.02
+10,Bryan,K0G6,41.4673995972,-84.5065994263,Williams County Airport,Ohio,4.50,3.15
+11,Seneca Falls,K0G7,42.8835983276,-76.7810974121,Finger Lakes Regional Airport,New-York,4.39,4.50
+12,Florala,K0J4,31.0424995422,-86.3115997314,Florala Municipal Airport,Alabama,5.85,5.35
+13,Headland,K0J6,31.36429977,-85.3117981,Headland Municipal Airport,Alabama,4.35,2.75
+14,Jean,K0L7,35.7682991028,-115.3300018311,Jean Airport,Nevada,3.75,3.54
+15,Dumas,K0M0,33.8847999573,-91.5345001221,Billy Free Municipal Airport,Arkansas,3.45,3.60
+16,Camden,K0M4,36.011100769,-88.123298645,Benton County Airport,Tennessee,3.13,3.60
+17,Waverly,K0M5,36.1166000366,-87.7381973267,Humphreys County Airport,Tennessee,N/A,2.87
+18,Columbia,K0R0,31.297000885,-89.8127975464,Columbia-Marion County Airport,Mississippi,3.50,3.25
+19,Millersburg,K10G,40.5372009277,-81.9543991089,Holmes County Airport,Ohio,5.40,4.20
+20,Brenham,K11R,30.21899986,-96.3742981,Brenham Municipal Airport,Texas,2.49,2.59
+21,Brewton,K12J,31.0506000519,-87.0655975342,Brewton Municipal Airport,Alabama,4.78,3.90
+22,Adel,K15J,31.1378002167,-83.4533004761,Cook County Airport,Georgia,4.00,4.00
+23,Tiffin,K16G,41.0941009521,-83.2125015259,Seneca County Airport,Ohio,3.84,3.17
+24,Canon,K18A,34.34009933,-83.13349915,Franklin County Airport,Georgia,3.99,3.49
+25,Berlin,K19N,39.77840042,-74.94779968,Camden County Airport,New-Jersey,5.50,6.00
+26,Middlesboro,K1A6,36.6105995178,-83.7373962402,Middlesboro-Bell County Airport,Kentucky,4.50,3.75
+27,Prattville,K1A9,32.4387016296,-86.5127029419,Prattville - Grouby Field,Alabama,3.20,2.74
+28,Dexter,K1B0,45.0041007996,-69.2369995117,Dexter Regional Airport,Maine,4.25,3.85
+29,Paxton,K1C1,40.4490013123,-88.1277008057,Paxton Airport,Illinois,3.75,3.16
+30,Bolingbrook,K1C5,41.6959991455,-88.1292037964,Bolingbrook's Clow International Airport,Illinois,3.81,3.65
+31,Ardmore,K1F0,34.1469722,-97.1226667,Ardmore Downtown Executive Airport,Oklahoma,2.80,2.30
+32,Bowling Green,K1G0,41.3909988403,-83.6300964355,Wood County Airport,Ohio,4.50,3.28
+33,Medina,K1G5,41.131401062,-81.7649002075,Medina Municipal Airport,Ohio,4.95,N/A
+34,Effingham,K1H2,39.070400238,-88.5335006714,Effingham County Memorial Airport,Illinois,4.92,3.83
+35,Bonifay,K1J0,30.8458003998,-85.6014022827,Tri-County Airport,Florida,3.74,3.60
+36,Benton,K1K1,37.7744444,-97.1132222,Lloyd Stearman Field Airport,Kansas,3.60,3.99
+37,Parowan,K1L9,37.8596992493,-112.8160018921,Parowan Airport,Utah,5.62,N/A
+38,Haleyville,K1M4,34.2803001404,-87.600402832,Posey Field,Alabama,4.63,4.81
+39,Portland,K1M5,36.5928001404,-86.4766998291,Portland Municipal Airport,Tennessee,3.80,3.70
+40,Lodi,K1O3,38.20240021,-121.2679977,Lodi Airport,California,4.49,4.49
+41,Bay Minette,K1R8,30.8703994751,-87.8192977905,Bay Minette Municipal Airport,Alabama,N/A,3.85
+42,Canon City,K1V6,38.4280014038,-105.1060028076,Fremont County Airport,Colorado,3.95,3.45
+43,Beach,K20U,46.925201416,-103.9820022583,Beach Airport,North-Dakota,4.50,4.00
+44,Kremmling,K20V,40.0536994934,-106.369003296,Mc Elroy Airfield,Colorado,3.94,3.30
+45,St Paul,K21D,44.99750137,-92.85569763,Lake Elmo Airport,Minnesota,N/A,1.99
+46,Lehighton,K22N,40.8095016479,-75.7614974976,Jake Arner Memorial Airport,Pennsylvania,4.49,3.09
+47,Ripley,K25M,34.7223014832,-89.0150985718,Ripley Airport,Mississippi,3.25,2.00
+48,Georgetown,K27K,38.2344017029,-84.4347000122,Georgetown Scott County - Marshall Field,Kentucky,3.25,2.40
+49,Palatka,K28J,29.65859985,-81.68890381,Palatka Municipal - Lt. Kay Larkin Field,Florida,2.78,2.64
+50,Grove City,K29D,41.1459999084,-80.1677017212,Grove City Airport,Pennsylvania,5.30,3.60
+51,Dayton,K2A0,35.4861984253,-84.931098938,Mark Anton Airport,Tennessee,4.42,3.75
+52,Pittsfield,K2B7,44.7685012817,-69.3743972778,Pittsfield Municipal Airport,Maine,4.27,3.96
+53,Cavalier,K2C8,48.7837982178,-97.6318969727,Cavalier Municipal Airport,North-Dakota,4.28,4.00
+54,Oakland,K2G4,39.5802993774,-79.3394012451,Garrett County Airport,Maryland,5.10,4.25
+55,Somerset,K2G9,40.03910065,-79.01460266,Somerset County Airport,Pennsylvania,4.00,3.00
+56,Madisonville,K2I0,37.3549995422,-87.399597168,Madisonville Municipal Airport,Kentucky,3.84,3.58
+57,Clewiston,K2IS,26.7420005798,-81.0497970581,Airglades Airport,Florida,3.31,2.50
+58,Louisville,K2J3,32.9864997864,-82.3856964111,Louisville Municipal Airport,Georgia,4.26,3.45
+59,Millen,K2J5,32.8936004639,-81.9654006958,Millen Airport,Georgia,3.99,3.49
+60,Pineville,K2L0,31.3460998535,-92.4436035156,Pineville Municipal Airport,Louisiana,4.52,3.50
+61,Millington,K2M8,35.2789993286,-89.9315032959,Charles W. Baker Airport,Tennessee,3.18,2.39
+62,Indianapolis,K2R2,39.74810028,-86.47380066,Hendricks County Gordon Graham Field,Indiana,4.00,3.50
+63,Milton,K2R4,30.6375999451,-86.9936981201,Peter Prince Field,Florida,4.10,3.95
+64,Kenedy,K2R9,28.8250007629,-97.8656005859,Karnes County Airport,Texas,3.99,3.24
+65,Indian Head,K2W5,38.6004981995,-77.0729980469,Maryland Airport,Maryland,5.30,5.20
+66,Munday,K37F,33.4847984314,-99.5861968994,Munday Municipal Airport,Texas,3.00,4.00
+67,Deer Lodge,K38S,46.38819885,-112.7659988,Deer Lodge City County Airport,Montana,4.15,3.45
+68,Augusta,K3AU,37.6716003418,-97.0779037476,Augusta Municipal Airport,Kansas,3.75,2.84
+69,Turner,K3B5,44.1888999939,-70.2329025269,Twitchell Airport,Maine,4.05,3.15
+70,Chicago/Lake in the Hills,K3CK,42.2067985535,-88.3229980469,Lake in the Hills Airport,Illinois,3.79,2.55
+71,Mansfield,K3F3,32.0735015869,-93.7655029297,C E 'Rusty' Williams Airport,Louisiana,3.44,3.65
+72,Ashland,K3G4,40.9029998779,-82.2555999756,Ashland County Airport,Ohio,5.35,3.75
+73,Hampton,K3J0,32.8678016663,-81.0831985474,Hampton Varnville Airport,South-Carolina,3.95,4.20
+74,Afton,K3O9,36.5775985718,-94.8619003296,Grand Lake Regional Airport,Oklahoma,5.20,4.95
+75,Jennings,K3R7,30.2427005768,-92.6734008789,Jennings Airport,Louisiana,4.00,4.60
+76,Grants Pass,K3S8,42.5101013184,-123.388000488,Grants Pass Airport,Oregon,4.25,3.49
+77,La Grange,K3T5,29.908000946,-96.9499969482,Fayette Regional Air Center Airport,Texas,3.26,N/A
+78,Niles,K3TR,41.835899353,-86.2251968384,Jerry Tyler Memorial Airport,Michigan,3.99,2.98
+79,Anaconda,K3U3,46.1530990601,-112.8679962158,Bowman Field,Montana,5.15,3.45
+80,West Union,K3Y2,42.9850997925,-91.7906036377,George L Scott Municipal Airport,Iowa,4.70,3.50
+81,Winterset,K3Y3,41.3628005981,-94.0211029053,Winterset Madison County Airport,Iowa,5.05,4.16
+82,Floydada,K41F,34.00230026,-101.3300018,Floydada Municipal Airport,Texas,4.45,2.60
+83,Manti,K41U,39.32910156,-111.6149979,Manti Ephraim Airport,Utah,5.06,4.06
+84,Melbourne,K42A,36.07099915,-91.83010101,Melbourne Municipal John E Miller Field,Arkansas,2.84,3.14
+85,Kountze/Silsbee,K45R,30.3362998962,-94.2574996948,Hawthorne Field,Texas,5.30,4.80
+86,Alpine,K46U,43.1846008301,-111.0419998169,Alpine Airport,Wyoming,4.85,3.95
+87,Moundridge,K47K,38.2090988159,-97.5027008057,Moundridge Municipal Airport,Kansas,4.19,1.95
+88,Sutton,K48I,38.68700027,-80.65180206,Braxton County Airport,West-Virginia,4.90,4.30
+89,Sturgis,K49B,44.4179992676,-103.375,Sturgis Municipal Airport,South-Dakota,4.75,3.49
+90,Cedartown,K4A4,34.018699646,-85.1464996338,Polk County Airport- Cornelius Moore Field,Georgia,3.65,3.20
+91,Scottsboro,K4A6,34.68870163,-86.00589752,Scottsboro Municipal Word Field,Alabama,3.90,3.45
+92,Fort Payne,K4A9,34.4737014771,-85.7213973999,Isbell Field,Alabama,4.00,3.70
+93,Plainville,K4B8,41.6903991699,-72.8647994995,Robertson Field,Connecticut,4.75,4.70
+94,Youngstown,K4G4,40.9617996216,-80.6772994995,Youngstown Elser Metro Airport,Ohio,4.93,2.94
+95,Woodsfield,K4G5,39.7789993286,-81.1027984619,Monroe County Airport,Ohio,4.83,4.00
+96,Mount Vernon,K4I3,40.32870102,-82.52380371,Knox County Airport,Ohio,4.22,4.21
+97,Corning,K4M9,36.4042015076,-90.6479034424,Corning Municipal Airport,Arkansas,3.54,3.50
+98,Idabel,K4O4,33.9094009399,-94.8593978882,Mc Curtain County Regional Airport,Oklahoma,3.99,2.32
+99,Walsenburg,K4V1,37.69660187,-104.7839966,Spanish Peaks Airfield,Colorado,3.34,2.56
+100,Fort Worth,K50F,32.5817985535,-97.5907974243,Bourland Field,Texas,3.63,3.41
+101,Kentland,K50I,40.7587013245,-87.4281997681,Kentland Municipal Airport,Indiana,3.52,2.78
+102,Madisonville,K51R,30.9127998352,-95.952003479,Madisonville Municipal Airport,Texas,3.93,3.86
+103,Defuniak Springs,K54J,30.731300354,-86.1516036987,Defuniak Springs Airport,Florida,4.25,3.90
+104,Baytown,K54T,29.7616996765,-94.846496582,RWJ Airpark,Texas,3.95,3.25
+105,Norwalk,K5A1,41.2448005676,-82.5512008667,Norwalk Huron County Airport,Ohio,4.80,N/A
+106,Saratoga Springs,K5B2,43.05130005,-73.86119843,Saratoga County Airport,New-York,4.17,3.82
+107,San Antonio,K5C1,29.7238998413,-98.6946029663,Boerne Stage Field,Texas,3.99,3.25
+108,Bluffton,K5G7,40.8853988647,-83.868598938,Bluffton Airport,Ohio,4.65,3.80
+109,Marion,K5M9,37.33430099,-88.11509705,Marion Crittenden County Airport,Kentucky,3.49,N/A
+110,Eagle Pass,K5T9,28.85720062,-100.512001,Maverick County Memorial International Airport,Texas,5.40,4.40
+111,Raeford,K5W4,35.0199012756,-79.1910018921,P K Airpark,North-Carolina,6.00,5.50
+112,Navasota,K60R,30.3719005585,-96.1132965088,Navasota Municipal Airport,Texas,5.34,3.70
+113,Fort Atkinson,K61C,42.9631996155,-88.8175964355,Fort Atkinson Municipal Airport,Wisconsin,4.29,3.38
+114,Warren,K62D,41.266998291,-80.9273986816,Warren Airport,Ohio,5.15,3.72
+115,Bonners Ferry,K65S,48.72579956,-116.2949982,Boundary County Airport,Idaho,3.59,2.99
+116,Columbus,K66R,29.6410999298,-96.5158004761,Robert R Wells Jr Airport,Texas,3.25,3.00
+117,Mesquite,K67L,36.83499908,-114.0550003,Mesquite Airport,Nevada,3.82,3.79
+118,Griffin,K6A2,33.2270011902,-84.2749023438,Griffin Spalding County Airport,Georgia,3.40,3.20
+119,Mountain City,K6A4,36.4178009033,-81.8251037598,Johnson County Airport,Tennessee,5.09,4.79
+120,Greenville,K6D6,43.1422996521,-85.2537994385,Greenville Municipal Airport,Michigan,3.99,4.00
+121,Titusville,K6G1,41.6087989807,-79.7413024902,Titusville Airport,Pennsylvania,4.39,3.75
+122,Barnesville,K6G5,40.0023994446,-81.1918029785,Barnesville Bradfield Airport,Ohio,4.70,4.33
+123,Springfield,K6I2,37.6334991455,-85.2417984009,Lebanon Springfield Airport,Kentucky,3.75,3.25
+124,Fairview,K6K4,36.2901000977,-98.4757995605,Fairview Municipal Airport,Oklahoma,4.50,3.65
+125,Big Timber,K6S0,45.8064002991,-109.9810028076,Big Timber Airport,Montana,5.00,4.50
+126,Florence,K6S2,43.98279953,-124.111000061,Florence Municipal Airport,Oregon,4.75,3.85
+127,Hamilton,K6S5,46.251499176,-114.1259994507,Ravalli County Airport,Montana,4.49,3.80
+128,Ozark,K71J,31.4311008453,-85.6192016602,Blackwell Field,Alabama,3.26,3.25
+129,Anacortes,K74S,48.4990005493,-122.6620025635,Anacortes Airport,Washington,4.30,3.31
+130,Marlette,K77G,43.3117980957,-83.0908966064,Marlette Airport,Michigan,4.67,3.84
+131,Creswell,K77S,43.9308013916,-123.0070037842,Hobby Field,Oregon,4.95,3.95
+132,Andalusia/Opp,K79J,31.3087997437,-86.3937988281,South Alabama Regional At Bill Benton Field Airport,Alabama,2.99,2.29
+133,Spruce Pine,K7A8,35.9445991516,-81.9956970215,Avery County Morrison Field,North-Carolina,4.50,4.50
+134,Brockport,K7G0,43.18109894,-77.915802,Ledgedale Airpark,New-York,3.99,N/A
+135,Mc Gehee,K7M1,33.620201109999996,-91.3647995,Mc Gehee Municipal Airport,Arkansas,5.42,3.50
+136,Mount Ida,K7M3,34.52930069,-93.52709961,Bearce Airport,Arkansas,3.63,2.94
+137,Corning,K7N1,42.17589951,-77.11219788,Corning Painted Post Airport,New-York,4.99,3.99
+138,Ronan,K7S0,47.567199707,-114.1009979248,Ronan Airport,Montana,3.75,4.21
+139,Twin Bridges,K7S1,45.5337982178,-112.3030014038,Twin Bridges Airport,Montana,4.39,4.10
+140,Midland,K7T7,31.858499527,-102.0739974976,Skywest Inc Airport,Texas,3.71,2.39
+141,Napoleon,K7W5,41.3742980957,-84.0679016113,Henry County Airport,Ohio,4.26,4.08
+142,New Lisbon,K82C,43.8386993408,-90.1377029419,Mauston New Lisbon Union Airport,Wisconsin,4.15,3.75
+143,Pensacola,K82J,30.3987998962,-87.3486022949,Ferguson Airport,Florida,3.80,3.20
+144,Albertville,K8A0,34.22909927,-86.25579834,Albertville Regional Thomas J Brumlik Field,Alabama,4.45,4.10
+145,Rangeley,K8B0,44.9919014,-70.66459656,Steven A. Bean Municipal Airport,Maine,5.50,4.95
+146,Corry,K8G2,41.9076004028,-79.6410980225,Corry Lawrence Airport,Pennsylvania,5.79,4.49
+147,Polson,K8S1,47.695400238,-114.1849975586,Polson Airport,Montana,3.75,3.75
+148,George West,K8T6,28.3628005981,-98.1165008545,Live Oak County Airport,Texas,N/A,3.65
+149,Parkston,K8V3,43.3791999817,-97.9711990356,Parkston Municipal Airport,South-Dakota,4.60,4.10
+150,Onida,K98D,44.7008018494,-100.1009979248,Onida Municipal Airport,South-Dakota,5.15,3.40
+151,Gregory,K9D1,43.22169876,-99.40329742,Gregory Municipal Flynn Field,South-Dakota,5.20,3.75
+152,Myerstown,K9D4,40.35179901,-76.32959747,Deck Airport,Pennsylvania,4.95,4.10
+153,Hastings,K9D9,42.6636009216,-85.3462982178,Hastings Airport,Michigan,N/A,3.05
+154,Oak Grove,K9M6,32.8492012024,-91.4039001465,Kelly Airport,Louisiana,3.50,3.25
+155,Scobey,K9S2,48.8077011108,-105.4390029907,Scobey Airport,Montana,5.30,3.83
+156,Chamberlain,K9V9,43.7661018372,-99.3212966919,Chamberlain Municipal Airport,South-Dakota,5.16,3.69
+157,Killdeer,K9Y1,47.3927993774,-102.7710037231,Weydahl Field,North-Dakota,4.00,3.50
+158,Marion,KA08,32.5124015808,-87.385597229,Vaiden Field,Alabama,4.23,3.50
+159,Apalachicola,KAAF,29.72750092,-85.02749634,Apalachicola Regional Airport,Florida,4.79,4.89
+160,Wichita,KAAO,37.74760056,-97.22109985,Colonel James Jabara Airport,Kansas,3.75,2.84
+161,Campbellsville,KAAS,37.3582992554,-85.3094024658,Taylor County Airport,Kentucky,4.50,3.75
+162,Alturas,KAAT,41.48300171,-120.5650024,Alturas Municipal Airport,California,N/A,4.74
+163,Allentown,KABE,40.6520996094,-75.4408035278,Lehigh Valley International Airport,Pennsylvania,5.17,3.68
+164,Abilene,KABI,32.4113006592,-99.6819000244,Abilene Regional Airport,Texas,3.99,4.49
+165,Albuquerque,KABQ,35.0401992798,-106.6090011597,Albuquerque International Sunport Airport,New-Mexico,4.49,3.99
+166,Aberdeen,KABR,45.4491004944,-98.4217987061,Aberdeen Regional Airport,South-Dakota,3.50,3.15
+167,Albany,KABY,31.5354995728,-84.1945037842,Southwest Georgia Regional Airport,Georgia,3.70,3.05
+168,Bellaire,KACB,44.9886016846,-85.1984024048,Antrim County Airport,Michigan,4.75,5.02
+169,Americus,KACJ,32.1108017,-84.18890381,Souther Field,Georgia,3.85,3.30
+170,Nantucket,KACK,41.25310135,-70.06020355,Nantucket Memorial Airport,Massachusetts,5.28,4.29
+171,Waseca,KACQ,44.0735015869,-93.5529022217,Waseca Municipal Airport,Minnesota,N/A,3.39
+172,Arcata/Eureka,KACV,40.978099823,-124.1090011597,Arcata Airport,California,N/A,4.76
+173,Atlantic City,KACY,39.4575996399,-74.5772018433,Atlantic City International Airport,New-Jersey,5.83,6.04
+174,Wallace,KACZ,34.7178993225,-78.0036010742,Henderson Field,North-Carolina,N/A,4.30
+175,Adrian,KADG,41.8676986694,-84.0773010254,Lenawee County Airport,Michigan,4.99,3.89
+176,Ada,KADH,34.8042984009,-96.6713027954,Ada Municipal Airport,Oklahoma,4.30,3.75
+177,Ardmore,KADM,34.30301,-97.0196342,Ardmore Municipal Airport,Oklahoma,N/A,2.29
+178,Dallas,KADS,32.9686012268,-96.8364028931,Addison Airport,Texas,4.19,3.74
+179,Audubon,KADU,41.7014007568,-94.920501709,Audubon County Airport,Iowa,4.39,3.49
+180,Albuquerque,KAEG,35.145198822,-106.7949981689,Double Eagle II Airport,New-Mexico,4.49,3.99
+181,Buena Vista,KAEJ,38.814201355,-106.1210021973,Central Colorado Regional Airport,Colorado,N/A,5.20
+182,Alexandria,KAEX,31.3274002075,-92.5497970581,Alexandria International Airport,Louisiana,3.15,3.75
+183,Washington,KAFJ,40.1365013123,-80.2901992798,Washington County Airport,Pennsylvania,5.08,3.61
+184,Nebraska City,KAFK,40.60689926,-95.86569977,Nebraska City Municipal Airport,Nebraska,N/A,3.25
+185,Afton,KAFO,42.7112007141,-110.942001343,Afton Municipal Airport,Wyoming,4.90,3.90
+186,Wadesboro,KAFP,35.0205993652,-80.0771026611,Anson County Airport,North-Carolina,3.44,3.29
+187,Fort Worth,KAFW,32.9875984192,-97.3188018799,Fort Worth Alliance Airport,Texas,4.19,4.18
+188,Pittsburgh,KAGC,40.3544006348,-79.9301986694,Allegheny County Airport,Pennsylvania,4.10,2.03
+189,Augusta,KAGS,33.3698997498,-81.9645004272,Augusta Regional At Bush Field,Georgia,4.10,3.40
+190,Amery,KAHH,45.2811012268,-92.3753967285,Amery Municipal Airport,Wisconsin,4.29,3.49
+191,Athens,KAHN,33.948600769,-83.3263015747,Athens Ben Epps Airport,Georgia,4.23,4.50
+192,Wahoo,KAHQ,41.2412986755,-96.59400177,Wahoo Municipal Airport,Nebraska,4.25,2.99
+193,Alliance,KAIA,42.0531997681,-102.804000854,Alliance Municipal Airport,Nebraska,4.20,3.20
+194,Aiken,KAIK,33.6493988037,-81.6849975586,Aiken Municipal Airport,South-Carolina,4.10,3.62
+195,Atlantic,KAIO,41.40729904,-95.04689789,Atlantic Municipal Airport,Iowa,3.03,1.86
+196,Aitkin,KAIT,46.5484008789,-93.6768035889,Aitkin Municipal Steve Kurtz Field,Minnesota,3.79,4.69
+197,Kaiser Lake Ozark,KAIZ,38.0960006714,-92.5494995117,Lee C Fine Memorial Airport,Missouri,4.15,3.65
+198,Cornelia,KAJR,34.49990082,-83.55670166,Habersham County Airport,Georgia,4.60,4.49
+199,Delta,KAJZ,38.7863998413,-108.0640029907,Blake Field,Colorado,4.15,3.35
+200,Gastonia,KAKH,35.2025985718,-81.1499023438,Gastonia Municipal Airport,North-Carolina,4.53,3.16
+201,Akron,KAKO,40.1755981445,-103.222000122,Colorado Plains Regional Airport,Colorado,4.69,3.79
+202,Akron,KAKR,41.0374984741,-81.4669036865,Akron Fulton International Airport,Ohio,5.53,4.65
+203,Albany,KALB,42.748298645,-73.8016967773,Albany International Airport,New-York,4.17,3.82
+204,Alice,KALI,27.7409000397,-98.0269012451,Alice International Airport,Texas,4.25,3.75
+205,Alamogordo,KALM,32.8399009705,-105.9909973145,Alamogordo White Sands Regional Airport,New-Mexico,5.25,3.55
+206,Alton/St Louis,KALN,38.8903007507,-90.0459976196,St Louis Regional Airport,Illinois,4.70,4.32
+207,Waterloo,KALO,42.5570983887,-92.4002990723,Waterloo Regional Airport,Iowa,3.99,3.99
+208,Alamosa,KALS,37.4348983765,-105.866996765,San Luis Valley Regional Bergman Field,Colorado,4.25,4.18
+209,Walla Walla,KALW,46.09489822,-118.288002,Walla Walla Regional Airport,Washington,N/A,4.28
+210,Amarillo,KAMA,35.2193984985,-101.7060012817,Rick Husband Amarillo International Airport,Texas,5.76,4.35
+211,Alma,KAMG,31.5361003876,-82.5065994263,Bacon County Airport,Georgia,3.90,3.70
+212,Ames,KAMW,41.99200058,-93.62180328,Ames Municipal Airport,Iowa,3.75,3.00
+213,Anniston,KANB,33.58819962,-85.85810089,Anniston Metropolitan Airport,Alabama,3.79,3.24
+214,Anderson,KAND,34.4945983887,-82.7093963623,Anderson Regional Airport,South-Carolina,4.68,4.13
+215,Minneapolis,KANE,45.14500046,-93.21140289,Anoka County-Blaine Arpt(Janes Field) Airport,Minnesota,4.14,4.25
+216,Salida,KANK,38.5382995605,-106.0490036011,Harriet Alexander Field,Colorado,4.75,4.62
+217,Angola,KANQ,41.6397018433,-85.0835037231,Tri State Steuben County Airport,Indiana,3.90,2.90
+218,Ainsworth,KANW,42.5792007446,-99.9929962158,Ainsworth Municipal Airport,Nebraska,4.81,2.99
+219,Lima,KAOH,40.7069015503,-84.0267028809,Lima Allen County Airport,Ohio,4.66,3.89
+220,Altoona,KAOO,40.29639816,-78.31999969,Altoona Blair County Airport,Pennsylvania,4.99,4.50
+221,Denver,KAPA,39.57009888,-104.848999,Centennial Airport,Colorado,4.42,3.74
+222,Napa,KAPC,38.2131996155,-122.28099823,Napa County Airport,California,4.64,3.93
+223,Naples,KAPF,26.1525993347,-81.7752990723,Naples Municipal Airport,Florida,2.71,3.24
+224,Alpena,KAPN,45.0780983,-83.56030273,Alpena County Regional Airport,Michigan,5.25,5.03
+225,Apple Valley,KAPV,34.5752983093,-117.185997009,Apple Valley Airport,California,3.45,2.98
+226,Zapata,KAPY,26.9687995911,-99.2489013672,Zapata County Airport,Texas,4.60,3.55
+227,Llano,KAQO,30.783700943,-98.6620025635,Llano Municipal Airport,Texas,3.10,2.85
+228,New Iberia,KARA,30.0377998352,-91.8839035034,Acadiana Regional Airport,Louisiana,5.82,5.47
+229,Ann Arbor,KARB,42.2229995728,-83.7455978394,Ann Arbor Municipal Airport,Michigan,4.24,2.74
+230,Walnut Ridge,KARG,36.1246667,-90.9251111,Walnut Ridge Regional Airport,Arkansas,3.44,3.15
+231,Chicago/Aurora,KARR,41.771900177,-88.4757003784,Aurora Municipal Airport,Illinois,4.75,3.94
+232,Watertown,KART,43.9919013977,-76.021697998,Watertown International Airport,New-York,4.50,4.00
+233,Minocqua-Woodruff,KARV,45.92789841,-89.73090363,Lakeland-Noble F. Lee Memorial field,Wisconsin,4.74,3.79
+234,Beaufort,KARW,32.4122009277,-80.6343994141,Beaufort County Airport,South-Carolina,4.72,3.52
+235,Slidell,KASD,30.3451004,-89.82080078,Slidell Airport,Louisiana,4.44,4.49
+236,Aspen,KASE,39.22320175,-106.8690033,Aspen-Pitkin Co/Sardy Field,Colorado,4.42,3.74
+237,Springdale,KASG,36.176399231,-94.1193008423,Springdale Municipal Airport,Arkansas,4.10,4.00
+238,Nashua,KASH,42.7817001343,-71.5148010254,Boire Field,New-Hampshire,5.75,4.85
+239,Ahoskie,KASJ,36.2975006104,-77.1708984375,Tri County Airport,North-Carolina,4.82,2.29
+240,Marshall,KASL,32.5205001831,-94.307800293,Harrison County Airport,Texas,3.45,2.85
+241,Warsaw,KASW,41.2747001648,-85.8401031494,Warsaw Municipal Airport,Indiana,3.68,3.77
+242,Ashland,KASX,46.54850006,-90.91899872,John F Kennedy Memorial Airport,Wisconsin,N/A,4.00
+243,Atlanta,KATL,33.6366996765,-84.4281005859,Hartsfield Jackson Atlanta International Airport,Georgia,7.99,7.11
+244,Artesia,KATS,32.8525009155,-104.468002319,Artesia Municipal Airport,New-Mexico,5.15,4.15
+245,Appleton,KATW,44.2580986023,-88.5190963745,Outagamie County Regional Airport,Wisconsin,4.59,3.89
+246,Watertown,KATY,44.91400146,-97.15470123,Watertown Regional Airport,South-Dakota,4.50,3.50
+247,Augusta,KAUG,44.3205986023,-69.7973022461,Augusta State Airport,Maine,4.95,3.95
+248,Auburn,KAUN,38.95479965,-121.0820007,Auburn Municipal Airport,California,4.39,4.59
+249,Auburn,KAUO,32.61510086,-85.43399811,Auburn Opelika Robert G. Pitts Airport,Alabama,3.50,3.30
+250,Austin,KAUS,30.1944999695,-97.6698989868,Austin Bergstrom International Airport,Texas,3.99,4.07
+251,Wausau,KAUW,44.9262008667,-89.6266021729,Wausau Downtown Airport,Wisconsin,N/A,4.08
+252,South Hill,KAVC,36.68830109,-78.05449677,Mecklenburg Brunswick Regional Airport,Virginia,4.70,3.89
+253,Alva,KAVK,36.7732009888,-98.6698989868,Alva Regional Airport,Oklahoma,3.85,3.40
+254,Asheville,KAVL,35.4361991882,-82.5418014526,Asheville Regional Airport,North-Carolina,4.68,5.85
+255,Avon Park,KAVO,27.59119987,-81.52780151,Avon Park Executive Airport,Florida,3.68,4.85
+256,Wilkes-Barre/Scranton,KAVP,41.3385009766,-75.7233963013,Wilkes Barre Scranton International Airport,Pennsylvania,5.27,3.63
+257,Tucson,KAVQ,32.4095993042,-111.21800231899999,Marana Regional Airport,Arizona,4.60,3.90
+258,Washington,KAWG,41.2761001587,-91.6734008789,Washington Municipal Airport,Iowa,3.31,2.99
+259,West Memphis,KAWM,35.1351013184,-90.2343978882,West Memphis Municipal Airport,Arkansas,2.73,2.82
+260,Arlington,KAWO,48.16070175,-122.1589966,Arlington Municipal Airport,Washington,3.74,3.60
+261,Houston,KAXH,29.5060997009,-95.4768981934,Houston Southwest Airport,Texas,3.85,3.04
+262,Alexandria,KAXN,45.8662986755,-95.3946990967,Chandler Field,Minnesota,3.85,3.95
+263,Altus,KAXS,34.6963996887,-99.3403015137,Altus Quartz Mountain Regional Airport,Oklahoma,3.25,2.99
+264,Angel Fire,KAXX,36.422000885,-105.290000916,Angel Fire Airport,New-Mexico,4.50,4.00
+265,Waycross,KAYS,31.2490997314,-82.3955001831,Waycross Ware County Airport,Georgia,3.17,2.40
+266,Colorado City,KAZC,36.9598999023,-113.013999939,Colorado City Municipal Airport,Arizona,5.35,4.95
+267,Hazlehurst,KAZE,31.8847007751,-82.6473999023,Hazlehurst Airport,Georgia,3.95,N/A
+268,Kalamazoo,KAZO,42.2349014282,-85.5521011353,Kalamazoo Battle Creek International Airport,Michigan,4.10,3.80
+269,Carrabassett,KB21,45.0862007141,-70.2162017822,Sugarloaf Regional Airport,Maine,4.59,3.49
+270,Westfield/Springfield,KBAF,42.1577987671,-72.7155990601,Barnes Municipal Airport,Massachusetts,4.75,5.35
+271,Columbus,KBAK,39.2619018555,-85.8963012695,Columbus Municipal Airport,Indiana,5.45,3.62
+272,Battle Mountain,KBAM,40.5989990234,-116.8740005493,Battle Mountain Airport,Nevada,4.09,3.49
+273,Bad Axe,KBAX,43.78020096,-82.98539734,Huron County Memorial Airport,Michigan,3.85,2.60
+274,New Braunfels,KBAZ,29.7045001984,-98.0421981812,New Braunfels Municipal Airport,Texas,3.99,3.20
+275,Benson,KBBB,45.3319015503,-95.6505966187,Benson Municipal Airport,Minnesota,3.25,3.23
+276,Brady,KBBD,31.1793003082,-99.3238983154,Curtis Field,Texas,3.39,2.99
+277,Branson,KBBG,36.532082,-93.200544,Branson Airport,Missouri,4.49,4.29
+278,Bennettsville,KBBP,34.62170029,-79.73439789,Marlboro County Jetport H.E. Avent Field,South-Carolina,5.00,3.89
+279,Broken Bow,KBBW,41.4365005493,-99.6421966553,Broken Bow Municipal Airport,Nebraska,4.68,3.82
+280,Blacksburg,KBCB,37.2075996399,-80.4077987671,Virginia Tech Montgomery Executive Airport,Virginia,5.08,2.83
+281,Bryce Canyon,KBCE,37.706401825,-112.144996643,Bryce Canyon Airport,Utah,5.05,4.30
+282,Black River Falls,KBCK,44.2507019043,-90.8553009033,Black River Falls Area Airport,Wisconsin,4.85,4.31
+283,Boca Raton,KBCT,26.3784999847,-80.1076965332,Boca Raton Airport,Florida,5.49,4.12
+284,Baudette,KBDE,48.7284011841,-94.612197876,Baudette International Airport,Minnesota,4.79,5.10
+285,Blanding,KBDG,37.58330154,-109.4830017,Blanding Municipal Airport,Utah,5.70,4.95
+286,Willmar,KBDH,45.11769867,-95.13040161,Willmar Municipal -John L Rice Field,Minnesota,N/A,2.97
+287,Hartford,KBDL,41.9388999939,-72.6831970215,Bradley International Airport,Connecticut,4.99,4.97
+288,Bend,KBDN,44.09479904,-121.2009964,Bend Municipal Airport,Oregon,3.95,4.04
+289,Morrilton,KBDQ,35.1361999512,-92.7135009766,Morrilton Municipal Airport,Arkansas,3.65,3.75
+290,Bridgeport,KBDR,41.1635017395,-73.1261978149,Igor I Sikorsky Memorial Airport,Connecticut,5.40,3.65
+291,Boulder,KBDU,40.0393981934,-105.225997925,Boulder Municipal Airport,Colorado,3.79,3.89
+292,Beeville,KBEA,28.3619003296,-97.7910003662,Beeville Municipal Airport,Texas,3.99,2.50
+293,Bedford,KBED,42.47000122,-71.28900146,Laurence G Hanscom Field,Massachusetts,4.45,4.25
+294,Benton Harbor,KBEH,42.1286010742,-86.4284973145,Southwest Michigan Regional Airport,Michigan,3.99,4.50
+295,Brownfield,KBFE,33.1730995178,-102.1930007935,Terry County Airport,Texas,3.25,2.66
+296,Scottsbluff,KBFF,41.87400055,-103.5960007,Western Neb. Rgnl/William B. Heilig Airport,Nebraska,4.69,3.63
+297,Seattle,KBFI,47.5299987793,-122.3020019531,Boeing Field King County International Airport,Washington,4.99,3.83
+298,Bakersfield,KBFL,35.43360138,-119.0569992,Meadows Field,California,5.58,4.62
+299,Mobile,KBFM,30.6268005371,-88.0680999756,Mobile Downtown Airport,Alabama,5.35,5.77
+300,Borger,KBGD,35.7009010315,-101.393997192,Hutchinson County Airport,Texas,2.70,1.98
+301,Bainbridge,KBGE,30.9715004,-84.63739777,Decatur County Industrial Air Park,Georgia,4.14,3.99
+302,Winchester,KBGF,35.1775016785,-86.0662002563,Winchester Municipal Airport,Tennessee,N/A,3.28
+303,Binghamton,KBGM,42.20869827,-75.97979736,Greater Binghamton/Edwin A Link field,New-York,4.99,4.99
+304,Bangor,KBGR,44.8073997498,-68.8281021118,Bangor International Airport,Maine,3.07,2.77
+305,Bar Harbor,KBHB,44.45000076,-68.3615036,Hancock County-Bar Harbor Airport,Maine,5.33,4.23
+306,Baxley,KBHC,31.7138004303,-82.3937988281,Baxley Municipal Airport,Georgia,3.98,3.65
+307,Baker,KBHK,46.34759903,-104.2590027,Baker Municipal Airport,Montana,4.25,3.95
+308,Birmingham,KBHM,33.56290054,-86.75350189,Birmingham-Shuttlesworth International Airport,Alabama,4.83,5.40
+309,Beatrice,KBIE,40.3013000488,-96.7540969849,Beatrice Municipal Airport,Nebraska,4.25,3.95
+310,Bishop,KBIH,37.3731002808,-118.363998413,Eastern Sierra Regional Airport,California,4.37,4.17
+311,Blakely,KBIJ,31.3974990845,-84.8947982788,Early County Airport,Georgia,3.74,3.90
+312,Billings,KBIL,45.8077011108,-108.5429992676,Billings Logan International Airport,Montana,3.75,3.95
+313,Bismarck,KBIS,46.7727012634,-100.7460021973,Bismarck Municipal Airport,North-Dakota,2.99,2.99
+314,Holland,KBIV,42.7429008484,-86.1073989868,Tulip City Airport,Michigan,4.99,4.79
+315,Denver,KBJC,39.90879822,-105.1169968,Rocky Mountain Metropolitan Airport,Colorado,3.99,3.74
+316,Bemidji,KBJI,47.50939941,-94.93370056,Bemidji Regional Airport,Minnesota,4.42,4.01
+317,Wooster,KBJJ,40.8748016357,-81.8882980347,Wayne County Airport,Ohio,4.48,4.04
+318,Breckenridge,KBKD,32.71900177,-98.8909988403,Stephens County Airport,Texas,4.89,5.09
+319,Cleveland,KBKL,41.5175018311,-81.6832962036,Burke Lakefront Airport,Ohio,6.98,5.20
+320,Falfurrias,KBKS,27.20680046,-98.12120056,Brooks County Airport,Texas,4.69,3.99
+321,Blackstone,KBKT,37.0741996765,-77.9574966431,Allen C Perkinson Blackstone Army Air Field,Virginia,4.68,4.10
+322,Brooksville,KBKV,28.47360039,-82.45539856,Hernando County Airport,Florida,2.99,3.99
+323,Beckley,KBKW,37.7873001099,-81.1241989136,Raleigh County Memorial Airport,West-Virginia,4.85,3.75
+324,Brookings,KBKX,44.3047981262,-96.8169021606,Brookings Regional Airport,South-Dakota,5.30,4.95
+325,Bluefield,KBLF,37.2957992554,-81.2077026367,Mercer County Airport,Illinois,4.85,3.75
+326,Blythe,KBLH,33.6192016602,-114.717002869,Blythe Airport,California,4.84,3.94
+327,Bellingham,KBLI,48.7928009033,-122.5380020142,Bellingham International Airport,Washington,5.11,4.27
+328,Belmar/Farmingdale,KBLM,40.18690109,-74.12490082,Monmouth Executive Airport,New-Jersey,5.30,4.55
+329,Belleville,KBLV,38.54520035,-89.83519745,Scott AFB/Midamerica Airport,Illinois,4.53,2.33
+330,Brigham City,KBMC,41.5523986816,-112.06199646,Brigham City Airport,Utah,4.65,3.50
+331,Bloomington,KBMG,39.1459999084,-86.6166992188,Monroe County Airport,Alabama,4.70,4.00
+332,Bloomington-Normal,KBMI,40.47710037,-88.91590118,Central Illinois Regional Airport at Bloomington-Normal,Illinois,5.45,3.34
+333,Berlin,KBML,44.57540131,-71.17590332,Berlin Regional Airport,New-Hampshire,N/A,5.00
+334,Burnet,KBMQ,30.738899231,-98.2386016846,Burnet Municipal Kate Craddock Field,Texas,2.99,3.55
+335,Beaumont,KBMT,30.0706996918,-94.2157974243,Beaumont Municipal Airport,Texas,3.52,2.72
+336,Nashville,KBNA,36.1245002747,-86.6781997681,Nashville International Airport,Tennessee,4.10,3.49
+337,Burns,KBNO,43.5918998718,-118.955001831,Burns Municipal Airport,Oregon,5.35,3.95
+338,Boise,KBOI,43.56439972,-116.2229996,Boise Air Terminal/Gowen field,Idaho,4.25,4.49
+339,Boston,KBOS,42.36429977,-71.00520325,General Edward Lawrence Logan International Airport,Massachusetts,4.45,4.25
+340,Bartow,KBOW,27.9433994293,-81.7834014893,Bartow Municipal Airport,Florida,2.95,4.02
+341,Big Spring,KBPG,32.21260071,-101.5220032,Big Spring Mc Mahon-Wrinkle Airport,Texas,3.80,3.40
+342,Big Piney,KBPI,42.58509827,-110.1110001,Miley Memorial Field,Wyoming,4.85,3.71
+343,Mountain Home,KBPK,36.3689002991,-92.4704971313,Ozark Regional Airport,Arkansas,4.29,4.18
+344,Beaumont/Port Arthur,KBPT,29.950799942,-94.0206985474,Southeast Texas Regional Airport,Texas,4.80,4.00
+345,Brunswick,KBQK,31.2588005066,-81.4664993286,Brunswick Golden Isles Airport,Georgia,4.00,3.65
+346,Brainerd,KBRD,46.39830017,-94.13809967,Brainerd Lakes Regional Airport,Minnesota,4.39,4.27
+347,Burlington,KBRL,40.7831993103,-91.12550354,Southeast Iowa Regional Airport,Iowa,3.89,3.49
+348,Brownsville,KBRO,25.9067993164,-97.4259033203,Brownsville South Padre Island International Airport,Texas,4.95,3.29
+349,Bardstown,KBRY,37.8143005371,-85.4996032715,Samuels Field,Kentucky,3.79,4.82
+350,Blair,KBTA,41.4180984497,-96.1136016846,Blair Municipal Airport,Nebraska,3.79,2.99
+351,Battle Creek,KBTL,42.3073005676,-85.2515029907,W K Kellogg Airport,Michigan,4.39,2.99
+352,Butte,KBTM,45.9547996521,-112.4970016479,Bert Mooney Airport,Montana,5.15,3.45
+353,Butler,KBTP,40.77690125,-79.9496994,Butler County-K W Scholter Field,Pennsylvania,4.93,2.75
+354,Baton Rouge,KBTR,30.53319931,-91.14959717,Baton Rouge Metropolitan Ryan Field,Louisiana,5.07,4.99
+355,Burlington,KBTV,44.4719009399,-73.1532974243,Burlington International Airport,Vermont,5.19,4.05
+356,Buffalo,KBUF,42.94049835,-78.73220062,Buffalo Niagara International Airport,New-York,6.10,5.56
+357,Burbank,KBUR,34.2006988525,-118.3590011597,Bob Hope Airport,California,6.55,4.28
+358,Burlington,KBUU,42.690700531,-88.3046035767,Burlington Municipal Airport,Iowa,3.19,1.59
+359,Burlington,KBUY,36.048500061,-79.474899292,Burlington Alamance Regional Airport,North-Carolina,5.55,5.19
+360,Beaver Falls,KBVI,40.7724990845,-80.3914031982,Beaver County Airport,Pennsylvania,4.93,2.75
+361,Bartlesville,KBVO,36.76250076,-96.01119995,Bartlesville Municipal Airport,Oklahoma,3.98,3.29
+362,Burlington/Mount Vernon,KBVS,48.4709014893,-122.4209976196,Skagit Regional Airport,Washington,3.79,3.00
+363,Boulder City,KBVU,35.9474983215,-114.861000061,Boulder City Municipal Airport,Nevada,4.65,4.39
+364,Batesville,KBVX,35.7262001,-91.64730072,Batesville Regional Airport,Arkansas,4.75,4.50
+365,Beverly,KBVY,42.5842018127,-70.9164962769,Beverly Municipal Airport,Massachusetts,4.45,4.25
+366,Brawley,KBWC,32.99290085,-115.5169983,Brawley Municipal Airport,California,3.50,3.79
+367,Brownwood,KBWD,31.7936000824,-98.9564971924,Brownwood Regional Airport,Texas,3.75,3.76
+368,Bowling Green,KBWG,36.9645004272,-86.4197006226,Bowling Green Warren County Regional Airport,Kentucky,4.15,3.99
+369,Baltimore,KBWI,39.17539978,-76.66829681,Baltimore/Washington International Thurgood Marshal Airport,Maryland,3.07,3.78
+370,Wahpeton,KBWP,46.2440986633,-96.6073989868,Harry Stern Airport,North-Dakota,2.99,4.08
+371,Bogalusa,KBXA,30.8136997223,-89.8649978638,George R Carr Memorial Air Field,Louisiana,4.69,4.69
+372,Brunswick,KBXM,43.8923551,-69.9388297,Brunswick Executive Airport,Maine,5.69,4.89
+373,Buffalo,KBYG,44.3810997009,-106.7220001221,Johnson County Airport,Wyoming,3.99,5.00
+374,Blytheville,KBYH,35.9642982483,-89.9440002441,Arkansas International Airport,Arkansas,N/A,3.43
+375,Burley,KBYI,42.5425987244,-113.7720031738,Burley Municipal Airport,Idaho,4.70,4.70
+376,Bay City,KBYY,28.9733009338,-95.8635025024,Bay City Municipal Airport,Texas,3.15,2.00
+377,Bozeman,KBZN,45.77750015,-111.1529999,Gallatin Field,Montana,4.80,4.30
+378,Morris,KC09,41.42539978,-88.41870117,Morris Municipal James R. Washburn field,Illinois,3.80,3.80
+379,Urbana,KC16,40.1464004517,-88.1985015869,Frasca Field,Illinois,5.20,4.09
+380,Middleton,KC29,43.1142997742,-89.53150177,Middleton Municipal Morey Field,Wisconsin,3.75,3.05
+381,Reedsburg,KC35,43.5259017944,-89.9832000732,Reedsburg Municipal Airport,Wisconsin,3.99,N/A
+382,Portage,KC47,43.5602989197,-89.4829025269,Portage Municipal Airport,Wisconsin,3.74,4.55
+383,Kendallville,KC62,41.4726982117,-85.2608032227,Kendallville Municipal Airport,Indiana,4.75,3.75
+384,Columbia,KCAE,33.9388008118,-81.1194992065,Columbia Metropolitan Airport,South-Carolina,4.51,3.13
+385,Craig,KCAG,40.4952011108,-107.5220031738,Craig Moffat Airport,Colorado,5.00,4.00
+386,Akron,KCAK,40.9160995483,-81.442199707,Akron Canton Regional Airport,Ohio,5.53,4.50
+387,Clayton,KCAO,36.4462013245,-103.166999817,Clayton Municipal Airpark,New-Mexico,4.70,4.10
+388,Cumberland,KCBE,39.615398407,-78.7609024048,Greater Cumberland Regional Airport,West-Virginia,4.65,3.60
+389,Council Bluffs,KCBF,41.2592010498,-95.760597229,Council Bluffs Municipal Airport,Iowa,3.65,2.79
+390,Colby,KCBK,39.42750168,-101.0469971,Shalz Field,Kansas,4.38,2.90
+391,Upland,KCCB,34.1115989685,-117.68800354,Cable Airport,California,3.39,2.46
+392,Atlanta,KCCO,33.3115997314,-84.7697982788,Newnan Coweta County Airport,Georgia,2.89,2.89
+393,Concord,KCCR,37.9897003174,-122.056999207,Buchanan Field,California,4.50,3.60
+394,Charles City,KCCY,43.0726013184,-92.6108016968,Northeast Iowa Regional Airport,Iowa,3.85,3.80
+395,Cedar City,KCDC,37.7010002136,-113.0989990234,Cedar City Regional Airport,Utah,4.90,5.15
+396,Cambridge,KCDI,39.9749984741,-81.5775985718,Cambridge Municipal Airport,Ohio,N/A,3.63
+397,Camden,KCDN,34.2835998535,-80.5649032593,Woodward Field,New-York,4.95,3.95
+398,Chadron,KCDR,42.837600708,-103.095001221,Chadron Municipal Airport,Nebraska,5.12,4.15
+399,Childress,KCDS,34.4337997437,-100.288002014,Childress Municipal Airport,Texas,4.10,3.25
+400,Caldwell,KCDW,40.8751983643,-74.2814025879,Essex County Airport,New-Jersey,5.44,4.50
+401,Crescent City,KCEC,41.78020096,-124.2369995,Jack Mc Namara Field Airport,California,4.89,4.80
+402,Springfield/Chicopee,KCEF,42.19400024,-72.53479767,Westover ARB/Metropolitan Airport,Massachusetts,5.23,4.25
+403,Clemson,KCEU,34.6719017,-82.8864975,Oconee County Regional Airport,South-Carolina,4.60,4.35
+404,Connersville,KCEV,39.6985015869,-85.129699707,Mettel Field,Indiana,4.80,3.65
+405,Crestview,KCEW,30.778799057,-86.522102356,Bob Sikes Airport,Florida,4.25,3.95
+406,Murray,KCEY,36.66460037,-88.37280273,Kyle Oakley Field,Kentucky,3.50,3.00
+407,Cortez,KCEZ,37.3030014038,-108.627998352,Cortez Municipal Airport,Colorado,5.70,4.95
+408,Bryan,KCFD,30.7157001495,-96.3313980103,Coulter Field,Texas,4.12,2.86
+409,Caro,KCFS,43.4588012695,-83.4455032349,Tuscola Area Airport,Michigan,4.65,4.19
+410,Coffeyville,KCFV,37.09400177,-95.5718994141,Coffeyville Municipal Airport,Kansas,3.96,3.90
+411,Crystal River,KCGC,28.8673000336,-82.5712966919,Crystal River Airport,Florida,5.20,5.05
+412,Cambridge,KCGE,38.53929901,-76.03040314,Cambridge Dorchester Airport,Maryland,4.62,3.02
+413,Cleveland,KCGF,41.5651016235,-81.4863967896,Cuyahoga County Airport,Ohio,6.90,4.95
+414,Cape Girardeau,KCGI,37.2252998352,-89.5708007813,Cape Girardeau Regional Airport,Missouri,3.26,2.98
+415,College Park,KCGS,38.9805984497,-76.9223022461,College Park Airport,Maryland,N/A,3.85
+416,Casa Grande,KCGZ,32.9548988342,-111.766998291,Casa Grande Municipal Airport,Arizona,3.39,3.10
+417,Chattanooga,KCHA,35.0353012085,-85.2037963867,Lovell Field,Tennessee,4.76,5.17
+418,Chandler,KCHD,33.2691001892,-111.8109970093,Chandler Municipal Airport,Arizona,4.25,3.45
+419,Charlottesville,KCHO,38.1385993958,-78.4529037476,Charlottesville Albemarle Airport,Virginia,5.75,5.45
+420,Charleston,KCHS,32.89860153,-80.04049683,Charleston Air Force Base-International Airport,South-Carolina,6.27,4.53
+421,Chico,KCIC,39.79539871,-121.8580017,Chico Municipal Airport,California,4.89,4.24
+422,Cedar Rapids,KCID,41.8847007751,-91.7108001709,The Eastern Iowa Airport,Iowa,3.89,2.99
+423,Choteau,KCII,47.8283004761,-112.1679992676,Choteau Airport,Montana,4.45,4.30
+424,Carroll,KCIN,42.0461997986,-94.7890014648,Arthur N Neu Airport,Iowa,4.00,3.00
+425,Sault Ste Marie,KCIU,46.2508010864,-84.4723968506,Chippewa County International Airport,Michigan,5.00,4.25
+426,Culpeper,KCJR,38.5266990662,-77.8589019775,Culpeper Regional Airport,Virginia,4.25,3.95
+427,Clarksburg,KCKB,39.2966003418,-80.2281036377,North Central West Virginia Airport,West-Virginia,3.48,3.96
+428,Grand Marais,KCKC,47.8382987976,-90.3828964233,Grand Marais Cook County Airport,Minnesota,4.94,4.35
+429,Cordele,KCKF,31.988800050000002,-83.77390289,Crisp County Cordele Airport,Georgia,4.57,2.65
+430,Clarksdale,KCKM,34.2997016907,-90.512298584,Fletcher Field,Mississippi,4.75,2.99
+431,Clarksville,KCKV,36.6218986511,-87.4150009155,Outlaw Field,Tennessee,3.45,3.00
+432,Perkasie,KCKZ,40.3891983032,-75.2904968262,Pennridge Airport,Pennsylvania,4.66,3.80
+433,Cleveland,KCLE,41.4117012024,-81.8498001099,Cleveland Hopkins International Airport,Ohio,7.50,5.03
+434,Clintonville,KCLI,44.6138000488,-88.731300354,Clintonville Municipal Airport,Wisconsin,3.75,2.99
+435,Clinton,KCLK,35.53829956,-98.93270111,Clinton Regional Airport,Oklahoma,N/A,3.02
+436,College Station,KCLL,30.58860016,-96.36380005,Easterwood Field,Texas,2.49,2.59
+437,Port Angeles,KCLM,48.1202011108,-123.5,William R Fairchild International Airport,Washington,5.98,3.71
+438,Chehalis,KCLS,46.6769981384,-122.983001709,Chehalis Centralia Airport,Washington,3.41,2.08
+439,Charlotte,KCLT,35.2140007019,-80.9430999756,Charlotte Douglas International Airport,North-Carolina,4.19,4.64
+440,Clearwater,KCLW,27.9766998291,-82.7586975098,Clearwater Air Park,Florida,4.55,3.99
+441,Camarillo,KCMA,34.2136993408,-119.09400177,Camarillo Airport,California,4.70,2.75
+442,Columbus,KCMH,39.9980010986,-82.8918991089,Port Columbus International Airport,Ohio,5.19,3.25
+443,Champaign/Urbana,KCMI,40.03919983,-88.27809906,University of Illinois Willard Airport,Illinois,4.85,3.79
+444,Williams,KCMR,35.30220032,-112.1940002,H.A. Clark Memorial Field,Arizona,3.39,3.39
+445,Hancock,KCMX,47.1683998108,-88.4890975952,Houghton County Memorial Airport,Michigan,N/A,4.30
+446,Canby,KCNB,44.72949982,-96.26599884,Myers Field,Minnesota,4.55,3.75
+447,Concordia,KCNK,39.5493011475,-97.6522979736,Blosser Municipal Airport,Kansas,4.39,3.60
+448,Carlsbad,KCNM,32.3375015259,-104.2630004883,Cavern City Air Terminal,New-Mexico,4.90,3.90
+449,Chino,KCNO,33.97470093,-117.637001,Chino Airport,California,3.99,2.95
+450,Chanute,KCNU,37.668800354,-95.4850997925,Chanute Martin Johnson Airport,Kansas,4.25,3.41
+451,Waco,KCNW,31.6378002167,-97.0740966797,TSTC Waco Airport,Texas,4.96,3.35
+452,Moab,KCNY,38.75500107,-109.7549973,Canyonlands Field,Utah,5.30,4.72
+453,Cody,KCOD,44.520198822,-109.0240020752,Yellowstone Regional Airport,Wyoming,4.49,4.20
+454,Coeur d'Alene,KCOE,47.77429962,-116.8199997,Coeur D'Alene - Pappy Boyington Field,Idaho,4.79,4.45
+455,Merritt Island,KCOI,28.3416004181,-80.6855010986,Merritt Island Airport,Florida,4.20,4.64
+456,Concord,KCON,43.20270157,-71.50229645,Concord Municipal Airport,New-Hampshire,4.50,5.50
+457,Colorado Springs,KCOS,38.8058013916,-104.7009963989,City of Colorado Springs Municipal Airport,Colorado,4.59,3.73
+458,Cotulla,KCOT,28.45669937,-99.22029877,Cotulla-La Salle County,Texas,4.29,3.29
+459,Columbia,KCOU,38.8180999756,-92.2195968628,Columbia Regional Airport,Missouri,5.18,2.82
+460,Norfolk,KCPK,36.66559982,-76.3207016,Chesapeake Regional Airport,Virginia,4.69,3.39
+461,Casper,KCPR,42.90800095,-106.4639969,Casper-Natrona County International Airport,Wyoming,5.05,5.90
+462,Cahokia/St Louis,KCPS,38.5707015991,-90.1561965942,St Louis Downtown Airport,Illinois,5.85,5.67
+463,Cleburne,KCPT,32.3538017273,-97.4337005615,Cleburne Municipal Airport,Texas,2.80,3.00
+464,Celina,KCQA,40.4841003418,-84.5600967407,Lakefield Airport,Ohio,4.53,3.68
+465,Chandler,KCQB,35.7238006592,-96.8202972412,Chandler Regional Airport,Oklahoma,3.89,2.75
+466,Cook,KCQM,47.8218994141,-92.6893997192,Cook Municipal Airport,Minnesota,4.17,N/A
+467,Cheraw,KCQW,34.71289825,-79.95700073,Cheraw Municipal Lynch Bellinger Field,South-Carolina,N/A,4.25
+468,Chatham,KCQX,41.6884002686,-69.9895019531,Chatham Municipal Airport,Massachusetts,N/A,4.54
+469,North Myrtle Beach,KCRE,33.8116989136,-78.7238998413,Grand Strand Airport,South-Carolina,3.97,3.69
+470,Jacksonville,KCRG,30.3362998962,-81.5143966675,Craig Municipal Airport,Florida,4.20,2.37
+471,Corpus Christi,KCRP,27.7703990936,-97.5011978149,Corpus Christi International Airport,Texas,3.70,4.20
+472,Carlsbad,KCRQ,33.12829971,-117.2799988,Mc Clellan-Palomar Airport,California,4.99,4.81
+473,Crossett,KCRT,33.1782989502,-91.8802032471,Z M Jack Stell Field,Arkansas,3.95,3.15
+474,Charleston,KCRW,38.3731002808,-81.5932006836,Yeager Airport,West-Virginia,4.55,3.36
+475,Corinth,KCRX,34.9150009155,-88.6035003662,Roscoe Turner Airport,Mississippi,3.50,2.73
+476,Columbus,KCSG,32.5163002014,-84.9389038086,Columbus Metropolitan Airport,Georgia,4.03,4.65
+477,Crossville,KCSV,35.9513015747,-85.0849990845,Crossville Memorial Whitson Field,Tennessee,3.99,3.30
+478,Cut Bank,KCTB,48.6083984375,-112.3759994507,Cut Bank Municipal Airport,Montana,4.26,3.23
+479,Clinton,KCTZ,34.9756011963,-78.3646011353,Sampson County Airport,North-Carolina,4.35,4.19
+480,Columbia,KCUB,33.970500946,-80.9952011108,Jim Hamilton L.B. Owens Airport,South-Carolina,4.56,3.60
+481,Cushing,KCUH,35.9499015808,-96.7731018066,Cushing Municipal Airport,Oklahoma,3.49,2.89
+482,Carmi,KCUL,38.0895004272,-88.1231002808,Carmi Municipal Airport,Illinois,4.55,2.95
+483,Castroville,KCVB,29.3418998718,-98.8508987427,Castroville Municipal Airport,Texas,3.50,2.95
+484,Atlanta,KCVC,33.6322475,-83.8466189,Covington Municipal Airport,Georgia,3.69,3.34
+485,Hebron,KCVG,39.0488014221,-84.6678009033,Cincinnati Northern Kentucky International Airport,Kentucky,4.50,3.84
+486,Hollister,KCVH,36.8932991028,-121.410003662,Hollister Municipal Airport,California,3.95,3.53
+487,Ash Flat,KCVK,36.26490021,-91.56259918,Sharp County Regional Airport,Arkansas,4.25,N/A
+488,Clovis,KCVN,34.4250984192,-103.07900238,Clovis Municipal Airport,New-Mexico,4.84,2.74
+489,Corvallis,KCVO,44.49720001,-123.2900009,Corvallis Municipal Airport,Oregon,5.09,4.89
+490,Charlevoix,KCVX,45.3047981262,-85.2748031616,Charlevoix Municipal Airport,Michigan,4.42,4.53
+491,Mosinee,KCWA,44.7775993347,-89.6668014526,Central Wisconsin Airport,Wisconsin,4.09,3.74
+492,Wichita Falls,KCWC,33.85779953,-98.49040221999999,Kickapoo Downtown Airport,Texas,3.41,2.86
+493,Lake Charles,KCWF,30.2105998993,-93.1432037354,Chennault International Airport,Louisiana,2.99,3.75
+494,Clinton,KCWI,41.8311004639,-90.3291015625,Clinton Municipal Airport,Arkansas,3.60,3.70
+495,Calexico,KCXL,32.6694984436,-115.5130004883,Calexico International Airport,California,4.75,3.56
+496,Houston,KCXO,30.3518009186,-95.4144973755,Lone Star Executive Airport,Texas,3.99,3.50
+497,Carson City,KCXP,39.192199707,-119.7340011597,Carson Airport,Nevada,3.95,2.75
+498,Camilla,KCXU,31.2129001617,-84.2368011475,Camilla Mitchell County Airport,Georgia,3.95,3.90
+499,Harrisburg,KCXY,40.2170982361,-76.8515014648,Capital City Airport,Pennsylvania,4.42,4.26
+500,Circleville,KCYO,39.51599884,-82.98210144,Pickaway County Memorial Airport,Ohio,4.75,3.00
+501,Cheyenne,KCYS,41.15570068,-104.8119965,Cheyenne Regional Jerry Olson Field,Wyoming,4.00,2.99
+502,Cozad,KCZD,40.86909866,-100.0039978,Cozad Municipal Airport,Nebraska,4.58,3.95
+503,Carrizo Springs,KCZT,28.5221996307,-99.823600769,Dimmit County Airport,Texas,3.95,4.15
+504,Tioga,KD60,48.38050079,-102.8980026,Tioga Municipal Airport,North-Dakota,5.25,5.10
+505,Lapeer,KD95,43.0666007996,-83.2723007202,Dupont Lapeer Airport,Michigan,4.60,3.78
+506,Romeo,KD98,42.79610062,-82.97499847,Romeo State Airport,Michigan,4.49,2.97
+507,Daytona Beach,KDAB,29.1798992157,-81.0580978394,Daytona Beach International Airport,Florida,4.03,4.82
+508,Daggett,KDAG,34.85369873,-116.7870026,Barstow Daggett Airport,California,5.95,5.70
+509,Dallas,KDAL,32.8470993042,-96.8517990112,Dallas Love Field,Texas,4.19,3.74
+510,Danville,KDAN,36.5728988647,-79.3360977173,Danville Regional Airport,Virginia,5.00,3.15
+511,Dayton,KDAY,39.9024009705,-84.2193984985,James M Cox Dayton International Airport,Ohio,4.90,3.44
+512,Dublin,KDBN,32.56439972,-82.98529816,W H 'Bud' Barron Airport,Georgia,4.25,4.00
+513,Dubuque,KDBQ,42.40200043,-90.70950317,Dubuque Regional Airport,Iowa,4.19,3.72
+514,Chester,KDCM,34.7892990112,-81.1958007813,Chester Catawba Regional Airport,South-Carolina,4.85,4.55
+515,Decatur,KDCU,34.6526985168,-86.9453964233,Pryor Field Regional Airport,Alabama,4.50,4.30
+516,Washington,KDCY,38.7004013062,-87.129699707,Daviess County Airport,Indiana,3.98,3.65
+517,Dodge City,KDDC,37.7634010315,-99.9655990601,Dodge City Regional Airport,Kansas,4.24,2.82
+518,Decatur,KDEC,39.8345985413,-88.8656997681,Decatur Airport,Illinois,5.74,4.79
+519,Decorah,KDEH,43.27550125,-91.73940277,Decorah Municipal Airport,Iowa,4.25,3.80
+520,Denver,KDEN,39.8616981506,-104.672996521,Denver International Airport,Colorado,7.00,6.31
+521,De Queen,KDEQ,34.047000885,-94.3993988037,J Lynn Helms Sevier County Airport,Arkansas,4.26,3.74
+522,Detroit,KDET,42.40919876,-83.00990295,Coleman A. Young Municipal Airport,Michigan,4.50,6.99
+523,Deer Park,KDEW,47.96659851,-117.427002,Deer Park Airport,Washington,4.98,3.90
+524,Defiance,KDFI,41.3375015259,-84.4288024902,Defiance Memorial Airport,Ohio,4.27,3.20
+525,Dallas-Fort Worth,KDFW,32.8968009949,-97.0380020142,Dallas Fort Worth International Airport,Texas,5.10,4.40
+526,Dothan,KDHN,31.3213005066,-85.4496002197,Dothan Regional Airport,Alabama,4.61,4.31
+527,Dalhart,KDHT,36.0225982666,-102.54699707,Dalhart Municipal Airport,Texas,3.38,2.39
+528,Driggs,KDIJ,43.742401123,-111.0979995728,Driggs Reed Memorial Airport,Idaho,4.85,3.95
+529,Dickinson,KDIK,46.7974014282,-102.802001953,Dickinson Theodore Roosevelt Regional Airport,North-Dakota,4.49,4.59
+530,De Kalb,KDKB,41.93370056,-88.70570374,De Kalb Taylor Municipal Airport,Illinois,3.10,2.70
+531,Dunkirk,KDKK,42.49330139,-79.27200317,Chautauqua County-Dunkirk Airport,New-York,4.95,4.19
+532,Knoxville,KDKX,35.9639015198,-83.8739013672,Knoxville Downtown Island Airport,Tennessee,4.98,4.89
+533,Duluth,KDLH,46.8420982361,-92.1936035156,Duluth International Airport,Minnesota,4.49,3.50
+534,Baraboo,KDLL,43.52270126,-89.77020264,Baraboo Wisconsin Dells Airport,Wisconsin,3.89,3.49
+535,Dillon,KDLN,45.2554016113,-112.5530014038,Dillon Airport,Montana,5.98,4.40
+536,Delano,KDLO,35.7456016541,-119.2369995117,Delano Municipal Airport,California,5.00,4.45
+537,The Dalles,KDLS,45.6184997559,-121.1669998169,Columbia Gorge Regional the Dalles Municipal Airport,Washington,3.75,3.85
+538,Delaware,KDLZ,40.2797012329,-83.1147994995,Delaware Municipal Airport,Ohio,5.19,3.25
+539,Deming,KDMN,32.262298584,-107.7210006714,Deming Municipal Airport,New-Mexico,3.90,3.50
+540,Sedalia,KDMO,38.7074012756,-93.1759033203,Sedalia Memorial Airport,Missouri,4.19,3.55
+541,Westminster,KDMW,39.60829926,-77.00769806,Carroll County Regional Jack B Poage Field,Maryland,4.11,4.86
+542,Augusta,KDNL,33.4664993286,-82.0393981934,Daniel Field,Georgia,3.89,3.25
+543,Dalton,KDNN,34.72290039,-84.87020111,Dalton Municipal Airport,Georgia,3.99,3.49
+544,Denison,KDNS,41.9864006,-95.38069916,Denison Municipal Airport,Iowa,3.53,N/A
+545,Danville,KDNV,40.19919968,-87.59590149,Vermilion Regional Airport,Illinois,4.07,3.90
+546,Chicago/West Chicago,KDPA,41.90779877,-88.24859619,Dupage Airport,Illinois,4.46,4.33
+547,Kenansville,KDPL,35.00009918,-77.98169708,Duplin County Airport,North-Carolina,N/A,3.59
+548,Douglas,KDQH,31.4766998291,-82.860496521,Douglas Municipal Airport,Arizona,4.25,3.80
+549,De Ridder,KDRI,30.8316993713,-93.3398971558,Beauregard Regional Airport,Louisiana,3.50,4.21
+550,Durango,KDRO,37.1515007019,-107.753997803,Durango La Plata County Airport,Colorado,5.98,6.25
+551,Del Rio,KDRT,29.3742008209,-100.927001953,Del Rio International Airport,Texas,3.98,3.71
+552,Des Moines,KDSM,41.5340003967,-93.6631011963,Des Moines International Airport,Iowa,3.75,3.00
+553,Delta,KDTA,39.3805999756,-112.508003235,Delta Municipal Airport,Utah,4.20,3.65
+554,Detroit Lakes,KDTL,46.82519913,-95.88569641,Detroit Lakes Airport - Wething Field,Minnesota,4.25,4.25
+555,Shreveport,KDTN,32.5401992798,-93.7450027466,Shreveport Downtown Airport,Louisiana,3.64,2.86
+556,Denton,KDTO,33.2006988525,-97.1979980469,Denton Municipal Airport,Texas,4.19,4.18
+557,Destin,KDTS,30.40010071,-86.47149658,Destin Fort Walton Beach Airport,Florida,4.25,3.95
+558,Detroit,KDTW,42.2123985291,-83.3534011841,Detroit Metropolitan Wayne County Airport,Michigan,7.78,7.04
+559,Durant,KDUA,33.942298890000004,-96.39450073,Eaker Field,Oklahoma,3.98,2.67
+560,Duncan,KDUC,34.47090149,-97.9598999,Halliburton Field,Oklahoma,3.96,2.69
+561,Douglas Bisbee,KDUG,31.4689998627,-109.603996277,Bisbee Douglas International Airport,Arizona,4.95,4.75
+562,Dubois,KDUJ,41.17829895,-78.8986969,DuBois Regional Airport,Pennsylvania,5.35,4.75
+563,Dumas,KDUX,35.8578987122,-102.0130004883,Moore County Airport,Texas,N/A,1.80
+564,Danville,KDVK,37.5778999329,-84.7696990967,Stuart Powell Field,Kentucky,3.89,3.29
+565,Devils Lake,KDVL,48.11420059,-98.90879822,Devils Lake Regional Airport,North-Dakota,4.50,4.50
+566,Davenport,KDVN,41.61029816,-90.58830261,Davenport Municipal Airport,Iowa,3.67,4.00
+567,Novato,KDVO,38.1436004639,-122.5559997559,Gnoss Field,California,4.60,3.85
+568,Phoenix,KDVT,33.6883010864,-112.083000183,Phoenix Deer Valley Airport,Arizona,5.44,5.39
+569,Davis/Woodland/Winters,KDWA,38.57910156,-121.8570023,Yolo County Davis Woodland Winters Airport,California,4.89,4.50
+570,Houston,KDWH,30.0618000031,-95.5528030396,David Wayne Hooks Memorial Airport,Texas,4.00,3.50
+571,Ashland,KDWU,38.5545005798,-82.7379989624,Ashland Regional Airport,Kentucky,4.30,3.99
+572,Dexter,KDXE,36.77750015,-89.94120026,Dexter Municipal Airport,Missouri,3.95,3.00
+573,Danbury,KDXR,41.3714981079,-73.4822006226,Danbury Municipal Airport,Connecticut,4.51,2.80
+574,Demopolis,KDYA,32.4637985229,-87.9541015625,Demopolis Municipal Airport,Alabama,4.20,3.80
+575,Summerville,KDYB,33.0634002686,-80.279296875,Summerville Airport,South-Carolina,4.73,4.35
+576,Doylestown,KDYL,40.3330001831,-75.1222991943,Doylestown Airport,Pennsylvania,4.89,4.50
+577,Dyersburg,KDYR,35.9980010986,-89.4066009521,Dyersburg Regional Airport,Tennessee,3.79,3.85
+578,Horseshoe Bay,KDZB,30.52709961,-98.35870361,Horseshoe Bay Resort Airpark,Texas,5.24,4.74
+579,Blairsville,KDZJ,34.8550987244,-83.9969024658,Blairsville Airport,Georgia,3.94,N/A
+580,Andrews,KE11,32.3311004639,-102.5299987793,Andrews County Airport,Texas,3.16,3.00
+581,Espanola,KE14,36.0299987793,-106.04599762,Ohkay Owingeh Airport,New-Mexico,4.40,4.00
+582,San Martin,KE16,37.08160019,-121.5970001,South County Airport of Santa Clara County Airport,California,4.60,4.79
+583,Wickenburg,KE25,33.96889877,-112.7990036,Wickenburg Municipal Airport,Arizona,4.00,4.45
+584,Alpine,KE38,30.3841991425,-103.683998108,Alpine Casparis Municipal Airport,Texas,4.51,2.96
+585,Vega,KE52,35.2319984436,-102.3990020752,Oldham County Airport,Texas,3.30,3.10
+586,Denver City,KE57,32.9751014709,-102.8420028687,Denver City Airport,Texas,5.20,5.20
+587,Eloy,KE60,32.8069992065,-111.5869979858,Eloy Municipal Airport,Arizona,4.75,3.75
+588,Benson,KE95,31.9997005463,-110.3570022583,Benson Municipal Airport,Arizona,4.75,5.25
+589,Kearney,KEAR,40.72700119,-99.00679779,Kearney Regional Airport,Nebraska,4.49,3.79
+590,Wenatchee,KEAT,47.3988990784,-120.2070007324,Pangborn Memorial Airport,Washington,5.04,3.63
+591,Eau Claire,KEAU,44.8657989502,-91.4842987061,Chippewa Valley Regional Airport,Wisconsin,4.62,4.42
+592,Edinburg,KEBG,26.44169998,-98.12220001,South Texas International At Edinburg Airport,Texas,2.94,2.32
+593,Webster City,KEBS,42.43659973,-93.86889648,Webster City Municipal Airport,Iowa,4.50,3.20
+594,Elizabeth City,KECG,36.26060104,-76.17459869,Elizabeth City Regional Airport & Coast Guard Air Station,North-Carolina,3.89,3.70
+595,Panama City Beach,KECP,30.3417,-85.7973,Northwest Florida Beaches International Airport,Florida,4.25,3.90
+596,Newcastle,KECS,43.8853988647,-104.3180007935,Mondell Field,Wyoming,4.98,4.46
+597,Austin,KEDC,30.4000778,-97.5760335,Austin Executive Airport,Texas,4.90,5.20
+598,Edenton,KEDE,36.0276985168,-76.5671005249,Northeastern Regional Airport,North-Carolina,N/A,3.92
+599,Bellefontaine,KEDJ,40.37229919,-83.81900024,Bellefontaine Regional Airport,Ohio,4.00,3.50
+600,Enterprise,KEDN,31.29969978,-85.89990234,Enterprise Municipal Airport,Alabama,3.27,2.35
+601,Needles,KEED,34.7663002014,-114.6230010986,Needles Airport,California,4.99,4.75
+602,Keene,KEEN,42.898399353,-72.2707977295,Dillant Hopkins Airport,New-Hampshire,4.55,4.50
+603,Meeker,KEEO,40.0488014221,-107.8860015869,Meeker Airport,Colorado,5.03,5.03
+604,Alabaster,KEET,33.17699814,-86.78279877,Shelby County Airport,Alabama,3.80,4.15
+605,Belle Fourche,KEFC,44.73419952,-103.8619995,Belle Fourche Municipal Airport,South-Dakota,4.70,4.17
+606,Houston,KEFD,29.6072998047,-95.1587982178,Ellington Field,Connecticut,5.58,4.68
+607,Newport,KEFK,44.8888015747,-72.2292022705,Newport State Airport,Vermont,3.85,3.69
+608,Monroe,KEFT,42.6148986816,-89.5904006958,Monroe Municipal Airport,Wisconsin,3.00,2.70
+609,Eagle,KEGE,39.64260101,-106.9179993,Eagle County Regional Airport,Colorado,4.42,3.74
+610,Wellington,KEGT,37.323600769,-97.3882980347,Wellington Municipal Airport,Kansas,N/A,3.10
+611,Eagle River,KEGV,45.9323005676,-89.2683029175,Eagle River Union Airport,Wisconsin,4.25,3.30
+612,Shelby,KEHO,35.25559998,-81.60099792,Shelby-Cleveland County Regional Airport,North-Carolina,4.25,3.75
+613,Henderson,KEHR,37.80780029,-87.68569946,Henderson City County Airport,Kentucky,5.10,4.98
+614,Erie,KEIK,40.0102005005,-105.047996521,Erie Municipal Airport,Colorado,3.80,3.23
+615,Elkhart,KEKM,41.7193984985,-86.0031967163,Elkhart Municipal Airport,Indiana,4.00,3.89
+616,Elko,KEKO,40.8249015808,-115.7919998169,Elko Regional Airport,Nevada,4.25,3.99
+617,Ennis,KEKS,45.27180099,-111.6490021,Ennis Big Sky Airport,Montana,4.49,4.20
+618,Elizabethtown,KEKX,37.686000824,-85.9250030518,Addington Field,Kentucky,4.40,4.25
+619,Bessemer,KEKY,33.31290054,-86.92590332,Bessemer Airport,Alabama,4.48,4.59
+620,Eagle Lake,KELA,29.6005992889,-96.3218994141,Eagle Lake Airport,Texas,3.24,3.05
+621,El Dorado,KELD,33.2210006714,-92.8133010864,South Arkansas Regional At Goodwin Field,Arkansas,3.10,3.15
+622,Elk City,KELK,35.43080139,-99.39430237,Elk City Regional Business Airport,Oklahoma,3.80,3.02
+623,Elmira/Corning,KELM,42.1599006653,-76.8916015625,Elmira Corning Regional Airport,New-York,4.99,4.85
+624,Ellensburg,KELN,47.03300095,-120.5309982,Bowers Field,Washington,4.89,4.37
+625,Ely,KELO,47.82450104,-91.83070374,Ely Municipal Airport,Minnesota,4.95,4.95
+626,El Paso,KELP,31.80719948,-106.3779984,El Paso International Airport,Texas,4.49,3.95
+627,Kemmerer,KEMM,41.8241004944,-110.5569992065,Kemmerer Municipal Airport,Wyoming,5.11,3.82
+628,El Monte,KEMT,34.086101532,-118.0350036621,El Monte Airport,California,4.99,3.99
+629,Centralia,KENL,38.5150985718,-89.0911026001,Centralia Municipal Airport,Illinois,5.17,3.83
+630,Wendover,KENV,40.7187004089,-114.03099823,Wendover Airport,Utah,4.50,3.55
+631,Kenosha,KENW,42.59569931,-87.92780304,Kenosha Regional Airport,Wisconsin,3.97,2.77
+632,Neosho,KEOS,36.810798645,-94.3917007446,Neosho Hugh Robinson Airport,Missouri,2.92,3.50
+633,Eastport,KEPM,44.9100990295,-67.0127029419,Eastport Municipal Airport,Maine,4.45,4.72
+634,Monroe,KEQY,35.01879883,-80.62020111,Charlotte-Monroe Executive Airport,North-Carolina,3.90,3.90
+635,Erie,KERI,42.0831270134,-80.1738667488,Erie International Tom Ridge Field,Pennsylvania,5.15,3.40
+636,Kerrville,KERV,29.9766998291,-99.0857009888,Kerrville Municipal Louis Schreiner Field,Texas,3.50,3.45
+637,Newberry,KERY,46.3111991882,-85.4572982788,Luce County Airport,Michigan,5.25,4.00
+638,Escanaba,KESC,45.7226982117,-87.0936965942,Delta County Airport,Michigan,4.99,4.69
+639,Alexandria,KESF,31.3948993683,-92.2957992554,Esler Regional Airport,Louisiana,3.15,3.76
+640,Easton,KESN,38.8041992188,-76.0690002441,Easton Newnam Field,Maryland,4.50,3.10
+641,West Bend,KETB,43.4221992493,-88.1278991699,West Bend Municipal Airport,Wisconsin,3.92,3.79
+642,Eastland,KETN,32.4135017395,-98.8097991943,Eastland Municipal Airport,Texas,N/A,3.20
+643,Eufaula,KEUF,31.9512996674,-85.1288986206,Weedon Field,Alabama,4.00,4.30
+644,Eugene,KEUG,44.1245994568,-123.2119979858,Mahlon Sweet Field,Oregon,5.10,4.62
+645,Caldwell,KEUL,43.64189911,-116.6360016,Caldwell Industrial Airport,Idaho,4.40,4.10
+646,New Smyrna Beach,KEVB,29.0557003021,-80.9488983154,New Smyrna Beach Municipal Airport,Florida,5.02,5.18
+647,Eveleth,KEVM,47.42509842,-92.49849701,Eveleth Virginia Municipal Airport,Minnesota,3.90,3.25
+648,Maryville,KEVU,40.35250092,-94.91500092,Northwest Missouri Regional Airport,Missouri,4.17,3.73
+649,Evansville,KEVV,38.0369987488,-87.5324020386,Evansville Regional Airport,Indiana,5.40,5.40
+650,Evanston,KEVW,41.27479935,-111.0350037,Evanston-Uinta County Airport-Burns Field,Wyoming,3.95,3.30
+651,Middletown,KEVY,39.520401001,-75.7203979492,Summit Airport,Delaware,4.91,4.99
+652,New Bedford,KEWB,41.6761016846,-70.9569015503,New Bedford Regional Airport,Massachusetts,5.40,4.25
+653,New Bern,KEWN,35.0730018616,-77.0429000854,Coastal Carolina Regional Airport,North-Carolina,5.15,4.80
+654,Newark,KEWR,40.6925010681,-74.1687011719,Newark Liberty International Airport,New-Jersey,6.82,6.09
+655,Lexington,KEXX,35.7811012268,-80.3038024902,Davidson County Airport,North-Carolina,3.65,3.25
+656,Indianapolis,KEYE,39.8306999207,-86.2944030762,Eagle Creek Airpark,Indiana,4.55,4.30
+657,Key West,KEYW,24.5561008453,-81.7595977783,Key West International Airport,Florida,6.92,6.00
+658,Fredericksburg,KEZF,38.2667999268,-77.4492034912,Shannon Airport,Virginia,3.99,3.69
+659,Eastman,KEZM,32.2141990662,-83.1279983521,Heart of Georgia Regional Airport,Georgia,N/A,4.19
+660,Vernon,KF05,34.2257003784,-99.2837982178,Wilbarger County Airport,Texas,3.20,3.75
+661,Center,KF17,31.8316001892,-94.1564025879,Center Municipal Airport,Texas,3.99,3.85
+662,Ennis,KF41,32.32970047,-96.6639022827,Ennis Municipal Airport,Texas,3.05,2.59
+663,West Palm Beach,KF45,26.84440041,-80.22129822,North Palm Beach County General Aviation Airport,Florida,4.75,6.31
+664,Slaton,KF49,33.4847984314,-101.6610031128,Slaton Municipal Airport,Texas,3.25,2.90
+665,Winnsboro,KF51,32.9388008118,-95.2789001465,Winnsboro Municipal Airport,Texas,4.36,4.04
+666,Mount Vernon,KF53,33.215400700000004,-95.23739624,Franklin County Airport,Texas,4.09,3.80
+667,Murrieta/Temecula,KF70,33.5741996765,-117.1279983521,French Valley Airport,California,3.70,2.89
+668,Lubbock,KF82,33.48559952,-101.8130035,Town & Country Airpark,Texas,3.65,2.85
+669,Farmington,KFAM,37.76110077,-90.4285965,Farmington Regional Airport,Missouri,N/A,2.75
+670,Fargo,KFAR,46.9207000732,-96.8158035278,Hector International Airport,North-Dakota,4.78,4.56
+671,Fresno,KFAT,36.7761993408,-119.7180023193,Fresno Yosemite International Airport,California,5.39,3.99
+672,Fayetteville,KFAY,34.9911994934,-78.8803024292,Fayetteville Regional Grannis Field,North-Carolina,6.13,4.97
+673,Richmond,KFCI,37.40650177,-77.52500153,Chesterfield County Airport,Virginia,5.50,4.00
+674,Minneapolis,KFCM,44.8272018433,-93.4570999146,Flying Cloud Airport,Minnesota,4.45,4.25
+675,Forrest City,KFCY,34.9420013428,-90.7750015259,Forrest City Municipal Airport,Arkansas,3.85,3.55
+676,Frederick,KFDK,39.4175987244,-77.3742980957,Frederick Municipal Airport,Maryland,5.15,5.41
+677,Winnsboro,KFDW,34.3154983521,-81.1088027954,Fairfield County Airport,Ohio,N/A,4.50
+678,Findlay,KFDY,41.0135002136,-83.6687011719,Findlay Airport,Ohio,4.57,3.89
+679,Freeport,KFEP,42.2462005615,-89.5820007324,Albertus Airport,Illinois,3.99,3.97
+680,Fremont,KFET,41.44910049,-96.52020264,Fremont Municipal Airport,Nebraska,5.09,2.66
+681,Atlanta,KFFC,33.3572998047,-84.5718002319,Peachtree City Falcon Field,Georgia,3.43,3.68
+682,Fairfield,KFFL,41.0532989502,-91.9788970947,Fairfield Municipal Airport,Iowa,4.95,3.95
+683,Fergus Falls,KFFM,46.28440094,-96.15670013,Fergus Falls Municipal Einar Mickelson Field,Minnesota,3.99,3.99
+684,Frankfort,KFFT,38.18249893,-84.90470123,Capital City Airport,Kentucky,3.99,3.64
+685,Mesa,KFFZ,33.4608001709,-111.7279968262,Falcon Field,Alabama,4.60,3.70
+686,Flemingsburg,KFGX,38.5418014526,-83.7434005737,Fleming Mason Airport,Kentucky,3.69,2.99
+687,Fernandina Beach,KFHB,30.6117992401,-81.4611968994,Fernandina Beach Municipal Airport,Florida,4.22,2.42
+688,Fort Huachuca Sierra Vista,KFHU,31.5884990692,-110.34400177,Sierra Vista Municipal Libby Army Air Field,Arizona,4.95,4.91
+689,Clearfield,KFIG,41.0485992432,-78.4131011963,Clearfield Lawrence Airport,Pennsylvania,4.59,3.86
+690,Fitchburg,KFIT,42.5541000366,-71.7590026855,Fitchburg Municipal Airport,Massachusetts,4.80,3.98
+691,Franklin,KFKL,41.3778991699,-79.8603973389,Venango Regional Airport,Pennsylvania,4.89,3.55
+692,Franklin,KFKN,36.6981010437,-76.9038009644,Franklin Municipal John Beverly Rose Airport,Virginia,4.40,3.75
+693,Frankfort,KFKR,40.273399353,-86.5622024536,Frankfort Municipal Airport,Indiana,4.50,3.60
+694,Fond du Lac,KFLD,43.7711982727,-88.4884033203,Fond du Lac County Airport,Wisconsin,3.92,3.79
+695,Flagstaff,KFLG,35.13850021,-111.6709976,Flagstaff Pulliam Airport,Arizona,4.39,4.29
+696,Fort Lauderdale,KFLL,26.072599411,-80.1527023315,Fort Lauderdale Hollywood International Airport,Florida,4.09,2.29
+697,Florence,KFLO,34.1853981018,-79.7238998413,Florence Regional Airport,South-Carolina,3.46,3.09
+698,Flippin,KFLP,36.29090118,-92.59030151,Marion County Regional Airport,Arkansas,4.38,2.99
+699,Fallon,KFLX,39.4990997314,-118.7490005493,Fallon Municipal Airport,Nevada,4.09,3.49
+700,Fort Meade(Odenton),KFME,39.0853996277,-76.7593994141,Tipton Airport,Maryland,3.95,3.10
+701,Fort Morgan,KFMM,40.3335990906,-103.8040008545,Fort Morgan Municipal Airport,Colorado,N/A,3.65
+702,Farmington,KFMN,36.7411994934,-108.2300033569,Four Corners Regional Airport,New-Mexico,3.79,3.09
+703,Fort Myers,KFMY,26.58659935,-81.8632965088,Page Field,Florida,2.78,3.24
+704,Fort Collins/Loveland,KFNL,40.4518013,-105.011001587,Fort Collins Loveland Municipal Airport,Colorado,4.45,3.66
+705,Flint,KFNT,42.9654006958,-83.743598938,Bishop International Airport,Michigan,4.90,6.31
+706,Flora,KFOA,38.6649017334,-88.4530029297,Flora Municipal Airport,Illinois,5.00,4.00
+707,Fort Dodge,KFOD,42.55149841,-94.19259644,Fort Dodge Regional Airport,Iowa,3.65,3.25
+708,Topeka,KFOE,38.9509010315,-95.6635971069,Forbes Field,Kansas,5.44,3.78
+709,Westhampton Beach,KFOK,40.8437004089,-72.6317977905,Francis S Gabreski Airport,New-York,5.69,5.34
+710,Fillmore,KFOM,38.95830154,-112.362999,Fillmore Municipal Airport,Utah,4.01,3.66
+711,Fort Pierce,KFPR,27.49510002,-80.36830139,St Lucie County International Airport,Florida,4.15,3.65
+712,Rutherfordton,KFQD,35.42819977,-81.93509674,Rutherford Co Marchman Field,North-Carolina,4.29,3.25
+713,Farmingdale,KFRG,40.7288017273,-73.4133987427,Republic Airport,New-York,5.70,4.46
+714,French Lick,KFRH,38.5061988831,-86.6369018555,French Lick Municipal Airport,Indiana,4.00,3.80
+715,Fairmont,KFRM,43.643901825,-94.4156036377,Fairmont Municipal Airport,Minnesota,N/A,3.99
+716,Sioux Falls,KFSD,43.5820007324,-96.741897583,Joe Foss Field Airport,South-Dakota,4.99,3.29
+717,Fort Smith,KFSM,35.3366012573,-94.367401123,Fort Smith Regional Airport,Arkansas,4.91,5.23
+718,Highgate,KFSO,44.94029999,-73.09750366,Franklin County State Airport,Vermont,3.85,4.25
+719,Fort Stockton,KFST,30.9157009125,-102.9160003662,Fort Stockton Pecos County Airport,Texas,4.39,3.55
+720,Fort Worth,KFTW,32.8198013306,-97.3623962402,Fort Worth Meacham International Airport,Texas,5.10,4.40
+721,Atlanta,KFTY,33.7790985107,-84.5214004517,Fulton County Airport Brown Field,Georgia,5.42,4.41
+722,Fullerton,KFUL,33.8720016479,-117.980003357,Fullerton Municipal Airport,California,4.18,4.30
+723,Frenchville,KFVE,47.2854995728,-68.3127975464,Northern Aroostook Regional Airport,Maine,5.29,4.29
+724,Farmville,KFVX,37.35749817,-78.43779755,Farmville Regional Airport,Virginia,4.80,4.14
+725,Fort Wayne,KFWA,40.97850037,-85.19509888,Fort Wayne International Airport,Indiana,5.00,4.25
+726,Branson West,KFWB,36.698497,-93.402249,Branson West Airport,Missouri,4.49,4.29
+727,Fairfield,KFWC,38.3786010742,-88.4126968384,Fairfield Municipal Airport,Illinois,4.75,3.75
+728,Sussex,KFWN,41.2001991272,-74.6230010986,Sussex Airport,New-Jersey,4.45,4.25
+729,Monongahela,KFWQ,40.2097015381,-79.8313980103,Rostraver Airport,Pennsylvania,N/A,4.10
+730,Fort Worth,KFWS,32.5652008057,-97.3080978394,Fort Worth Spinks Airport,Texas,3.50,4.25
+731,Fort Lauderdale,KFXE,26.1972999573,-80.1707000732,Fort Lauderdale Executive Airport,Florida,5.48,2.79
+732,Forest City,KFXY,43.23469925,-93.62409973,Forest City Municipal Airport,Iowa,N/A,4.35
+733,Somerville,KFYE,35.207698822,-89.3945007324,Fayette County Airport,Tennessee,3.60,3.25
+734,West Point,KFYJ,37.52119827,-76.76470184,Middle Peninsula Regional Airport,Virginia,4.60,3.89
+735,Fayetteville,KFYM,35.0597000122,-86.5640029907,Fayetteville Municipal Airport,Tennessee,4.18,2.62
+736,Fayetteville,KFYV,36.0051002502,-94.1700973511,Drake Field,Arkansas,3.48,4.02
+737,Fitzgerald,KFZG,31.6837005615,-83.2705001831,Fitzgerald Municipal Airport,Georgia,4.52,4.40
+738,Fulton,KFZY,43.3507995605,-76.3880996704,Oswego County Airport,New-York,4.60,4.80
+739,Gadsden,KGAD,33.9725990295,-86.0889968872,Northeast Alabama Regional Airport,Alabama,3.90,4.00
+740,Gaithersburg,KGAI,39.1683006287,-77.1660003662,Montgomery County Airpark,Maryland,5.40,5.40
+741,Galliano,KGAO,29.44479942,-90.26110077,South Lafourche Leonard Miller Jr Airport,Louisiana,3.03,3.08
+742,Galesburg,KGBG,40.9379997253,-90.431098938,Galesburg Municipal Airport,Illinois,3.99,3.49
+743,Gillette,KGCC,44.3488998413,-105.5390014648,Gillette Campbell County Airport,Wyoming,5.05,4.90
+744,Garden City,KGCK,37.9275016785,-100.7239990234,Garden City Regional Airport,Kansas,3.85,2.80
+745,Claremore,KGCM,36.2927017212,-95.479598999,Claremore Regional Airport,Oklahoma,3.93,2.68
+746,Grand Canyon,KGCN,35.9524002075,-112.1470031738,Grand Canyon National Park Airport,Arizona,4.39,4.29
+747,Granbury,KGDJ,32.44440079,-97.81690216,Granbury Regional Airport,Texas,N/A,3.00
+748,Glendive,KGDV,47.13869858,-104.8069992,Dawson Community Airport,Montana,4.20,3.75
+749,Gladwin,KGDW,43.9706001282,-84.4749984741,Gladwin Zettel Memorial Airport,Michigan,4.21,4.50
+750,Georgetown,KGED,38.68920135,-75.35890198,Sussex County Airport,Delaware,4.28,4.15
+751,Spokane,KGEG,47.6198997498,-117.533996582,Spokane International Airport,Washington,6.06,5.68
+752,Georgetown,KGEO,38.8819007874,-83.8826980591,Brown County Airport,Ohio,4.79,4.29
+753,Glendale,KGEU,33.5269012451,-112.2949981689,Glendale Municipal Airport,Arizona,4.55,4.95
+754,Jefferson,KGEV,36.4323997498,-81.4197006226,Ashe County Airport,North-Carolina,3.75,3.55
+755,Greybull,KGEY,44.51679993,-108.0830002,South Big Horn County Airport,Wyoming,4.89,4.79
+756,Shelbyville,KGEZ,39.58319855,-85.80480194,Shelbyville Municipal Airport,Indiana,N/A,4.89
+757,Grand Forks,KGFK,47.9492988586,-97.1761016846,Grand Forks International Airport,North-Dakota,5.35,5.25
+758,Glens Falls,KGFL,43.3412017822,-73.6102981567,Floyd Bennett Memorial Airport,New-York,4.65,4.90
+759,Georgetown,KGGE,33.3116989136,-79.3196029663,Georgetown County Airport,South-Carolina,4.55,3.96
+760,Longview,KGGG,32.3839988708,-94.7115020752,East Texas Regional Airport,Texas,4.20,3.20
+761,Grinnell,KGGI,41.7092018127,-92.7349014282,Grinnell Regional Airport,Iowa,4.00,3.50
+762,Glasgow,KGGW,48.2125015259,-106.6149978638,Wokal Field Glasgow International Airport,Montana,4.00,3.60
+763,Marshfield,KGHG,42.0983009338,-70.672203064,Marshfield Municipal George Harlow Field,Massachusetts,4.44,3.34
+764,Grangeville,KGIC,45.94260025,-116.1230011,Idaho County Airport,Idaho,5.40,5.25
+765,Grand Junction,KGJT,39.1223983765,-108.527000427,Grand Junction Regional Airport,Colorado,4.20,4.50
+766,Meadville,KGKJ,41.62649918,-80.21469879,Port Meadville Airport,Pennsylvania,4.47,N/A
+767,Sevierville,KGKT,35.85779953,-83.5287017822,Gatlinburg Pigeon Forge Airport,Tennessee,4.60,4.50
+768,Arlington,KGKY,32.663898468,-97.0942993164,Arlington Municipal Airport,Oregon,3.40,3.74
+769,Goodland,KGLD,39.37060165,-101.6989975,Renner Field-Goodland Municipal Airport,Kansas,3.86,2.89
+770,Gainesville,KGLE,33.6514015198,-97.1969985962,Gainesville Municipal Airport,Texas,2.99,1.95
+771,Greenville,KGLH,33.4828987122,-90.9856033325,Mid Delta Regional Airport,Mississippi,4.88,4.89
+772,Gaylord,KGLR,45.0135002136,-84.7035980225,Gaylord Regional Airport,Michigan,4.80,4.94
+773,Galveston,KGLS,29.2653007507,-94.8603973389,Scholes International At Galveston Airport,Texas,4.35,3.99
+774,Glasgow,KGLW,37.03179932,-85.9536972,Glasgow Municipal Airport,Kentucky,4.65,4.25
+775,Clinton,KGLY,38.3566017151,-93.6841964722,Clinton Memorial Airport,Missouri,3.70,2.65
+776,Grove,KGMJ,36.60680008,-94.73860168,Grove Municipal Airport,Oklahoma,3.01,2.67
+777,Greenville,KGMU,34.8479003906,-82.3499984741,Greenville Downtown Airport,South-Carolina,4.53,5.08
+778,Granby,KGNB,40.0896987915,-105.9169998169,Granby Grand County Airport,Colorado,4.10,3.37
+779,Seminole,KGNC,32.6753005981,-102.6529998779,Gaines County Airport,Texas,N/A,3.40
+780,Grenada,KGNF,33.8325004578,-89.7982025146,Grenada Municipal Airport,Mississippi,4.40,3.90
+781,Gooding,KGNG,42.91719818,-114.7649994,Gooding Municipal Airport,Idaho,3.99,2.99
+782,Grants,KGNT,35.167301178,-107.9020004272,Grants Milan Municipal Airport,New-Mexico,3.79,2.90
+783,Gainesville,KGNV,29.6900997162,-82.2717971802,Gainesville Regional Airport,Florida,3.71,4.07
+784,Guthrie,KGOK,35.84980011,-97.41560364,Guthrie-Edmond Regional Airport,Oklahoma,3.45,3.95
+785,Groton (New London),KGON,41.3301010132,-72.0450973511,Groton New London Airport,Connecticut,5.10,4.47
+786,Grass Valley,KGOO,39.2239990234,-121.0029983521,Nevada County Air Park,California,3.91,4.43
+787,Grayling,KGOV,44.6803016663,-84.7288970947,Grayling Army Air Field,Michigan,4.75,4.75
+788,Mosby,KGPH,39.33250046,-94.30960083,Midwest National Air Center Airport,Missouri,2.99,3.49
+789,Kalispell,KGPI,48.3105010986,-114.2559967041,Glacier Park International Airport,Montana,4.70,4.26
+790,Grand Prairie,KGPM,32.6987991333,-97.0468978882,Grand Prairie Municipal Airport,Texas,3.19,3.43
+791,Gulfport,KGPT,30.4073009491,-89.070098877,Gulfport Biloxi International Airport,Mississippi,6.29,5.89
+792,Grand Rapids,KGPZ,47.21110153,-93.50980377,Grand Rapids Itasca Co-Gordon Newstrom field,Minnesota,4.89,4.35
+793,Galion,KGQQ,40.7533988953,-82.7238006592,Galion Municipal Airport,Ohio,4.95,3.80
+794,Green Bay,KGRB,44.4850997925,-88.1296005249,Austin Straubel International Airport,Wisconsin,3.99,4.19
+795,Greenwood,KGRD,34.2486991882,-82.1591033936,Greenwood County Airport,South-Carolina,3.98,3.39
+796,Grand Island,KGRI,40.9674987793,-98.3096008301,Central Nebraska Regional Airport,Nebraska,3.98,2.99
+797,Grand Rapids,KGRR,42.88079834,-85.52279663,Gerald R. Ford International Airport,Michigan,6.19,6.19
+798,Goshen,KGSH,41.5264015198,-85.7929000854,Goshen Municipal Airport,Indiana,3.79,3.35
+799,Greensboro,KGSO,36.0978012085,-79.9373016357,Piedmont Triad International Airport,North-Carolina,3.65,3.25
+800,Greenville,KGSP,34.8956985474,-82.2189025879,Greenville Spartanburg International Airport,South-Carolina,5.93,4.11
+801,Great Falls,KGTF,47.48199844,-111.3710022,Great Falls International Airport,Montana,4.90,3.70
+802,Columbus/W Point/Starkville,KGTR,33.4502983093,-88.5914001465,Golden Triangle Regional Airport,Mississippi,4.88,4.99
+803,Georgetown,KGTU,30.6788005829,-97.679397583,Georgetown Municipal Airport,Texas,4.30,3.78
+804,Gunnison,KGUC,38.53390121,-106.9329987,Gunnison Crested Butte Regional Airport,Colorado,5.70,6.25
+805,Gallup,KGUP,35.511100769,-108.789001465,Gallup Municipal Airport,New-Mexico,3.79,3.09
+806,Peru,KGUS,40.6481018066,-86.1520996094,Grissom ARB Airport,Indiana,4.50,3.30
+807,Guymon,KGUY,36.6851005554,-101.5080032349,Guymon Municipal Airport,Oklahoma,3.55,2.80
+808,Gainesville,KGVL,34.27259827,-83.8302002,Lee Gilmer Memorial Airport,Georgia,4.49,3.99
+809,Batavia,KGVQ,43.03170013,-78.16760254,Genesee County Airport,New-York,4.55,3.93
+810,Greenville,KGVT,33.0677986145,-96.0652999878,Majors Airport,California,3.19,3.50
+811,Auburn,KGWB,41.3072013855,-85.0643997192,De Kalb County Airport,Indiana,4.55,3.75
+812,Greenwood,KGWO,33.4943008423,-90.0847015381,Greenwood Leflore Airport,Mississippi,4.90,3.90
+813,Gwinner,KGWR,46.2187004089,-97.6432037354,Gwinner Roger Melroe Field,North-Dakota,3.57,3.00
+814,Glenwood Springs,KGWS,39.5083007813,-107.3109970093,Glenwood Springs Municipal Airport,Colorado,4.00,4.98
+815,Goldsboro,KGWW,35.4606018066,-77.9648971558,Goldsboro-Wayne Municipal Airport,North-Carolina,3.48,4.44
+816,Greeley,KGXY,40.4374008179,-104.6330032349,Greeley Weld County Airport,Colorado,3.80,3.66
+817,Giddings,KGYB,30.1693000793,-96.9800033569,Giddings Lee County Airport,Texas,4.10,3.90
+818,Greenville,KGYH,34.7583007813,-82.3764038086,Donaldson Center Airport,South-Carolina,3.90,3.35
+819,Sherman/Denison,KGYI,33.714099884,-96.6736984253,North Texas Rgnl/Perrin Field,Texas,3.79,3.59
+820,Goodyear,KGYR,33.4225006104,-112.3759994507,Phoenix Goodyear Airport,Arizona,4.79,4.79
+821,Gary,KGYY,41.6162986755,-87.4128036499,Gary Chicago International Airport,Indiana,4.80,2.85
+822,Evergreen,KGZH,31.4158000946,-87.0439987183,Middleton Field,Alabama,3.25,2.99
+823,Pulaski,KGZS,35.1537017822,-87.0568008423,Abernathy Field,Tennessee,3.90,3.25
+824,Clarksville,KH35,35.4706993103,-93.4272003174,Clarksville Municipal Airport,Arkansas,3.49,3.99
+825,Pryor,KH71,36.2253990173,-95.3301010132,Mid America Industrial Airport,Oklahoma,4.35,2.90
+826,Eldon,KH79,38.3605995178,-92.5716018677,Eldon Model Airpark,Missouri,3.70,3.42
+827,Hamilton,KHAB,34.11759949,-87.99819946,Marion County Rankin Fite Airport,Alabama,3.10,N/A
+828,Hannibal,KHAE,39.72449875,-91.4437027,Hannibal Regional Airport,Missouri,4.00,3.75
+829,Three Rivers,KHAI,41.9598007202,-85.5933990479,Three Rivers Municipal Dr Haines Airport,Michigan,4.15,3.30
+830,Hamilton,KHAO,39.3638000488,-84.5220031738,Butler Co Regional Airport,Ohio,4.99,4.95
+831,Mohall,KHBC,48.7683982849,-101.5370025635,Mohall Municipal Airport,North-Dakota,4.20,3.80
+832,Hattiesburg,KHBG,31.26479912,-89.25279999,Hattiesburg Bobby L Chain Municipal Airport,Mississippi,3.09,3.31
+833,Heber Springs,KHBZ,35.5116996765,-92.0130004883,Heber Springs Municipal Airport,Arkansas,4.59,4.39
+834,Hutchinson,KHCD,44.85990143,-94.38249969,Hutchinson Municipal Butler Field,Minnesota,4.50,4.25
+835,Hallock,KHCO,48.7527008057,-96.9430007935,Hallock Municipal Airport,Minnesota,4.09,3.99
+836,Heber,KHCR,40.4818056,-111.4288056,Heber City Municipal Airport - Russ McDonald Field,Utah,3.95,3.30
+837,Hammond,KHDC,30.52160072,-90.41840363,Hammond Northshore Regional Airport,Louisiana,3.80,3.12
+838,Holdrege,KHDE,40.45209885,-99.33650208,Brewster Field,Nebraska,5.00,4.15
+839,Hayden,KHDN,40.48120117,-107.2180023,Yampa Valley Airport,Colorado,5.30,5.95
+840,Hondo,KHDO,29.359500885,-99.1766967773,Hondo Municipal Airport,Texas,3.86,3.10
+841,Helena/West Helena,KHEE,34.576499939,-90.6759033203,Thompson Robbins Airport,Arkansas,3.85,4.34
+842,Manassas,KHEF,38.72140121,-77.51540375,Manassas Regional Harry P. Davis field,Virginia,5.35,4.25
+843,Jacksonville,KHEG,30.2777996063,-81.8059005737,Herlong Airport,Florida,3.41,2.42
+844,Hettinger,KHEI,46.0149002075,-102.65599823,Hettinger Municipal Airport,North-Dakota,4.90,N/A
+845,Holyoke,KHEQ,40.5694007874,-102.2730026245,Holyoke Airport,Colorado,N/A,3.95
+846,Natchez,KHEZ,31.6137008667,-91.2973022461,Hardy Anders Field Natchez Adams County Airport,Mississippi,3.46,3.76
+847,Hartford,KHFD,41.7366981506,-72.6493988037,Hartford Brainard Airport,Connecticut,4.99,4.97
+848,Monett,KHFJ,36.90620041,-94.01280212,Monett Municipal Airport,Missouri,3.98,2.56
+849,Indianapolis,KHFY,39.6283988953,-86.0878982544,Greenwood Municipal Airport,Indiana,3.60,2.90
+850,Hagerstown,KHGR,39.707901,-77.72949982,Hagerstown Regional Richard A Henson Field,Maryland,5.20,6.12
+851,Canadian,KHHF,35.89530182,-100.4039993,Hemphill County Airport,Texas,N/A,3.29
+852,Huntington,KHHG,40.8529014587,-85.4570999146,Huntington Municipal Airport,Indiana,4.36,3.42
+853,Hawthorne,KHHR,33.9227981567,-118.3349990845,Jack Northrop Field Hawthorne Municipal Airport,California,5.14,4.86
+854,Hugo,KHHW,34.03480148,-95.54190063,Stan Stamper Municipal Airport,Oklahoma,3.69,3.19
+855,Hibbing,KHIB,47.38660049,-92.83899689,Chisholm Hibbing Airport,Minnesota,3.99,3.43
+856,Lake Havasu City,KHII,34.57109833,-114.3580017,Lake Havasu City Airport,Arizona,4.15,3.25
+857,Portland,KHIO,45.54040146,-122.9499969,Portland Hillsboro Airport,Oregon,4.95,2.30
+858,Hebron,KHJH,40.1521987915,-97.5869979858,Hebron Municipal Airport,Nebraska,4.00,3.25
+859,Blytheville,KHKA,35.9403991699,-89.8308029175,Blytheville Municipal Airport,Arkansas,4.86,4.14
+860,Jackson,KHKS,32.33449936,-90.22219849,Hawkins Field,Mississippi,5.49,4.79
+861,Hickory,KHKY,35.74110031,-81.38950348,Hickory Regional Airport,North-Carolina,3.95,4.11
+862,Wheeling,KHLG,40.1749992371,-80.6463012695,Wheeling Ohio County Airport,West-Virginia,4.86,3.38
+863,Holland,KHLM,42.7958984375,-86.1620025635,Park Township Airport,Michigan,3.64,3.75
+864,Helena,KHLN,46.6068000793,-111.983001709,Helena Regional Airport,Montana,4.29,4.13
+865,Galax Hillsville,KHLX,36.7661018372,-80.823600769,Twin County Airport,Virginia,4.49,4.25
+866,Hemet,KHMT,33.7340011597,-117.0230026245,Hemet Ryan Airport,California,3.75,3.85
+867,Bedford,KHMZ,40.08530045,-78.5121994,Bedford County Airport,Pennsylvania,4.75,5.54
+868,Huntingburg,KHNB,38.2490005493,-86.9536972046,Huntingburg Airport,Indiana,4.11,3.96
+869,Las Vegas,KHND,35.9728012085,-115.1340026855,Henderson Executive Airport,Nevada,3.75,3.84
+870,Oxford,KHNZ,36.36159897,-78.52919769,Henderson Oxford Airport,North-Carolina,3.89,3.59
+871,Hobbs,KHOB,32.6875,-103.2170029,Lea County Regional Airport,New-Mexico,4.95,3.90
+872,Huron,KHON,44.3852005005,-98.2285003662,Huron Regional Airport,South-Dakota,4.19,2.80
+873,Hot Springs,KHOT,34.4780006409,-93.0961990356,Memorial Field,Iowa,3.39,3.71
+874,Houston,KHOU,29.64539909,-95.27890015,William P Hobby Airport,Texas,3.23,3.60
+875,White Plains,KHPN,41.0670013428,-73.7076034546,Westchester County Airport,New-York,5.99,3.89
+876,Hampton,KHPT,42.7237014771,-93.2263031006,Hampton Municipal Airport,Iowa,4.29,3.52
+877,Baytown,KHPY,29.7861003876,-94.9526977539,Baytown Airport,Texas,3.90,3.20
+878,Hugoton,KHQG,37.1631012,-101.3710022,Hugoton Municipal Airport,Kansas,3.95,2.96
+879,Hoquiam,KHQM,46.9711990356,-123.93699646,Bowerman Airport,Washington,5.00,3.99
+880,Thomson,KHQU,33.52970123,-82.51650238,Thomson Mcduffie County Airport,Georgia,4.11,3.83
+881,Mesquite,KHQZ,32.7470016479,-96.5304031372,Mesquite Metro Airport,Texas,3.20,3.00
+882,Hermiston,KHRI,45.8282012939,-119.2590026855,Hermiston Municipal Airport,Oregon,3.89,4.30
+883,Erwin,KHRJ,35.37939835,-78.73300171,Harnett Regional Jetport Airport,North-Carolina,3.90,3.81
+884,Harlingen,KHRL,26.2285003662,-97.6544036865,Valley International Airport,Texas,4.77,2.75
+885,Harrison,KHRO,36.2615013123,-93.1547012329,Boone County Airport,Arkansas,4.39,4.29
+886,Hereford,KHRX,34.85779953,-102.3259964,Hereford Municipal Airport,Texas,3.19,3.39
+887,Bay St Louis,KHSA,30.3677997589,-89.4545974731,Stennis International Airport,Mississippi,4.75,3.75
+888,Harrisburg,KHSB,37.81129837,-88.5503006,Harrisburg Raleigh Airport,Illinois,4.55,3.80
+889,Oklahoma City,KHSD,35.6017990112,-97.706199646,Sundance Airpark,Oklahoma,3.15,2.95
+890,Thermopolis,KHSG,43.7136111,-108.3896944,Hot Springs County Airport,Wyoming,4.39,3.77
+891,Hastings,KHSI,40.6053009033,-98.4279022217,Hastings Municipal Airport,Nebraska,3.60,3.25
+892,Hot Springs,KHSP,37.95140076,-79.83390045,Ingalls Field,Virginia,3.95,3.95
+893,Huntsville,KHSV,34.6371994019,-86.775100708,Huntsville International Carl T Jones Field,Alabama,4.50,4.13
+894,Hawthorne,KHTH,38.5443992615,-118.6340026855,Hawthorne Industrial Airport,Nevada,5.10,3.99
+895,East Hampton,KHTO,40.95959854,-72.25180054,East Hampton Airport,New-York,6.49,5.29
+896,Huntington,KHTS,38.36669922,-82.55799866,Tri-State/Milton J. Ferguson Field,West-Virginia,4.68,3.78
+897,Terre Haute,KHUF,39.451499939,-87.3076019287,Terre Haute International Hulman Field,Indiana,4.46,3.83
+898,Houlton,KHUL,46.1231002808,-67.792098999,Houlton International Airport,Maine,4.75,3.75
+899,Houma,KHUM,29.5664997101,-90.6604003906,Houma Terrebonne Airport,Louisiana,4.52,4.52
+900,Hutchinson,KHUT,38.0654983521,-97.8606033325,Hutchinson Municipal Airport,Kansas,3.48,3.58
+901,Hopkinsville,KHVC,36.8569984436,-87.4551010132,Hopkinsville Christian County Airport,Kentucky,3.13,2.77
+902,New Haven,KHVN,41.26369858,-72.88680267,Tweed New Haven Airport,Connecticut,5.92,5.80
+903,Havre,KHVR,48.54299927,-109.762001,Havre City County Airport,Montana,5.40,5.00
+904,Hartsville,KHVS,34.4030990601,-80.1192016602,Hartsville Regional Airport,South-Carolina,3.78,3.89
+905,Hayward,KHWD,37.659198761,-122.1220016479,Hayward Executive Airport,California,4.15,2.95
+906,Hollywood,KHWO,26.0011997223,-80.2406997681,North Perry Airport,Florida,4.24,3.75
+907,Shirley,KHWV,40.8218994141,-72.8694000244,Brookhaven Airport,New-York,5.45,4.99
+908,Warrenton,KHWY,38.5862998962,-77.7106018066,Warrenton Fauquier Airport,Virginia,3.75,2.50
+909,Hilton Head Island,KHXD,32.2243995667,-80.6975021362,Hilton Head Airport,South-Carolina,7.27,6.14
+910,Hartford,KHXF,43.34930038,-88.39109802,Hartford Municipal Airport,Wisconsin,3.80,2.80
+911,Hyannis,KHYA,41.66930008,-70.28040314,Barnstable Municipal Boardman Polando Field,Massachusetts,5.95,3.50
+912,San Marcos,KHYI,29.8927001953,-97.8629989624,San Marcos Municipal Airport,Texas,3.99,4.07
+913,Hayward,KHYR,46.0251998901,-91.4442977905,Sawyer County Airport,Wisconsin,3.75,3.75
+914,Hays,KHYS,38.84220123,-99.27320099,Hays Regional Airport,Kansas,4.24,2.85
+915,Conway,KHYW,33.82849884,-79.12220001,Conway Horry County Airport,South-Carolina,3.13,1.88
+916,Saginaw,KHYX,43.4333992,-83.86229706,Saginaw County H.W. Browne Airport,Michigan,4.05,5.50
+917,Huntingdon,KHZD,36.08929825,-88.46330261,Carroll County Airport,Tennessee,3.03,3.28
+918,Hazen,KHZE,47.28990173,-101.5810013,Mercer County Regional Airport,North-Dakota,3.05,3.37
+919,Hazleton,KHZL,40.9868011475,-75.9949035645,Hazleton Municipal Airport,Pennsylvania,4.85,3.50
+920,Mc Gregor,KHZX,46.6188011169,-93.3097991943,Isedor Iverson Airport,Minnesota,3.74,3.79
+921,Ashtabula,KHZY,41.7779998779,-80.6955032349,Ashtabula County Airport,Ohio,6.15,5.49
+922,Piqua,KI17,40.16469955,-84.30840302,Piqua Airport-Hartzell Field,Ohio,5.20,N/A
+923,Winchester,KI22,40.1688995361,-84.9256973267,Randolph County Airport,Indiana,4.55,3.66
+924,Washington Court House,KI23,39.570400238,-83.420501709,Fayette County Airport,Ohio,3.80,3.80
+925,Greensburg,KI34,39.32690048,-85.52249908,Greensburg Municipal Airport,Indiana,4.49,3.45
+926,Harlan,KI35,36.8592987061,-83.3584976196,Tucker Guthrie Memorial Airport,Kentucky,3.99,2.99
+927,Coshocton,KI40,40.3092002869,-81.8534011841,Richard Downing Airport,Ohio,4.14,4.17
+928,Jackson,KI43,38.9813995361,-82.5779037476,James A Rhodes Airport,Ohio,N/A,4.00
+929,Mount Sterling,KI63,39.98749924,-90.80419922,Mount Sterling Municipal Airport,Illinois,4.88,2.86
+930,Batavia,KI69,39.07839966,-84.21019745,Clermont County Airport,Ohio,4.31,3.17
+931,Urbana,KI74,40.13259888,-83.75340271,Grimes Field,Ohio,4.75,3.75
+932,Kenton,KI95,40.6106987,-83.6436004639,Hardin County Airport,Ohio,4.95,3.80
+933,Washington,KIAD,38.94449997,-77.45580292,Washington Dulles International Airport,Virginia,6.00,5.39
+934,Niagara Falls,KIAG,43.1072998047,-78.9461975098,Niagara Falls International Airport,New-York,5.25,5.03
+935,Houston,KIAH,29.9843997955,-95.3414001465,George Bush Intercontinental Houston Airport,Texas,4.60,3.60
+936,Kimball,KIBM,41.1880989075,-103.6770019531,Kimball Municipal Robert E Arraj Field,Nebraska,4.50,3.80
+937,Wichita,KICT,37.6498985291,-97.4330978394,Wichita Mid Continent Airport,Kansas,3.98,4.25
+938,Idaho Falls,KIDA,43.5145988464,-112.0709991455,Idaho Falls Regional Airport,Idaho,4.77,4.32
+939,Indiana,KIDI,40.63219833,-79.10549927,Indiana County/Jimmy Stewart Fld/ Airport,Pennsylvania,4.25,3.75
+940,Independence,KIDP,37.1584014893,-95.7783966064,Independence Municipal Airport,Kansas,4.34,4.17
+941,Natchitoches,KIER,31.7357006073,-93.0990982056,Natchitoches Regional Airport,Louisiana,3.69,3.59
+942,Iowa Falls,KIFA,42.4707984924,-93.2699966431,Iowa Falls Municipal Airport,Iowa,4.49,3.39
+943,Bullhead City,KIFP,35.15739822,-114.5599976,Laughlin Bullhead International Airport,Arizona,4.30,4.57
+944,Kingman,KIGM,35.2594985962,-113.93800354,Kingman Airport,Arizona,3.97,2.75
+945,Chicago,KIGQ,41.5349006653,-87.5295028687,Lansing Municipal Airport,Illinois,4.62,3.00
+946,Independence,KIIB,42.45360184,-91.94760132,Independence Municipal Airport,Iowa,4.40,3.68
+947,Washington,KIIY,33.77939987,-82.81580353,Washington Wilkes County Airport,Georgia,4.01,4.20
+948,Kingsville,KIKG,27.55089951,-98.03089905,Kleberg County Airport,Texas,3.80,3.25
+949,Kankakee,KIKK,41.0713996887,-87.8462982178,Greater Kankakee Airport,Illinois,4.79,3.95
+950,Ankeny,KIKV,41.6913986206,-93.5663986206,Ankeny Regional Airport,Iowa,4.60,4.59
+951,Midland,KIKW,43.66289902,-84.26129913,Jack Barstow Airport,Michigan,4.29,N/A
+952,Killeen,KILE,31.0858001709,-97.6865005493,Skylark Field,Texas,3.60,3.60
+953,Wilmington,KILG,39.67869949,-75.60649872,New Castle Airport,Delaware,5.59,5.25
+954,Wilmington,KILM,34.2705993652,-77.9026031494,Wilmington International Airport,North-Carolina,3.99,4.86
+955,Immokalee,KIMM,26.43320084,-81.40100098,Immokalee Regional Airport,Florida,2.78,2.35
+956,Madison,KIMS,38.75889969,-85.46549988,Madison Municipal Airport,Indiana,3.80,3.65
+957,Iron Mountain Kingsford,KIMT,45.8184013367,-88.1145019531,Ford Airport,Michigan,N/A,3.99
+958,Indianapolis,KIND,39.717300415,-86.2944030762,Indianapolis International Airport,Indiana,3.60,2.90
+959,Hillsboro,KINJ,32.08349991,-97.09719849,Hillsboro Municipal Airport,Illinois,2.78,2.25
+960,Wink,KINK,31.7796001434,-103.2009963989,Winkler County Airport,Texas,3.10,2.95
+961,International Falls,KINL,48.5662002563,-93.4030990601,Falls International Airport,Minnesota,6.98,5.50
+962,Winston Salem,KINT,36.1337013245,-80.2220001221,Smith Reynolds Airport,North-Carolina,3.65,3.25
+963,Winslow,KINW,35.021900177,-110.7229995728,Winslow Lindbergh Regional Airport,Arizona,3.79,3.39
+964,Mount Sterling,KIOB,38.05810165,-83.979599,Mount Sterling Montgomery County Airport,Kentucky,3.74,3.16
+965,Iowa City,KIOW,41.6391983032,-91.5465011597,Iowa City Municipal Airport,Iowa,3.89,2.99
+966,Lincolnton,KIPJ,35.48329926,-81.16130066,Lincolnton Lincoln County Regional Airport,North-Carolina,3.99,3.99
+967,Imperial,KIPL,32.8342018127,-115.57900238,Imperial County Airport,California,3.50,3.79
+968,Williamsport,KIPT,41.2417984009,-76.9210968018,Williamsport Regional Airport,Pennsylvania,5.53,4.08
+969,Kirksville,KIRK,40.09349823,-92.5448989868,Kirksville Regional Airport,Missouri,4.09,2.99
+970,Sturgis,KIRS,41.81330109,-85.43900299,Kirsch Municipal Airport,Michigan,3.99,3.38
+971,Orlando,KISM,28.2898006439,-81.4371032715,Kissimmee Gateway Airport,Florida,4.31,4.41
+972,Kinston,KISO,35.331401825,-77.6088027954,Kinston Regional Jetport At Stallings Field,North-Carolina,6.26,4.92
+973,Islip,KISP,40.79520035,-73.10019684,Long Island Mac Arthur Airport,New-York,5.57,4.70
+974,Manistique,KISQ,45.97460175,-86.17179871,Schoolcraft County Airport,Michigan,4.25,3.45
+975,Wisconsin Rapids,KISW,44.3602981567,-89.8389968872,Alexander Field South Wood County Airport,Wisconsin,3.99,3.80
+976,Ithaca,KITH,42.4910011292,-76.4583969116,Ithaca Tompkins Regional Airport,New-York,4.89,4.79
+977,Burlington,KITR,39.2425003052,-102.2850036621,Kit Carson County Airport,Colorado,4.35,3.40
+978,Canandaigua,KIUA,42.908901900000004,-77.3252263,Canandaigua Airport,New York,3.96,3.52
+979,Phoenix,KIWA,33.30780029,-111.6549988,Phoenix-Mesa-Gateway Airport,Arizona,5.13,4.50
+980,Ironwood,KIWD,46.5275001526,-90.131401062,Gogebic Iron County Airport,Michigan,3.99,3.99
+981,Wabash,KIWH,40.7620010376,-85.7987976074,Wabash Municipal Airport,Indiana,4.02,2.50
+982,Wiscasset,KIWI,43.9613990784,-69.712600708,Wiscasset Airport,Maine,4.54,4.50
+983,Houston,KIWS,29.8181991577,-95.6725997925,West Houston Airport,Texas,3.26,3.07
+984,Olathe,KIXD,38.8308982849,-94.890296936,New Century Aircenter Airport,Kansas,4.50,2.83
+985,Inyokern,KIYK,35.65879822,-117.8300018,Inyokern Airport,California,3.20,4.47
+986,Santa Ynez,KIZA,34.60680008,-120.0759964,Santa Ynez Airport,California,3.95,3.49
+987,Fryeburg,KIZG,43.9911003113,-70.9478988647,Eastern Slopes Regional Airport,Maine,N/A,4.54
+988,Jackson,KJAC,43.6072998047,-110.7379989624,Jackson Hole Airport,Wyoming,4.85,3.95
+989,Jackson,KJAN,32.3111991882,-90.0758972168,Jackson Evers International Airport,Mississippi,5.49,4.79
+990,Jackson,KJAQ,38.3768005371,-120.793998718,Westover Field Amador County Airport,California,3.59,3.59
+991,Jasper,KJAS,30.88570023,-94.03489685,Jasper County-Bell Field,Texas,4.50,3.85
+992,Jacksboro,KJAU,36.3345985413,-84.1623001099,Campbell County Airport,Tennessee,4.30,N/A
+993,Jacksonville,KJAX,30.4941005707,-81.6878967285,Jacksonville International Airport,Florida,4.22,2.42
+994,Jonesboro,KJBR,35.8316993713,-90.6464004517,Jonesboro Municipal Airport,Arkansas,4.29,3.77
+995,Junction,KJCT,30.5112991333,-99.7634963989,Kimble County Airport,Texas,3.25,2.50
+996,Mineola/Quitman,KJDD,32.7421989441,-95.4964981079,Wood County Airport,Texas,3.24,4.60
+997,Jefferson City,KJEF,38.5912017822,-92.1560974121,Jefferson City Memorial Airport,Missouri,3.95,3.34
+998,Jerome,KJER,42.7266998291,-114.4570007324,Jerome County Airport,Idaho,4.30,4.20
+999,Jesup,KJES,31.55400085,-81.88249969,Jesup Wayne County Airport,Georgia,3.50,3.75
+1000,New York,KJFK,40.63980103,-73.77890015,John F Kennedy International Airport,New-York,6.82,6.09
+1001,Jasper,KJFX,33.90200043,-87.31420135,Walker County Bevill Field,Alabama,3.99,4.29
+1002,Richlands,KJFZ,37.06370163,-81.7983017,Tazewell County Airport,Virginia,4.25,3.75
+1003,Williamsburg,KJGG,37.239200592,-76.7161026001,Williamsburg Jamestown Airport,Virginia,5.00,4.25
+1004,Jamestown,KJHW,42.15340042,-79.25800323,Chautauqua County-Jamestown Airport,New-York,4.99,4.49
+1005,Gulf Shores,KJKA,30.29050064,-87.67179871,Jack Edwards Airport,Alabama,4.20,4.04
+1006,Moorhead,KJKJ,46.83929825,-96.66369629,Moorhead Municipal Airport,Minnesota,4.00,2.70
+1007,Joplin,KJLN,37.1517982483,-94.498298645,Joplin Regional Airport,Missouri,4.90,4.40
+1008,Mora,KJMR,45.886100769,-93.2717971802,Mora Municipal Airport,Minnesota,4.12,3.62
+1009,Jamestown,KJMS,46.92969894,-98.67819977,Jamestown Regional Airport,North-Dakota,5.75,5.25
+1010,Smithfield,KJNX,35.54090118,-78.39029694,Johnston County Airport,North-Carolina,3.99,3.59
+1011,Concord,KJQF,35.3877983093,-80.7090988159,Concord Regional Airport,North-Carolina,5.83,4.65
+1012,Jacksonville,KJSO,31.8693008423,-95.2173995972,Cherokee County Airport,Texas,2.63,2.97
+1013,Johnstown,KJST,40.3161010742,-78.8339004517,John Murtha Johnstown Cambria County Airport,Pennsylvania,3.95,2.95
+1014,Janesville,KJVL,42.620300293,-89.0416030884,Southern Wisconsin Regional Airport,Wisconsin,3.85,3.90
+1015,Raymond,KJVW,32.30329895,-90.40850067,John Bell Williams Airport,Mississippi,3.50,2.95
+1016,Jeffersonville,KJVY,38.365398407,-85.7381973267,Clark Regional Airport,Indiana,5.75,5.15
+1017,Watonga,KJWG,35.86470032,-98.42079926,Watonga Regional Airport,Oklahoma,3.39,3.39
+1018,Nashville,KJWN,36.1823997498,-86.8867034912,John C Tune Airport,Tennessee,4.29,3.54
+1019,Midlothian/Waxahachie,KJWY,32.4561004639,-96.912399292,Mid Way Regional Airport,Texas,4.09,4.01
+1020,Jackson,KJXN,42.2597999573,-84.4593963623,Jackson County Reynolds Field,Michigan,3.99,3.99
+1021,Hillsdale,KJYM,41.9212989807,-84.5858001709,Hillsdale Municipal Airport,Michigan,4.00,3.50
+1022,Leesburg,KJYO,39.077999115,-77.5575027466,Leesburg Executive Airport,Virginia,6.00,5.39
+1023,York,KJYR,40.8968009949,-97.6228027344,York Municipal Airport,Nebraska,3.50,3.00
+1024,Charleston,KJZI,32.7009010315,-80.0028991699,Charleston Executive Airport,South-Carolina,5.49,6.64
+1025,Jasper,KJZP,34.4533996582,-84.4573974609,Pickens County Airport,Georgia,3.19,2.94
+1026,Atchison,KK59,39.5704994202,-95.1802978516,Amelia Earhart Airport,Kansas,4.96,4.25
+1027,Abilene,KK78,38.9040985107,-97.2359008789,Abilene Municipal Airport,Kansas,4.93,4.20
+1028,Kelso,KKLS,46.1180000305,-122.898002625,Southwest Washington Regional Airport,Washington,5.10,4.35
+1029,Kanab,KKNB,37.011100769,-112.53099823,Kanab Municipal Airport,Utah,4.85,4.40
+1030,Taft,KL17,35.1411018372,-119.4410018921,Taft Kern County Airport,California,4.74,3.40
+1031,Jonesville,KL32,31.6252994537,-91.8292007446,Jonesville Airport,Louisiana,4.00,4.00
+1032,Big Bear City,KL35,34.2638015747,-116.8560028076,Big Bear City Airport,California,3.67,3.19
+1033,Leesville,KL39,31.16860008,-93.34249878,Leesville Airport,Louisiana,3.59,2.99
+1034,Bakersfield,KL45,35.32479858,-118.9960022,Bakersfield Municipal Airport,California,3.58,2.75
+1035,Lamar,KLAA,38.0696983337,-102.68800354,Lamar Municipal Airport,Colorado,4.60,3.99
+1036,Lafayette,KLAF,40.4123001099,-86.9368972778,Purdue University Airport,Indiana,4.45,3.55
+1037,Lakeland,KLAL,27.988899231,-82.0186004639,Lakeland Linder Regional Airport,Florida,3.29,4.88
+1038,Lansing,KLAN,42.7787017822,-84.5874023438,Capital City Airport,Michigan,4.77,6.19
+1039,Laramie,KLAR,41.3120994568,-105.6750030518,Laramie Regional Airport,Wyoming,4.25,3.70
+1040,Las Vegas,KLAS,36.08010101,-115.1520004,McCarran International Airport,Nevada,7.99,5.59
+1041,Lawton,KLAW,34.5676994324,-98.4166030884,Lawton Fort Sill Regional Airport,Oklahoma,4.00,3.50
+1042,Los Angeles,KLAX,33.94250107,-118.4079971,Los Angeles International Airport,California,5.14,6.05
+1043,Lubbock,KLBB,33.6636009216,-101.8229980469,Lubbock Preston Smith International Airport,Texas,3.99,4.49
+1044,Latrobe,KLBE,40.27590179,-79.40480042,Arnold Palmer Regional Airport,Pennsylvania,4.80,2.84
+1045,North Platte,KLBF,41.12620163,-100.6839981,North Platte Regional Airport Lee Bird Field,Nebraska,4.69,2.99
+1046,Liberal,KLBL,37.0442009,-100.9599991,Liberal Mid-America Regional Airport,Kansas,3.95,2.96
+1047,Lebanon,KLBO,37.64830017,-92.65239716,Floyd W. Jones Lebanon Airport,Missouri,3.55,3.00
+1048,Lumberton,KLBT,34.6099014282,-79.0594024658,Lumberton Municipal Airport,North-Carolina,4.25,4.95
+1049,Angleton/Lake Jackson,KLBX,29.1086006165,-95.462097168,Brazoria County Airport,Texas,2.63,2.58
+1050,Lake Charles,KLCH,30.1261005402,-93.2232971191,Lake Charles Regional Airport,Louisiana,3.04,3.73
+1051,Laconia,KLCI,43.5727005005,-71.4188995361,Laconia Municipal Airport,New-Hampshire,4.00,3.10
+1052,Columbus,KLCK,39.8138008118,-82.9278030396,Rickenbacker International Airport,Ohio,4.71,3.28
+1053,Lake City,KLCQ,30.1819992065,-82.5768966675,Lake City Municipal Airport,Florida,3.13,3.50
+1054,Ludington,KLDM,43.96250153,-86.40789795,Mason County Airport,Michigan,4.33,3.03
+1055,Lebanon,KLEB,43.6260986328,-72.3041992188,Lebanon Municipal Airport,New-Hampshire,6.00,5.00
+1056,Leesburg,KLEE,28.82309914,-81.80870056,Leesburg International Airport,Florida,3.94,3.95
+1057,Lemmon,KLEM,45.9187011719,-102.1060028076,Lemmon Municipal Airport,South-Dakota,4.90,5.10
+1058,Auburn/Lewiston,KLEW,44.048500061,-70.2835006714,Auburn Lewiston Municipal Airport,Maine,4.44,3.98
+1059,Lexington,KLEX,38.0364990234,-84.6059036255,Blue Grass Airport,Kentucky,4.87,5.07
+1060,Lufkin,KLFK,31.2339992523,-94.75,Angelina County Airport,Texas,3.59,3.49
+1061,Lafayette,KLFT,30.20529938,-91.98760223,Lafayette Regional Airport,Louisiana,4.50,5.87
+1062,New York,KLGA,40.77719879,-73.87259674,La Guardia Airport,New-York,7.68,6.73
+1063,Long Beach,KLGB,33.81769943,-118.1520004,Long Beach /Daugherty Field/ Airport,California,5.92,6.50
+1064,Lagrange,KLGC,33.0088996887,-85.0726013184,Lagrange Callaway Airport,Georgia,3.95,3.32
+1065,La Grande,KLGD,45.2901992798,-118.0070037842,La Grande Union County Airport,Oregon,3.99,3.09
+1066,Logan,KLGU,41.7911987305,-111.8519973755,Logan Cache Airport,Utah,5.21,3.85
+1067,Lincoln,KLHM,38.909198761,-121.3509979248,Lincoln Regional Karl Harder Field,California,4.39,5.33
+1068,Lancaster,KLHQ,39.7555999756,-82.6570968628,Fairfield County Airport,Ohio,4.23,2.43
+1069,Lock Haven,KLHV,41.13560104,-77.42230225,William T. Piper Memorial Airport,Pennsylvania,5.40,4.25
+1070,Fort Stewart(Hinesville),KLHW,31.88909912,-81.56230164,Wright Aaf (Fort Stewart)/Midcoast Regional Airport,Georgia,3.98,4.50
+1071,La Junta,KLHX,38.04970169,-103.5090027,La Junta Municipal Airport,Colorado,4.45,3.90
+1072,Louisburg,KLHZ,36.0233001709,-78.3302993774,Franklin County Airport,North-Carolina,4.25,3.69
+1073,Little Rock,KLIT,34.7294006348,-92.2242965698,Adams Field,Arkansas,5.59,4.39
+1074,Litchfield,KLJF,45.0970993042,-94.5073013306,Litchfield Municipal Airport,Minnesota,2.94,4.10
+1075,Lake Placid,KLKP,44.2644996643,-73.9618988037,Lake Placid Airport,New-York,4.35,5.00
+1076,Lancaster,KLKR,34.72290039,-80.854599,Lancaster County-Mc Whirter Field,South-Carolina,4.83,4.47
+1077,Louisa,KLKU,38.00979996,-77.9701004,Louisa County-Freeman field,Virginia,4.75,4.10
+1078,Lakeview,KLKV,42.1610984802,-120.3990020752,Lake County Airport,Colorado,3.95,3.45
+1079,Challis,KLLJ,44.5229988098,-114.2180023193,Challis Airport,Idaho,5.12,4.40
+1080,Levelland,KLLN,33.5525016785,-102.3720016479,Levelland Municipal Airport,Texas,3.35,3.15
+1081,Monticello,KLLQ,33.6385994,-91.75099945,Monticello Municipal Ellis Field,Arkansas,3.95,3.75
+1082,Lamar,KLLU,37.4894981384,-94.3115005493,Lamar Municipal Airport,Missouri,4.25,3.75
+1083,Louisville,KLMS,33.1461982727,-89.0625,Louisville Winston County Airport,Mississippi,3.79,N/A
+1084,Klamath Falls,KLMT,42.1561012268,-121.733001709,Klamath Falls Airport,Oregon,4.68,3.24
+1085,West Palm Beach,KLNA,26.59300041,-80.08509827,Palm Beach County Park Airport,Florida,5.21,4.95
+1086,Lancaster,KLNC,32.5792007446,-96.71900177,Lancaster Airport,Texas,2.85,2.25
+1087,Lander,KLND,42.8152008057,-108.7300033569,Hunt Field,Wyoming,4.53,4.05
+1088,Lincoln,KLNK,40.8510017395,-96.7592010498,Lincoln Airport,Montana,4.62,2.95
+1089,Willoughby,KLNN,41.6839981079,-81.3897018433,Willoughby Lost Nation Municipal Airport,Ohio,4.30,4.10
+1090,Wise,KLNP,36.9874992371,-82.5299987793,Lonesome Pine Airport,Virginia,4.10,4.00
+1091,Lone Rock,KLNR,43.2117004395,-90.181602478,Tri-County Regional Airport,Wisconsin,3.98,N/A
+1092,Lancaster,KLNS,40.1217002869,-76.2960968018,Lancaster Airport,Pennsylvania,4.31,4.95
+1093,Philadelphia,KLOM,40.1375007629,-75.2650985718,Wings Field,Florida,5.59,5.45
+1094,Chicago/Romeoville,KLOT,41.6072998,-88.09619904,Lewis University Airport,Illinois,3.60,3.70
+1095,Louisville,KLOU,38.2280006409,-85.6636962891,Bowman Field,Kentucky,5.20,4.75
+1096,London,KLOZ,37.0821990967,-84.0848999023,London Corbin Airport Magee Field,Kentucky,4.05,3.50
+1097,Lompoc,KLPC,34.665599823,-120.4680023193,Lompoc Airport,California,4.07,3.96
+1098,Lorain/Elyria,KLPR,41.34429932,-82.17759705,Lorain County Regional Airport,Ohio,4.90,4.41
+1099,Pickens,KLQK,34.8100013733,-82.7029037476,Pickens County Airport,South-Carolina,3.95,3.84
+1100,Laredo,KLRD,27.543800354,-99.4616012573,Laredo International Airport,Texas,5.61,4.57
+1101,Le Mars,KLRJ,42.77799988,-96.1937027,Le Mars Municipal Airport,Iowa,4.60,3.40
+1102,Mount Pleasant,KLRO,32.89780045,-79.78289795,Mt Pleasant Regional-Faison field,South-Carolina,4.50,3.75
+1103,Las Cruces,KLRU,32.2893981934,-106.9219970703,Las Cruces International Airport,New-Mexico,4.49,3.76
+1104,Lordsburg,KLSB,32.3334999084,-108.6920013428,Lordsburg Municipal Airport,New-Mexico,4.90,3.85
+1105,La Crosse,KLSE,43.87900162,-91.25669861,La Crosse Municipal Airport,Wisconsin,5.04,3.96
+1106,Los Banos,KLSN,37.06290054,-120.8690033,Los Banos Municipal Airport,California,4.95,3.35
+1107,Decatur,KLUD,33.2546005249,-97.5805969238,Decatur Municipal Airport,Texas,3.99,3.39
+1108,Lewisburg,KLUG,35.5069999695,-86.8039016724,Ellington Airport,Tennessee,3.15,2.90
+1109,Cincinnati,KLUK,39.10329819,-84.41860199,Cincinnati Municipal Airport Lunken Field,Ohio,4.50,3.84
+1110,Laurel,KLUL,31.6725997925,-89.172203064,Hesler Noble Field,Mississippi,4.05,3.55
+1111,Houston,KLVJ,29.5212993622,-95.2421035767,Pearland Regional Airport,Texas,3.90,1.99
+1112,Livermore,KLVK,37.6934013367,-121.8199996948,Livermore Municipal Airport,California,4.15,3.95
+1113,Livingston,KLVM,45.6994018555,-110.4479980469,Mission Field,Montana,5.00,4.50
+1114,Minneapolis,KLVN,44.6278991699,-93.2281036377,Airlake Airport,Minnesota,3.99,3.79
+1115,Las Vegas,KLVS,35.6542015076,-105.141998291,Las Vegas Municipal Airport,New-Mexico,4.90,3.93
+1116,South Haven,KLWA,42.3512001038,-86.2556991577,South Haven Area Regional Airport,Michigan,4.49,4.49
+1117,Lewisburg,KLWB,37.8582992554,-80.3994979858,Greenbrier Valley Airport,West-Virginia,4.92,4.63
+1118,Lawrence,KLWC,39.01119995,-95.21659851,Lawrence Municipal Airport,Kansas,5.25,4.95
+1119,Wells,KLWL,41.117099762,-114.9219970703,Wells Municipal Harriet Field,Nevada,3.99,3.92
+1120,Lawrence,KLWM,42.7172012329,-71.1233978271,Lawrence Municipal Airport,Massachusetts,4.99,3.90
+1121,Lewiston,KLWS,46.3745002747,-117.0149993896,Lewiston Nez Perce County Airport,Idaho,3.45,3.37
+1122,Lewistown,KLWT,47.0493011475,-109.4670028687,Lewistown Municipal Airport,Montana,4.50,4.30
+1123,Lawrenceville,KLWV,38.7643013,-87.6054992676,Lawrenceville Vincennes International Airport,Illinois,4.80,4.60
+1124,Lexington,KLXN,40.7910003662,-99.7772979736,Jim Kelly Field,Nebraska,3.55,2.55
+1125,Lynchburg,KLYH,37.3266983032,-79.2004013062,Lynchburg Regional Preston Glenn Field,Virginia,4.94,4.75
+1126,Luverne,KLYV,43.6212005615,-96.2157974243,Quentin Aanenson Field,Minnesota,N/A,3.54
+1127,Lawrenceville,KLZU,33.97809982,-83.96240234,Gwinnett County Briscoe Field,Georgia,4.45,2.95
+1128,Memphis,KM01,35.20069885,-90.05400085,General Dewitt Spain Airport,Tennessee,3.18,2.39
+1129,Covington,KM04,35.5834007263,-89.5871963501,Covington Municipal Airport,Tennessee,3.24,3.63
+1130,Hope,KM18,33.7201004028,-93.6587982178,Hope Municipal Airport,Arkansas,3.26,2.28
+1131,Newport,KM19,35.6376991272,-91.176399231,Newport Municipal Airport,Arkansas,4.10,3.35
+1132,Greenville,KM21,37.2262001038,-87.1564025879,Muhlenberg County Airport,Kentucky,3.95,3.27
+1133,Mayfield,KM25,36.7696389,-88.5846667,Mayfield Graves County Airport,Kentucky,4.40,3.00
+1134,Aberdeen/Amory,KM40,33.8736991882,-88.4897003174,Monroe County Airport,Mississippi,3.62,3.15
+1135,Holly Springs,KM41,34.8042984009,-89.5211029053,Holly Springs Marshall County Airport,Mississippi,3.25,2.85
+1136,Humboldt,KM53,35.8022003174,-88.8749008179,Humboldt Municipal Airport,Tennessee,3.85,3.05
+1137,Lebanon,KM54,36.19039917,-86.31569672,Lebanon Municipal Airport,Tennessee,3.99,3.99
+1138,Pocahontas,KM70,36.2454986572,-90.9552001953,Pocahontas Municipal Airport,Arkansas,3.49,3.39
+1139,Malta,KM75,48.3669013977,-107.9189987183,Malta Airport,Montana,4.75,4.39
+1140,West Point,KM83,33.5839996338,-88.6667022705,Mccharen Field,Mississippi,3.89,3.39
+1141,Springfield,KM91,36.53720093,-86.92060089,Springfield Robertson County Airport,Tennessee,3.35,4.05
+1142,Macon,KMAC,32.82210159,-83.56199646,Macon Downtown Airport,Georgia,4.50,4.00
+1143,Madera,KMAE,36.9886016846,-120.1119995117,Madera Municipal Airport,California,4.58,3.99
+1144,Midland,KMAF,31.9424991608,-102.202003479,Midland International Airport,Texas,3.53,3.77
+1145,Marianna,KMAI,30.8377990723,-85.1819000244,Marianna Municipal Airport,Florida,3.74,3.12
+1146,Malden,KMAW,36.6006012,-89.99220276,Malden Regional Airport,Missouri,N/A,3.90
+1147,Manistee,KMBL,44.2723999,-86.24690247,Manistee Co Blacker Airport,Michigan,4.06,3.98
+1148,Madison,KMBO,32.4387016296,-90.1031036377,Bruce Campbell Field,Mississippi,3.70,3.45
+1149,Saginaw,KMBS,43.5329017639,-84.0795974731,MBS International Airport,Michigan,5.67,6.34
+1150,Murfreesboro,KMBT,35.87749863,-86.37750244,Murfreesboro Municipal Airport,Tennessee,3.76,2.56
+1151,Moberly,KMBY,39.4639015198,-92.4270019531,Omar N Bradley Airport,Missouri,3.59,2.85
+1152,Mc Comb,KMCB,31.17849922,-90.47190094,Mc Comb/Pike County/John E Lewis Field,Mississippi,3.70,3.40
+1153,Sacramento,KMCC,38.66759872,-121.401001,Mc Clellan Airfield,California,3.73,4.39
+1154,Merced,KMCE,37.28469849,-120.5139999,Merced Regional Macready Field,California,4.85,4.52
+1155,Kansas City,KMCI,39.2975997925,-94.7138977051,Kansas City International Airport,Missouri,6.10,6.59
+1156,Mc Cook,KMCK,40.20629883,-100.5920029,Mc Cook Ben Nelson Regional Airport,Nebraska,3.99,2.99
+1157,Macon,KMCN,32.6927986145,-83.6492004395,Middle Georgia Regional Airport,Georgia,3.12,3.20
+1158,Orlando,KMCO,28.4293994904,-81.3089981079,Orlando International Airport,Florida,6.48,5.80
+1159,Mason City,KMCW,43.1577987671,-93.3312988281,Mason City Municipal Airport,Iowa,3.85,3.80
+1160,Williamston,KMCZ,35.8622016907,-77.1781997681,Martin County Airport,North-Carolina,4.22,N/A
+1161,Midland,KMDD,32.0364990234,-102.1009979248,Midland Airpark,Texas,4.01,3.94
+1162,Carbondale/Murphysboro,KMDH,37.7780990601,-89.2519989014,Southern Illinois Airport,Illinois,4.65,4.15
+1163,Huntsville,KMDQ,34.8614006,-86.55750275,Madison County Executive -Tom Sharp Jr Airport,Alabama,4.58,4.13
+1164,Madison,KMDS,44.01599884,-97.08589935,Madison Municipal Airport,South-Dakota,4.65,3.85
+1165,Harrisburg,KMDT,40.1935005188,-76.7633972168,Harrisburg International Airport,Pennsylvania,4.42,4.26
+1166,Chicago,KMDW,41.7859992981,-87.7524032593,Chicago Midway International Airport,Illinois,4.80,2.85
+1167,Maxton,KMEB,34.79190063,-79.36579895,Laurinburg Maxton Airport,North-Carolina,4.54,3.54
+1168,Meridian,KMEI,32.3325996399,-88.7518997192,Key Field,Mississippi,4.00,3.25
+1169,Memphis,KMEM,35.0424003601,-89.9766998291,Memphis International Airport,Tennessee,6.47,6.21
+1170,Merced,KMER,37.38050079,-120.5680008,Castle Airport,California,5.47,3.99
+1171,Minden,KMEV,39.00030136,-119.7509995,Minden Tahoe Airport,Nevada,4.00,3.95
+1172,Mena,KMEZ,34.54539871,-94.20269775,Mena Intermountain Municipal Airport,Arkansas,4.66,4.62
+1173,Mansfield,KMFD,40.8213996887,-82.5166015625,Mansfield Lahm Regional Airport,Ohio,5.22,4.31
+1174,Mc Allen,KMFE,26.17580032,-98.23860168,Mc Allen Miller International Airport,Texas,3.99,3.85
+1175,Medford,KMFR,42.3741989136,-122.8730010986,Rogue Valley International Medford Airport,Oregon,4.70,3.91
+1176,Melfa,KMFV,37.646900177,-75.761100769,Accomack County Airport,Virginia,N/A,4.18
+1177,Montgomery,KMGJ,41.50999832,-74.26460266,Orange County Airport,New-York,4.50,4.25
+1178,Montgomery,KMGM,32.30059814,-86.39399719,Montgomery Regional (Dannelly Field) Airport,Alabama,5.15,4.90
+1179,Harbor Springs,KMGN,45.4255981445,-84.9133987427,Harbor Springs Airport,Michigan,5.65,5.45
+1180,Moultrie,KMGR,31.0848999023,-83.8032989502,Moultrie Municipal Airport,Georgia,3.10,2.90
+1181,Morgantown,KMGW,39.64289856,-79.91629791,Morgantown Municipal Walter L. Bill Hart Field,West-Virginia,4.00,3.50
+1182,Dayton,KMGY,39.5890007019,-84.224899292,Dayton Wright Brothers Airport,Ohio,4.69,3.67
+1183,Mitchell,KMHE,43.7747993469,-98.0385971069,Mitchell Municipal Airport,South-Dakota,4.62,3.40
+1184,Manhattan,KMHK,39.1409988403,-96.6707992554,Manhattan Regional Airport,Kansas,3.59,2.69
+1185,Marshall,KMHL,39.0957984924,-93.2029037476,Marshall Memorial Municipal Airport,Missouri,4.00,3.25
+1186,Metter,KMHP,32.3739013672,-82.0792007446,Metter Municipal Airport,Georgia,4.50,3.50
+1187,Sacramento,KMHR,38.55390167,-121.2979965,Sacramento Mather Airport,California,3.73,4.39
+1188,Manchester,KMHT,42.932598114,-71.4356994629,Manchester Airport,New-Hampshire,6.75,5.26
+1189,Mojave,KMHV,35.05939865,-118.1520004,Mojave Airport,California,4.73,3.32
+1190,Miami,KMIA,25.7931995392,-80.2906036377,Miami International Airport,Florida,6.75,4.84
+1191,Muncie,KMIE,40.2422981262,-85.3958969116,Delaware County Johnson Field,Indiana,4.46,3.57
+1192,Miami,KMIO,36.909198761,-94.8874969482,Miami Municipal Airport,Oklahoma,3.81,3.63
+1193,Shafter,KMIT,35.50740051,-119.1920013,Shafter Minter Field,California,5.09,3.90
+1194,Millville,KMIV,39.3678016663,-75.0721969604,Millville Municipal Airport,New-Jersey,5.40,4.99
+1195,Marshalltown,KMIW,42.112701416,-92.9178009033,Marshalltown Municipal Airport,Iowa,4.95,4.69
+1196,Picayune,KMJD,30.48749924,-89.65119934,Picayune Municipal Airport,Mississippi,4.45,N/A
+1197,Jackson,KMJQ,43.6500015259,-94.9865036011,Jackson Municipal Airport,Minnesota,4.50,4.22
+1198,Toms River,KMJX,39.92750168,-74.29239655,Robert J. Miller Air Park,New-Jersey,4.95,3.95
+1199,Miller,KMKA,44.5251998901,-98.9580993652,Miller Municipal Airport,South-Dakota,5.00,3.50
+1200,Kansas City,KMKC,39.1231994629,-94.5927963257,Charles B. Wheeler Downtown Airport,Missouri,4.50,3.55
+1201,Milwaukee,KMKE,42.9472007751,-87.8965988159,General Mitchell International Airport,Wisconsin,4.65,6.19
+1202,Muskegon,KMKG,43.16949844,-86.23819733,Muskegon County Airport,Michigan,4.99,4.79
+1203,Marion/Wytheville,KMKJ,36.8949012756,-81.349899292,Mountain Empire Airport,Virginia,4.65,3.75
+1204,Jackson,KMKL,35.59989929,-88.91560364,Mc Kellar Sipes Regional Airport,Tennessee,3.50,3.85
+1205,Comanche,KMKN,31.91679955,-98.60030365,Comanche County City Airport,Texas,3.72,3.69
+1206,Muskogee,KMKO,35.65650177,-95.36669922,Davis Field,Florida,3.25,2.99
+1207,Moncks Corner,KMKS,33.1855010986,-80.0363006592,Berkeley County Airport,South-Carolina,3.99,3.98
+1208,Mankato,KMKT,44.22159958,-93.91870117,Mankato Regional Airport,Minnesota,4.38,4.33
+1209,Marco Island,KMKY,25.9950008392,-81.6725006104,Marco Island Airport,Florida,2.91,3.69
+1210,Melbourne,KMLB,28.1028003693,-80.6453018188,Melbourne International Airport,Florida,5.07,4.63
+1211,Mc Alester,KMLC,34.88240051,-95.78350067,Mc Alester Regional Airport,Oklahoma,3.89,3.05
+1212,Milford,KMLF,38.42660141,-113.012001,Milford Municipal-Ben and Judy Briscoe Field,Utah,4.99,3.85
+1213,Moline,KMLI,41.4485015869,-90.5074996948,Quad City International Airport,Illinois,3.99,2.99
+1214,Milledgeville,KMLJ,33.15420151,-83.24069977,Baldwin County Airport,Georgia,5.50,5.30
+1215,Miles City,KMLS,46.4280014038,-105.8860015869,Frank Wiley Field,Montana,4.90,4.60
+1216,Millinocket,KMLT,45.6478004456,-68.6856002808,Millinocket Municipal Airport,Maine,N/A,3.90
+1217,Monroe,KMLU,32.5108985901,-92.0376968384,Monroe Regional Airport,Louisiana,4.25,4.70
+1218,Mammoth Lakes,KMMH,37.62409973,-118.8379974,Mammoth Yosemite Airport,California,5.50,4.99
+1219,Athens,KMMI,35.39730072,-84.56259918,McMinn County Airport,Tennessee,N/A,3.95
+1220,Marshall,KMML,44.45050049,-95.82189941,Southwest Minnesota Regional-Marshall-Ryan Field,Minnesota,4.15,3.04
+1221,Morristown,KMMU,40.7994003296,-74.4149017334,Morristown Municipal Airport,New-Jersey,5.99,3.89
+1222,Mc Minnville,KMMV,45.19440079,-123.1360016,Mc Minnville Municipal Airport,Oregon,4.99,3.99
+1223,Minden,KMNE,32.6460278,-93.2980833,Minden Airport,Luisiana,3.35,2.89
+1224,Manning,KMNI,33.5871009827,-80.2087020874,Santee Cooper Regional Airport,South-Carolina,3.51,3.55
+1225,Menominee,KMNM,45.126701355,-87.6383972168,Menominee Marinette Twin County Airport,Michigan,4.65,4.70
+1226,Marion,KMNN,40.6161994934,-83.0634994507,Marion Municipal Airport,Ohio,4.97,4.40
+1227,Madisonville,KMNV,35.5453987122,-84.3802032471,Monroe County Airport,Tennessee,3.24,3.20
+1228,Brookfield,KMO8,39.7700004578,-93.0127029419,North Central Missouri Regional Airport,Missouri,3.59,3.05
+1229,Mobile,KMOB,30.6912002563,-88.2427978516,Mobile Regional Airport,Alabama,6.18,5.41
+1230,Modesto,KMOD,37.62580109,-120.9540024,Modesto City Co-Harry Sham Field,California,3.45,3.99
+1231,Mount Pleasant,KMOP,43.6217002869,-84.7375030518,Mount Pleasant Municipal Airport,Michigan,4.62,N/A
+1232,Morristown,KMOR,36.1794013977,-83.37550354,Moore Murrell Airport,Tennessee,4.91,4.18
+1233,Minot,KMOT,48.2593994141,-101.2799987793,Minot International Airport,North-Dakota,4.96,4.80
+1234,Morris,KMOX,45.56600189,-95.96720123,Morris Municipal - Charlie Schmidt Airport,Minnesota,4.50,4.50
+1235,Philadelphia,KMPE,32.79940033,-89.12599945,Philadelphia Municipal Airport,Mississippi,4.85,3.80
+1236,Mariposa,KMPI,37.5108985901,-120.040000916,Mariposa Yosemite Airport,California,3.35,N/A
+1237,Mount Pocono,KMPO,41.13750076,-75.37889862,Pocono Mountains Municipal Airport,Pennsylvania,5.02,4.05
+1238,Barre/Montpelier,KMPV,44.20349884,-72.56230164,Edward F Knapp State Airport,Vermont,5.50,4.98
+1239,Mount Pleasant,KMPZ,40.94660187,-91.51110077,Mount Pleasant Municipal Airport,Iowa,5.35,4.10
+1240,Macomb,KMQB,40.5200996399,-90.6523971558,Macomb Municipal Airport,Illinois,4.91,2.66
+1241,Manteo,KMQI,35.91899872,-75.69550323,Dare County Regional Airport,North-Carolina,3.80,3.40
+1242,Indianapolis,KMQJ,39.84349823,-85.89710236,Mount Comfort Airport,Indiana,4.55,4.29
+1243,Coatesville,KMQS,39.97900009,-75.8655014,Chester County G O Carlson Airport,Pennsylvania,4.89,3.78
+1244,Mc Rae,KMQW,32.0957984924,-82.8799972534,Telfair Wheeler Airport,Georgia,3.55,3.40
+1245,Smyrna,KMQY,36.0089988708,-86.5201034546,Smyrna Airport,Delaware,4.10,3.49
+1246,Martinsburg,KMRB,39.40190125,-77.98459625,Eastern Wv Regional Shepherd Field,West-Virginia,5.25,5.05
+1247,Columbia/Mount Pleasant,KMRC,35.5541000366,-87.1789016724,Maury County Airport,Tennessee,4.18,3.24
+1248,Marfa,KMRF,30.371099472,-104.0179977417,Marfa Municipal Airport,Texas,N/A,4.98
+1249,Beaufort,KMRH,34.73360062,-76.66059875,Michael J. Smith Field,North-Carolina,4.45,4.28
+1250,Morganton,KMRN,35.8202018738,-81.6113967896,Foothills Regional Airport,North-Carolina,4.35,4.80
+1251,Monterey,KMRY,36.5870018005,-121.8430023193,Monterey Peninsula Airport,California,3.99,3.88
+1252,Muscle Shoals,KMSL,34.74530029,-87.61019897,Northwest Alabama Regional Airport,Alabama,3.75,3.95
+1253,Madison,KMSN,43.1399002075,-89.3375015259,Dane County Regional Truax Field,Wisconsin,4.39,3.99
+1254,Missoula,KMSO,46.91630173,-114.0910034,Missoula International Airport,Montana,4.40,3.80
+1255,Minneapolis,KMSP,44.8819999695,-93.2218017578,Minneapolis-St Paul International/Wold-Chamberlain Airport,Minnesota,4.14,5.39
+1256,Massena,KMSS,44.935798645,-74.8455963135,Massena International Richards Field,New-York,4.50,3.65
+1257,Monticello,KMSV,41.70159912,-74.79499817,Sullivan County International Airport,New-York,N/A,5.00
+1258,New Orleans,KMSY,29.9934005737,-90.2580032349,Louis Armstrong New Orleans International Airport,Louisiana,5.64,4.45
+1259,Montrose,KMTJ,38.5097999573,-107.893997192,Montrose Regional Airport,Colorado,4.81,6.29
+1260,Baltimore,KMTN,39.32569885,-76.4138031,Martin State Airport,Maryland,3.69,3.74
+1261,Mattoon/Charleston,KMTO,39.47790146,-88.27919769,Coles County Memorial Airport,Illinois,4.79,4.69
+1262,Martinsville,KMTV,36.6306991577,-80.0183029175,Blue Ridge Airport,Virginia,4.19,3.95
+1263,Muscatine,KMUT,41.3678016663,-91.1482009888,Muscatine Municipal Airport,Iowa,3.90,4.00
+1264,Monroeville,KMVC,31.4580001831,-87.3509979248,Monroe County Airport,Alabama,N/A,3.62
+1265,Morrisville,KMVL,44.5345993042,-72.6139984131,Morrisville Stowe State Airport,Vermont,4.38,N/A
+1266,Mount Vernon,KMVN,38.3233985901,-88.8588027954,Mount Vernon Airport,Illinois,4.94,2.39
+1267,Martha's Vineyard,KMVY,41.3931007385,-70.6143035889,Martha's Vineyard Airport,Massachusetts,5.74,4.46
+1268,Marion,KMWA,37.75500107,-89.01110077,Williamson County Regional Airport,Illinois,4.61,3.48
+1269,Milwaukee,KMWC,43.1104011536,-88.0344009399,Lawrence J Timmerman Airport,Wisconsin,4.99,4.35
+1270,Mount Airy,KMWK,36.45970154,-80.5530014,Mount Airy Surry County Airport,North-Carolina,3.98,3.98
+1271,Mineral Wells,KMWL,32.7816009521,-98.0602035522,Mineral Wells Airport,Texas,3.39,3.49
+1272,Windom,KMWM,43.9133987427,-95.1093978882,Windom Municipal Airport,Minnesota,4.50,3.45
+1273,Middletown,KMWO,39.53099823,-84.39530182,Middletown Regional-Hook Field Municipal Airport,Ohio,4.40,3.50
+1274,San Diego,KMYF,32.815700531,-117.1399993896,Montgomery Field,California,4.69,3.59
+1275,Mc Call,KMYL,44.88970184,-116.1009979,Mc Call Municipal Airport,Idaho,5.35,5.49
+1276,Myrtle Beach,KMYR,33.6796989441,-78.9282989502,Myrtle Beach International Airport,South-Carolina,4.01,3.79
+1277,Marysville,KMYV,39.09780121,-121.5699997,Yuba County Airport,California,4.39,4.99
+1278,Marana,KMZJ,32.5106010437,-111.3280029297,Pinal Airpark,Arizona,5.35,5.20
+1279,Marion,KMZZ,40.4898986816,-85.6797027588,Marion Municipal Airport,Indiana,4.25,3.00
+1280,Cortland,KN03,42.59260178,-76.21489716,Cortland County Chase Field,New-York,4.35,N/A
+1281,Lumberton,KN14,39.934299469,-74.8072967529,Flying W Airport,New-Jersey,5.15,5.25
+1282,Sidney,KN23,42.3026008606,-75.4160003662,Sidney Municipal Airport,New-York,3.94,4.65
+1283,Towanda,KN27,41.7400016785,-76.4470977783,Bradford County Airport,Pennsylvania,3.70,2.75
+1284,Wellsboro,KN38,41.72790146,-77.39649963,Wellsboro Johnston Airport,Pennsylvania,4.90,3.75
+1285,Pottstown,KN47,40.2602996826,-75.6707992554,Pottstown Municipal Airport,Pennsylvania,4.99,4.35
+1286,Readington,KN51,40.5836982727,-74.7361984253,Solberg Hunterdon Airport,New-Jersey,4.99,4.89
+1287,Oneonta,KN66,42.52470016,-75.06439972,Oneonta Municipal Airport,New-York,4.90,4.95
+1288,Shamokin,KN79,40.8368988037,-76.5524978638,Northumberland County Airport,Pennsylvania,3.60,3.15
+1289,Hammonton,KN81,39.66749954,-74.75769806,Hammonton Municipal Airport,New-Jersey,5.80,5.80
+1290,Carlisle,KN94,40.1879005432,-77.1743011475,Carlisle Airport,Pennsylvania,4.42,4.26
+1291,Bellefonte,KN96,40.8855018616,-77.8162994385,Bellefonte Airport,Pennsylvania,5.40,4.99
+1292,New Orleans,KNEW,30.0424003601,-90.0282974243,Lakefront Airport,Louisiana,5.64,4.45
+1293,Millington,KNQA,35.3567008972,-89.870300293,Millington Regional Jetport Airport,Tennessee,3.00,2.30
+1294,Norton,KNRN,39.8503990173,-99.8946990967,Norton Municipal Airport,Kansas,4.50,3.60
+1295,Nevada,KNVD,37.8521003723,-94.304901123,Nevada Municipal Airport,Missouri,3.50,3.00
+1296,Yuma,KNYL,32.65660095,-114.6060028,Yuma MCAS/Yuma International Airport,Arizona,3.16,3.31
+1297,Chester,KO05,40.2823982239,-121.2409973145,Rogers Field,California,4.73,4.03
+1298,Columbia,KO22,38.0303993225,-120.4150009155,Columbia Airport,California,3.09,3.95
+1299,Lone Pine,KO26,36.5882987976,-118.0520019531,Lone Pine Airport,California,4.43,N/A
+1300,Reedley,KO32,36.6663017273,-119.4499969482,Reedley Municipal Airport,California,4.50,4.90
+1301,Woodland,KO41,38.6739006042,-121.8720016479,Watts Woodland Airport,California,4.70,3.61
+1302,Weed,KO46,41.474899292,-122.4530029297,Weed Airport,California,5.29,4.69
+1303,Jacksonville,KOAJ,34.8292007446,-77.6120986938,Albert J Ellis Airport,North-Carolina,3.99,5.05
+1304,Oakland,KOAK,37.7212982178,-122.2210006714,Metropolitan Oakland International Airport,California,6.49,4.33
+1305,Marina,KOAR,36.68190002,-121.762001,Marina Municipal Airport,California,3.48,3.50
+1306,Okeechobee,KOBE,27.2628002167,-80.8498001099,Okeechobee County Airport,Florida,5.20,5.49
+1307,Ocala,KOCF,29.17259979,-82.22419739,Ocala International Jim Taylor Field,Florida,4.27,5.32
+1308,Nacogdoches,KOCH,31.57799911,-94.70950317,A L Mangham Jr. Regional Airport,Texas,3.69,3.29
+1309,Washington,KOCW,35.5704994202,-77.0497970581,Warren Field,Georgia,4.20,3.96
+1310,Odessa,KODO,31.9206008911,-102.3870010376,Odessa Schlemeyer Field,Texas,3.53,3.77
+1311,Coldwater,KOEB,41.9333992,-85.05259705,Branch County Memorial Airport,Michigan,4.70,4.25
+1312,Oakley,KOEL,39.1099014282,-100.8160018921,Oakley Municipal Airport,Kansas,4.69,3.79
+1313,Osceola,KOEO,45.3100013733,-92.6919021606,L O Simenstad Municipal Airport,Wisconsin,3.65,3.50
+1314,Norfolk,KOFK,41.9855003357,-97.4350967407,Karl Stefan Memorial Airport,Nebraska,3.38,2.92
+1315,Richmond/Ashland,KOFP,37.70899963,-77.43669891,Hanover County Municipal Airport,Virginia,4.55,3.55
+1316,Ogallala,KOGA,41.11949921,-101.7699966,Searle Field,Nebraska,4.29,2.27
+1317,Orangeburg,KOGB,33.4567985535,-80.8594970703,Orangeburg Municipal Airport,South-Carolina,4.19,4.09
+1318,Ogden,KOGD,41.1958999634,-112.0120010376,Ogden Hinckley Airport,Utah,3.95,3.30
+1319,Ogdensburg,KOGS,44.6819000244,-75.4654998779,Ogdensburg International Airport,New-York,4.39,3.99
+1320,Norwich,KOIC,42.5666007996,-75.5241012573,Lt Warren Eaton Airport,New-York,4.69,4.65
+1321,Weatherford,KOJA,35.5447998047,-98.6685028076,Thomas P Stafford Airport,Oklahoma,3.99,2.99
+1322,Olathe,KOJC,38.84759903,-94.73760223,Johnson County Executive Airport,Kansas,5.25,4.50
+1323,Oceanside,KOKB,33.217300415,-117.3539962769,Oceanside Municipal Airport,California,3.80,N/A
+1324,Oklahoma City,KOKC,35.3931007385,-97.6007003784,Will Rogers World Airport,Oklahoma,6.00,5.69
+1325,Kokomo,KOKK,40.5281982422,-86.0589981079,Kokomo Municipal Airport,Indiana,4.41,2.18
+1326,Winchester,KOKV,39.14350128,-78.14440155,Winchester Regional Airport,Virginia,4.14,4.35
+1327,Sandersville,KOKZ,32.9667015076,-82.8382034302,Kaolin Field,Georgia,4.50,4.50
+1328,Old Town,KOLD,44.95280075,-68.67430115,Dewitt FieldOld Town Municipal Airport,Maine,4.74,3.90
+1329,Olean,KOLE,42.24119949,-78.37139893,Cattaraugus County-Olean Airport,New-York,5.20,4.75
+1330,Wolf Point,KOLF,48.0945014954,-105.5749969482,L M Clayton Airport,Montana,3.94,3.39
+1331,Olympia,KOLM,46.9693985,-122.9029999,Olympia Regional Airport,Washington,4.64,3.67
+1332,Nogales,KOLS,31.4176998138,-110.8479995728,Nogales International Airport,Arizona,5.50,4.61
+1333,Olive Branch,KOLV,34.9786987305,-89.7869033813,Olive Branch Airport,Mississippi,2.99,3.40
+1334,Olney-Noble,KOLY,38.7218017578,-88.176399231,Olney Noble Airport,Illinois,4.00,2.75
+1335,Oelwein,KOLZ,42.6808013916,-91.9745025635,Oelwein Municipal Airport,Iowa,5.05,3.85
+1336,Omaha,KOMA,41.3031997681,-95.8940963745,Eppley Airfield,Nebraska,3.65,2.79
+1337,Omak,KOMK,48.4644012451,-119.5179977417,Omak Airport,Washington,4.58,2.93
+1338,Ormond Beach,KOMN,29.3006000519,-81.1136016846,Ormond Beach Municipal Airport,Florida,4.14,4.45
+1339,Winona,KONA,44.07720184,-91.70829773,Winona Municipal-Max Conrad Field,Minnesota,5.03,4.04
+1340,Ontario,KONO,44.0205001831,-117.013999939,Ontario Municipal Airport,Oregon,5.15,4.10
+1341,Newport,KONP,44.5803985596,-124.0579986572,Newport Municipal Airport,Arkansas,4.95,4.09
+1342,Ontario,KONT,34.0559997559,-117.6009979248,Ontario International Airport,California,3.79,2.95
+1343,Currituck,KONX,36.39889908,-76.01629639,Currituck County Regional Airport,North-Carolina,3.89,3.70
+1344,Oskaloosa,KOOA,41.2262001,-92.49389648,Oskaloosa Municipal Airport,Iowa,3.75,4.50
+1345,Miami,KOPF,25.90699959,-80.27839661,Opa-locka Executive Airport,Florida,4.09,2.29
+1346,Thomaston,KOPN,32.95460129,-84.26319885,Thomaston Upson County Airport,Georgia,2.90,3.20
+1347,West Chester,KOQN,39.9901008606,-75.5819015503,Brandywine Airport,Pennsylvania,4.98,3.99
+1348,North Kingstown,KOQU,41.5970993042,-71.4121017456,Quonset State Airport,Rhode-Island,5.25,5.83
+1349,Orr,KORB,48.0158996582,-92.8561019897,Orr Regional Airport,Minnesota,4.82,2.99
+1350,Chicago,KORD,41.97859955,-87.90480042,Chicago O'Hare International Airport,Illinois,4.80,2.85
+1351,Orange,KORE,42.570098877,-72.2885971069,Orange Municipal Airport,Massachusetts,N/A,4.70
+1352,Norfolk,KORF,36.8945999146,-76.2012023926,Norfolk International Airport,Virginia,4.69,3.49
+1353,Orange,KORG,30.0692005157,-93.8009033203,Orange County Airport,Texas,2.58,2.40
+1354,Worcester,KORH,42.2672996521,-71.8757019043,Worcester Regional Airport,Massachusetts,5.50,6.36
+1355,North Little Rock,KORK,34.83309937,-92.25409698,North Little Rock Municipal Airport,Arkansas,3.99,3.67
+1356,Orlando,KORL,28.5454998016,-81.332901001,Executive Airport,Florida,5.20,5.74
+1357,Mount Pleasant,KOSA,33.09550095,-94.96150208,Mount Pleasant Regional Airport,Texas,N/A,2.98
+1358,Oscoda,KOSC,44.45159912,-83.39409637,Oscoda Wurtsmith Airport,Michigan,3.95,3.80
+1359,Oshkosh,KOSH,43.9844017029,-88.5569992065,Wittman Regional Airport,Wisconsin,4.59,4.19
+1360,Columbus,KOSU,40.0797996521,-83.0729980469,Ohio State University Airport,Ohio,5.19,3.25
+1361,Worthington,KOTG,43.6551017761,-95.5792007446,Worthington Municipal Airport,Minnesota,N/A,3.65
+1362,North Bend,KOTH,43.417098999,-124.2460021973,Southwest Oregon Regional Airport,Oregon,5.70,5.15
+1363,Ottumwa,KOTM,41.10660172,-92.44789886,Ottumwa Regional Airport,Iowa,3.60,2.98
+1364,Norman,KOUN,35.2456016541,-97.4720993042,University of Oklahoma Westheimer Airport,Oklahoma,4.81,3.97
+1365,Oroville,KOVE,39.4878005981,-121.6220016479,Oroville Municipal Airport,California,4.25,4.25
+1366,Owatonna,KOWA,44.12340164,-93.26059723,Owatonna Degner Regional Airport,Minnesota,3.84,3.59
+1367,Owensboro,KOWB,37.74010086,-87.16680145,Owensboro Daviess County Airport,Kentucky,4.75,5.40
+1368,Norwood,KOWD,42.1904983521,-71.1728973389,Norwood Memorial Airport,Massachusetts,4.57,4.12
+1369,Ottawa,KOWI,38.5387001038,-95.2529983521,Ottawa Municipal Airport,Kansas,3.69,3.35
+1370,Norridgewock,KOWK,44.71549988,-69.86650085,Central Maine Arpt of Norridgewock Airport,Maine,3.99,2.69
+1371,Ottawa,KOWX,41.03559875,-83.98200226,Putnam County Airport,Ohio,4.69,3.79
+1372,Ocean City,KOXB,38.3103981018,-75.1240005493,Ocean City Municipal Airport,Maryland,5.00,4.15
+1373,Oxford,KOXC,41.4785995483,-73.1352005005,Waterbury Oxford Airport,Connecticut,6.41,5.70
+1374,Oxford,KOXD,39.50230026,-84.78440094,Miami University Airport,Ohio,4.99,N/A
+1375,Oxnard,KOXR,34.2008018494,-119.2070007324,Oxnard Airport,California,4.75,3.00
+1376,Knoxville,KOXV,41.2989006042,-93.1138000488,Knoxville Municipal Airport,Iowa,3.75,3.45
+1377,St Marys,KOYM,41.4124984741,-78.5026016235,St Marys Municipal Airport,Pennsylvania,5.75,4.90
+1378,Ozona,KOZA,30.7353000641,-101.2030029297,Ozona Municipal Airport,Texas,4.35,3.95
+1379,Howell,KOZW,42.62919998,-83.98210144,Livingston County Spencer J. Hardy Airport,Michigan,4.20,2.65
+1380,Coolidge,KP08,32.9359016418,-111.4270019531,Coolidge Municipal Airport,Arizona,3.49,2.76
+1381,Holbrook,KP14,34.940700531,-110.138000488,Holbrook Municipal Airport,Arizona,3.79,3.39
+1382,Parker,KP20,34.1506004333,-114.2710037231,Avi Suquilla Airport,Arizona,4.99,3.22
+1383,Cottonwood,KP52,34.7299995422,-112.0350036621,Cottonwood Airport,Arizona,3.39,2.99
+1384,Everett,KPAE,47.90629959,-122.2819977,Snohomish County (Paine Field) Airport,Washington,4.94,3.55
+1385,Paducah,KPAH,37.060798645,-88.7738037109,Barkley Regional Airport,Kentucky,4.60,3.40
+1386,Palo Alto,KPAO,37.461101532,-122.1149978638,Palo Alto Airport of Santa Clara County,California,4.15,3.44
+1387,Pine Bluff,KPBF,34.1730995178,-91.9356002808,Grider Field,Arkansas,2.95,3.40
+1388,Plattsburgh,KPBG,44.6509017944,-73.4681015015,Plattsburgh International Airport,New-York,5.15,4.10
+1389,West Palm Beach,KPBI,26.6832008362,-80.0955963135,Palm Beach International Airport,Florida,4.96,0.00
+1390,Pikeville,KPBX,37.5617981,-82.56639862,Pike County-Hatcher Field,Kentucky,4.00,2.90
+1391,"Perryville, Missouri",KPCD,37.8686667,-89.8621389,Perryville Regional Airport,Missouri,3.40,3.25
+1392,Plant City,KPCM,28.00020027,-82.16419983,Plant City Municipal Airport,Florida,4.90,4.40
+1393,Port Clinton,KPCW,41.5163002014,-82.8686981201,Carl R Keller Field,Ohio,4.15,3.16
+1394,Waupaca,KPCZ,44.33330154,-89.01979828,Waupaca Municipal Airport,Wisconsin,4.18,3.21
+1395,Prairie Du Chien,KPDC,43.0192985535,-91.1237030029,Prairie Du Chien Municipal Airport,Wisconsin,4.69,4.39
+1396,Atlanta,KPDK,33.8755989075,-84.3020019531,DeKalb Peachtree Airport,Georgia,5.42,4.41
+1397,Pendleton,KPDT,45.695098877,-118.841003418,Eastern Oregon Regional At Pendleton Airport,Oregon,4.00,3.69
+1398,Portland,KPDX,45.58869934,-122.5979996,Portland International Airport,Oregon,4.95,2.30
+1399,Pella,KPEA,41.400100708,-92.9458999634,Pella Municipal Airport,Iowa,3.75,4.50
+1400,Penn Yan,KPEO,42.6371002197,-77.0529022217,Penn Yan Airport,New-York,3.99,2.99
+1401,Pecos,KPEQ,31.3824005127,-103.5110015869,Pecos Municipal Airport,Texas,3.85,3.55
+1402,Pleasanton,KPEZ,28.9542007446,-98.5199966431,Pleasanton Municipal Airport,Texas,3.50,3.10
+1403,Page,KPGA,36.92610168,-111.447998,Page Municipal Airport,Arizona,4.60,4.10
+1404,Punta Gorda,KPGD,26.920200350000002,-81.9905014,Charlotte County Airport,Florida,2.78,3.24
+1405,Paragould,KPGR,36.06290054,-90.50779724,Kirk Field,Arkansas,3.52,2.99
+1406,Greenville,KPGV,35.6352005,-77.38529968,Pitt Greenville Airport,North-Carolina,4.85,4.30
+1407,New Philadelphia,KPHD,40.4709014893,-81.4197006226,Harry Clever Field,Ohio,4.44,3.70
+1408,Newport News,KPHF,37.13190079,-76.49299622,Newport News Williamsburg International Airport,Virginia,5.00,4.50
+1409,Phillipsburg,KPHG,39.7358016968,-99.3171005249,Phillipsburg Municipal Airport,Kansas,N/A,3.54
+1410,Pahokee,KPHK,26.78499985,-80.69339752,Palm Beach Co Glades Airport,Florida,5.69,5.76
+1411,Philadelphia,KPHL,39.8718986511,-75.2410964966,Philadelphia International Airport,Pennsylvania,5.85,5.25
+1412,Port Huron,KPHN,42.9109993,-82.52890015,St Clair County International Airport,Michigan,5.00,4.60
+1413,Phoenix,KPHX,33.434299469,-112.0120010376,Phoenix Sky Harbor International Airport,Arizona,5.13,4.50
+1414,Peoria,KPIA,40.6641998291,-89.6932983398,Greater Peoria Regional Airport,Illinois,5.65,4.20
+1415,Hattiesburg/Laurel,KPIB,31.4671001434,-89.337097168,Hattiesburg Laurel Regional Airport,Mississippi,4.50,3.70
+1416,St Petersburg-Clearwater,KPIE,27.91020012,-82.68740082,St Petersburg Clearwater International Airport,Florida,5.29,5.14
+1417,Pocatello,KPIH,42.9098014832,-112.5960006714,Pocatello Regional Airport,Idaho,5.25,4.44
+1418,Port Isabel,KPIL,26.1662006378,-97.3459014893,Port Isabel Cameron County Airport,Texas,4.54,2.80
+1419,Pine Mountain,KPIM,32.8406982422,-84.8824005127,Harris County Airport,Georgia,3.59,2.99
+1420,Pierre,KPIR,44.38270187,-100.2860031,Pierre Regional Airport,South-Dakota,4.68,3.47
+1421,Pittsburgh,KPIT,40.49150085,-80.23290253,Pittsburgh International Airport,Pennsylvania,4.10,2.03
+1422,Zelienople,KPJC,40.80160141,-80.16069794,Zelienople Municipal Airport,Pennsylvania,4.56,2.88
+1423,Parkersburg,KPKB,39.3451004028,-81.439201355,Mid Ohio Valley Regional Airport,West-Virginia,4.90,3.50
+1424,Park Rapids,KPKD,46.90060043,-95.07309723,Park Rapids Municipal Konshok Field,Minnesota,3.75,3.95
+1425,Port Lavaca,KPKV,28.65399933,-96.6812973,Calhoun County Airport,Texas,3.85,3.55
+1426,Portland,KPLD,40.45080185,-84.99009705,Portland Municipal Airport,Indiana,N/A,2.99
+1427,Point Lookout,KPLK,36.62590027,-93.22889709,M. Graham Clark-Taney County Airport,Missouri,4.49,4.29
+1428,Pellston,KPLN,45.57089996,-84.79669952,Pellston Regional Airport of Emmet County Airport,Michigan,5.35,4.94
+1429,Pell City,KPLR,33.5587997437,-86.2490997314,St Clair County Airport,Alabama,3.60,3.60
+1430,Portsmouth,KPMH,38.8404998779,-82.8472976685,Greater Portsmouth Regional Airport,Ohio,4.91,4.67
+1431,Pompano Beach,KPMP,26.2471008301,-80.1110992432,Pompano Beach Airpark,Florida,3.89,3.49
+1432,Plymouth,KPMZ,35.8083992004,-76.7593002319,Plymouth Municipal Airport,North-Carolina,3.92,2.75
+1433,Pinedale,KPNA,42.79550171,-109.8069992,Ralph Wenz Field,Wyoming,N/A,4.05
+1434,Ponca City,KPNC,36.73199844,-97.09980011,Ponca City Regional Airport,Oklahoma,3.30,2.65
+1435,Philadelphia,KPNE,40.08190155,-75.01059723,Northeast Philadelphia Airport,Pennsylvania,6.55,5.37
+1436,Pensacola,KPNS,30.473400116,-87.1865997314,Pensacola Regional Airport,Florida,4.25,3.95
+1437,Pontiac,KPNT,40.9244003296,-88.6239013672,Pontiac Municipal Airport,Illinois,3.61,3.21
+1438,La Verne,KPOC,34.0915985107,-117.7819976807,Brackett Field,Minnesota,5.59,4.49
+1439,Poplar Bluff,KPOF,36.7738990784,-90.3248977661,Poplar Bluff Municipal Airport,Missouri,3.50,3.50
+1440,Poughkeepsie,KPOU,41.6265983582,-73.8842010498,Dutchess County Airport,New-York,4.90,4.62
+1441,Powell,KPOY,44.8671989441,-108.7929992676,Powell Municipal Airport,Wyoming,4.73,4.20
+1442,Pampa,KPPA,35.6129989624,-100.9960021973,Perry Lefors Field,Texas,3.80,3.00
+1443,Parsons,KPPF,37.32989883,-95.5062027,Tri City Airport,Kansas,4.39,4.38
+1444,Pittsfield,KPPQ,39.6389007568,-90.7783966064,Pittsfield Penstone Municipal Airport,Illinois,5.05,4.44
+1445,Presque Isle,KPQI,46.68899918,-68.0447998,Northern Maine Regional Airport at Presque Isle,Maine,N/A,2.50
+1446,Pascagoula,KPQL,30.4627990723,-88.5291976929,Trent Lott International Airport,Mississippi,4.55,4.93
+1447,Pipestone,KPQN,43.9832992554,-96.3003005981,Pipestone Municipal Airport,Minnesota,3.95,3.85
+1448,Paso Robles,KPRB,35.67290115,-120.6269989,Paso Robles Municipal Airport,California,3.87,3.80
+1449,Prescott,KPRC,34.65449905,-112.4199982,Ernest A. Love Field,Arizona,4.58,4.88
+1450,Paris,KPRG,39.7001991272,-87.6696014404,Edgar County Airport,Illinois,3.89,3.89
+1451,Perry,KPRO,41.82799911,-94.15989685,Perry Municipal Airport,Iowa,4.10,3.40
+1452,Paris,KPRX,33.6366004944,-95.4507980347,Cox Field,Texas,3.29,2.99
+1453,Portales,KPRZ,34.1455001831,-103.4100036621,Portales Municipal Airport,New-Mexico,N/A,3.10
+1454,Pasco,KPSC,46.2647018433,-119.1190032959,Tri Cities Airport,Washington,5.97,3.23
+1455,Pittsfield,KPSF,42.4267997742,-73.2929000854,Pittsfield Municipal Airport,Massachusetts,N/A,3.63
+1456,Dublin,KPSK,37.137298584,-80.6784973145,New River Valley Airport,Virginia,4.88,4.85
+1457,Portsmouth,KPSM,43.0778999329,-70.8233032227,Portsmouth International at Pease Airport,New-Hampshire,3.07,3.78
+1458,Palestine,KPSN,31.7796993256,-95.7062988281,Palestine Municipal Airport,Texas,3.00,2.89
+1459,Pagosa Springs,KPSO,37.28630066,-107.0559998,Stevens Field,Colorado,4.85,5.80
+1460,Palm Springs,KPSP,33.82970047,-116.5070037842,Palm Springs International Airport,California,5.80,5.27
+1461,Petersburg,KPTB,37.1837997437,-77.5074005127,Dinwiddie County Airport,Virginia,4.20,3.60
+1462,Potsdam,KPTD,44.67670059,-74.9484024,Potsdam Municipal-Damon field,New-York,4.97,4.15
+1463,Pontiac,KPTK,42.6655006409,-83.4200973511,Oakland County International Airport,Michigan,3.10,1.50
+1464,Patterson,KPTN,29.7094993591,-91.3389968872,Harry P Williams Memorial Airport,Louisiana,4.93,4.04
+1465,Pittsburg,KPTS,37.4495010376,-94.7311019897,Atkinson Municipal Airport,Kansas,3.24,2.95
+1466,Pratt,KPTT,37.70159912,-98.74690247,Pratt Industrial Airport,Kansas,3.77,3.73
+1467,Porterville,KPTV,36.0295982361,-119.06300354,Porterville Municipal Airport,California,4.70,4.25
+1468,Pottstown,KPTW,40.2396011353,-75.5567016602,Pottstown Limerick Airport,Pennsylvania,4.89,3.99
+1469,Pueblo,KPUB,38.289100647,-104.4970016479,Pueblo Memorial Airport,Colorado,4.99,3.79
+1470,Price,KPUC,39.61389923,-110.7509995,Carbon County Regional/Buck Davis Field,Utah,4.65,4.07
+1471,Dallas,KPUJ,33.913306439,-84.9420833588,Paulding County Regional Airport,Georgia,4.54,3.44
+1472,Platteville,KPVB,42.68939972,-90.44439697,Platteville Municipal Airport,Wisconsin,4.05,3.00
+1473,Providence,KPVD,41.7326011658,-71.4204025269,Theodore Francis Green State Airport,Rhode-Island,7.32,6.47
+1474,Norfolk,KPVG,36.7802009583,-76.4487991333,Hampton Roads Executive Airport,Virginia,4.69,3.49
+1475,Pauls Valley,KPVJ,34.71110153,-97.22319794,Pauls Valley Municipal Airport,Oklahoma,4.09,3.89
+1476,Provo,KPVU,40.2192001343,-111.7229995728,Provo Municipal Airport,Utah,5.45,4.93
+1477,Plainview,KPVW,34.1680984497,-101.7170028687,Hale County Airport,Texas,3.20,2.00
+1478,Oklahoma City,KPWA,35.53419876,-97.64710236,Wiley Post Airport,Oklahoma,4.69,4.22
+1479,Waco,KPWG,31.48489952,-97.3164978,Mc Gregor Executive Airport,Texas,4.95,4.18
+1480,Chicago/Prospect Heights/Wheeling,KPWK,42.114222,-87.901494,Chicago Executive Airport,Illinois,4.80,2.85
+1481,Portland,KPWM,43.64619827,-70.30930328,Portland International Jetport Airport,Maine,4.82,3.47
+1482,Bremerton,KPWT,47.4902000427,-122.7649993896,Bremerton National Airport,Washington,4.24,3.79
+1483,Perry,KPXE,32.5106010437,-83.7673034668,Perry Houston County Airport,Georgia,3.12,3.20
+1484,Plymouth,KPYM,41.9090003967,-70.7287979126,Plymouth Municipal Airport,Indiana,4.39,3.74
+1485,Perryton,KPYX,36.4128990173,-100.7519989014,Perryton Ochiltree County Airport,Texas,3.25,2.73
+1486,Riverside,KRAL,33.95190048,-117.4449997,Riverside Municipal Airport,California,3.50,3.00
+1487,Rapid City,KRAP,44.04529953,-103.0569992065,Rapid City Regional Airport,South-Dakota,3.98,2.89
+1488,Dallas,KRBD,32.6809005737,-96.8682022095,Dallas Executive Airport,Texas,3.20,3.00
+1489,Roseburg,KRBG,43.2388000488,-123.3560028076,Roseburg Regional Airport,Oregon,4.99,3.39
+1490,Red Bluff,KRBL,40.1506996155,-122.2519989014,Red Bluff Municipal Airport,California,5.00,4.30
+1491,Walterboro,KRBW,32.9210014343,-80.6406021118,Lowcountry Regional Airport,South-Carolina,4.48,3.25
+1492,Oklahoma City,KRCE,35.48809814,-97.82360077,Clarence E Page Municipal Airport,Oklahoma,4.76,3.95
+1493,Warrensburg,KRCM,38.784198761,-93.8029022217,Skyhaven Airport,Missouri,3.82,3.24
+1494,,KRCP,39.346592,-99.304649,Stockton / Rooks County Regional,Kansas,3.89,2.79
+1495,Rochester,KRCR,41.0656013489,-86.1817016602,Fulton County Airport,Indiana,3.95,1.99
+1496,Ladysmith,KRCX,45.496799469,-91.00050354,Rusk County Airport,Wisconsin,3.99,3.84
+1497,Redding,KRDD,40.50899887,-122.2929993,Redding Municipal Airport,California,4.89,4.29
+1498,Reading,KRDG,40.3785018921,-75.9652023315,Reading Regional Carl A Spaatz Field,Pennsylvania,4.89,3.16
+1499,Redmond,KRDM,44.2541008,-121.1500015,Roberts Field,Indiana,4.51,4.69
+1500,Raleigh/Durham,KRDU,35.8776016235,-78.7874984741,Raleigh Durham International Airport,North-Carolina,6.20,5.81
+1501,Gonzales,KREG,30.1713667,-90.9403861,Louisiana Regional Airport,Louisiana,3.28,3.49
+1502,Chicago/Rockford,KRFD,42.195400238,-89.0971984863,Chicago Rockford International Airport,Illinois,5.10,4.80
+1503,Refugio,KRFG,28.2936000824,-97.3229980469,Rooke Field,Texas,4.45,4.25
+1504,Red Wing,KRGK,44.58940125,-92.48500061,Red Wing Regional Airport,Wisconsin,3.75,3.20
+1505,Rhinelander,KRHI,45.6311988831,-89.4674987793,Rhinelander Oneida County Airport,Wisconsin,4.63,3.89
+1506,San Jose,KRHV,37.332901001,-121.8190002441,Reid Hillview of Santa Clara County Airport,California,4.29,3.39
+1507,Richmond,KRIC,37.5051994324,-77.3197021484,Richmond International Airport,Virginia,5.67,3.53
+1508,Richmond,KRID,39.7571983337,-84.8427963257,Richmond Municipal Airport,Indiana,4.43,3.79
+1509,Richfield,KRIF,38.7364006042,-112.0989990234,Richfield Municipal Airport,Utah,4.50,3.14
+1510,Rifle,KRIL,39.52629852,-107.7269974,Garfield County Regional Airport,Colorado,4.50,6.55
+1511,Rancho Murieta,KRIU,38.4868011475,-121.1029968262,Rancho Murieta Airport,California,5.30,5.50
+1512,Riverside,KRIV,33.88069916,-117.2590027,March ARB Airport,California,5.05,3.91
+1513,Riverton,KRIW,43.064201355,-108.4599990845,Riverton Regional Airport,Wyoming,4.80,4.80
+1514,Rockland,KRKD,44.06010056,-69.09919739,Knox County Regional Airport,Maine,5.60,4.30
+1515,Rockport,KRKP,28.0867996216,-97.0446014404,Aransas County Airport,Texas,3.70,3.80
+1516,Rock Springs,KRKS,41.59420013,-109.0650024,Rock Springs Sweetwater County Airport,Wyoming,4.49,3.99
+1517,Rockwood,KRKW,35.9222984314,-84.6896972656,Rockwood Municipal Airport,Tennessee,4.65,4.25
+1518,Richland,KRLD,46.3055992126,-119.3040008545,Richland Airport,Washington,4.45,2.88
+1519,Rome,KRME,43.23379898,-75.40699768,Griffiss International Airport,New-York,3.07,3.78
+1520,Rome,KRMG,34.3506011963,-85.1579971313,Richard B Russell Airport,Georgia,4.11,2.50
+1521,Stafford,KRMN,38.3981018066,-77.4554977417,Stafford Regional Airport,Virginia,4.50,3.75
+1522,Marshall,KRMY,42.2512016296,-84.9554977417,Brooks Field,Colorado,4.55,4.80
+1523,Mc Minnville,KRNC,35.69869995,-85.84380341,Warren County Memorial Airport,Tennessee,3.35,3.24
+1524,Ramona,KRNM,33.0391998291,-116.9150009155,Ramona Airport,California,4.25,3.50
+1525,Reno,KRNO,39.4990997314,-119.7679977417,Reno Tahoe International Airport,Nevada,3.95,2.75
+1526,Renton,KRNT,47.4930992126,-122.216003418,Renton Municipal Airport,Washington,4.07,3.82
+1527,Cleveland,KRNV,33.76110077,-90.75789642,Cleveland Municipal Airport,Mississippi,4.72,4.36
+1528,Roanoke,KROA,37.3255004883,-79.975402832,Roanoke Regional Woodrum Field,Virginia,5.80,5.36
+1529,Rochester,KROC,43.1189002991,-77.6724014282,Greater Rochester International Airport,New-York,5.15,4.52
+1530,Rogers,KROG,36.37229919,-94.10690308,Rogers Municipal Carter Field,Arkansas,4.68,4.38
+1531,Rush City,KROS,45.69800186,-92.95300293,Rush City Regional Airport,Minnesota,4.19,3.39
+1532,Roswell,KROW,33.3016014099,-104.53099823,Roswell International Air Center Airport,New-Mexico,5.30,6.25
+1533,Roseau,KROX,48.85599899,-95.6969986,Roseau Municipal Rudy Billberg Field,Minnesota,4.95,4.85
+1534,Rice Lake,KRPD,45.41899872,-91.77349854,Rice Lake Regional Carl's Field,Wisconsin,4.05,4.10
+1535,Graham,KRPH,33.1101989746,-98.5552978516,Graham Municipal Airport,Texas,2.36,2.89
+1536,Roundup,KRPX,46.4749984741,-108.5429992676,Roundup Airport,Montana,3.90,3.10
+1537,Big Rapids,KRQB,43.7225990295,-85.5040969849,Roben Hood Airport,Michigan,4.50,4.00
+1538,Ruston,KRSN,32.5144004822,-92.5916976929,Ruston Regional Airport,Louisiana,4.47,2.64
+1539,Rochester,KRST,43.9082984924,-92.5,Rochester International Airport,Minnesota,4.93,6.30
+1540,Robinson,KRSV,39.0159988403,-87.6498031616,Robinson Municipal Airport,Illinois,4.25,4.15
+1541,Fort Myers,KRSW,26.5361995697,-81.7552032471,Southwest Florida International Airport,Florida,5.53,3.81
+1542,Raton,KRTN,36.74150085,-104.5019989,Raton Municipal-Crews Field,New-Mexico,3.50,3.50
+1543,Reno,KRTS,39.6674003601,-119.875999451,Reno Stead Airport,Nevada,3.99,4.55
+1544,Russellville,KRUE,35.25910187,-93.09329987,Russellville Regional Airport,Arkansas,3.85,3.50
+1545,Rugby,KRUG,48.3903999329,-100.0240020752,Rugby Municipal Airport,North-Dakota,4.75,N/A
+1546,Salisbury,KRUQ,35.64590073,-80.52030182,Rowan County Airport,North-Carolina,3.98,4.55
+1547,Rutland,KRUT,43.52939987,-72.94960022,Rutland - Southern Vermont Regional Airport,Vermont,4.66,4.41
+1548,Reidsville,KRVJ,32.0589981079,-82.1517028809,Swinton Smith Field at Reidsville Municipal Airport,Georgia,4.45,3.90
+1549,Reedsville,KRVL,40.6773986816,-77.6268005371,Mifflin County Airport,Pennsylvania,4.35,N/A
+1550,Tulsa,KRVS,36.0396003723,-95.9845962524,Richard Lloyd Jones Jr Airport,Oklahoma,4.35,3.00
+1551,Rocky Mount,KRWI,35.856300354,-77.8918991089,Rocky Mount Wilson Regional Airport,North-Carolina,3.50,3.10
+1552,Rawlins,KRWL,41.80559921,-107.1999969,Rawlins Municipal Harvey Field,Wyoming,4.80,4.65
+1553,Winamac,KRWN,41.092300415,-86.6128997803,Arens Field,Indiana,3.81,2.93
+1554,Rexburg,KRXE,43.8339004517,-111.805000305,Rexburg Madison County Airport,Idaho,4.20,3.70
+1555,Tucson,KRYN,32.14220047,-111.1750030518,Ryan Field,Arizona,4.49,3.90
+1556,Atlanta,KRYY,34.01319885,-84.59860229,Cobb County-Mc Collum Field,Georgia,5.42,4.41
+1557,Rensselaer,KRZL,40.9478988647,-87.1826019287,Jasper County Airport,Indiana,3.26,2.93
+1558,Siren,KRZN,45.8227005005,-92.3724975586,Burnett County Airport,Wisconsin,3.99,3.59
+1559,Cleveland,KRZR,35.2123364,-84.7991994,Cleveland Regional Jetport C,Tennessee,3.60,3.39
+1560,Chillicothe,KRZT,39.4403991699,-83.0231018066,Ross County Airport,Ohio,4.48,4.02
+1561,Ashland,KS03,42.1902999878,-122.661003113,Ashland Municipal Sumner Parker Field,Oregon,4.30,4.39
+1562,Chelan,KS10,47.8660011292,-119.9430007935,Lake Chelan Airport,Washington,4.93,3.94
+1563,Albany,KS12,44.6377983093,-123.0589981079,Albany Municipal Airport,Oregon,3.79,3.99
+1564,Sunriver,KS21,43.8763008118,-121.45300293,Sunriver Airport,Oregon,5.05,3.95
+1565,"Fremont, Ohio",KS24,41.29575,-83.0372222,Sandusky County Regional Airport,Ohio,4.86,3.95
+1566,Watford City,KS25,47.79570007,-103.2539978,Watford City Municipal Airport,North-Dakota,3.99,3.99
+1567,Kalispell,KS27,48.1786003113,-114.3040008545,Kalispell City Airport,Montana,5.05,5.15
+1568,Madras,KS33,44.67020035,-121.1549988,Madras Municipal Airport,Oregon,5.05,4.40
+1569,Prineville,KS39,44.2869987488,-120.9039993286,Prineville Airport,Oregon,4.10,3.75
+1570,Winthrop,KS52,48.4249000549,-120.1460037231,Methow Valley State Airport,Washington,4.40,3.95
+1571,Libby,KS59,48.2837982178,-115.4899978638,Libby Airport,Montana,4.50,3.59
+1572,Payette,KS75,44.0915985107,-116.9010009766,Payette Municipal Airport,Idaho,4.50,3.97
+1573,Saratoga,KSAA,41.4449005127,-106.8239974976,Shively Field,Wyoming,4.80,4.75
+1574,Sacramento,KSAC,38.5125007629,-121.4929962158,Sacramento Executive Airport,California,3.73,4.39
+1575,Safford,KSAD,32.85480118,-109.6350021,Safford Regional Airport,Arizona,3.90,2.90
+1576,Santa Fe,KSAF,35.617099762,-106.088996887,Santa Fe Municipal Airport,New-Mexico,4.49,3.99
+1577,San Diego,KSAN,32.7336006165,-117.1900024414,San Diego International Airport,California,4.69,3.99
+1578,Sparta,KSAR,38.1488990784,-89.6986999512,Sparta Community Hunter Field,Illinois,3.45,2.85
+1579,San Antonio,KSAT,29.533700943,-98.4698028564,San Antonio International Airport,Texas,6.95,5.59
+1580,Savannah,KSAV,32.12760162,-81.20210266,Savannah Hilton Head International Airport,Georgia,6.97,4.96
+1581,Marquette,KSAW,46.3535995483,-87.395401001,Sawyer International Airport,Michigan,5.00,4.58
+1582,Santa Barbara,KSBA,34.42620087,-119.8399963,Santa Barbara Municipal Airport,California,3.93,5.66
+1583,San Bernardino,KSBD,34.0954017639,-117.2350006104,San Bernardino International Airport,California,3.79,3.23
+1584,Sheboygan,KSBM,43.76959991,-87.85140228,Sheboygan County Memorial Airport,Wisconsin,4.39,4.49
+1585,South Bend,KSBN,41.7086982727,-86.3172988892,South Bend Regional Airport,Indiana,3.99,3.95
+1586,Swainsboro,KSBO,32.6091003418,-82.3699035645,Emanuel County Airport,Georgia,4.25,4.20
+1587,San Luis Obispo,KSBP,35.2368011475,-120.641998291,San Luis County Regional Airport,California,3.87,3.66
+1588,Steamboat Springs,KSBS,40.5163002,-106.8659973,Steamboat Springs Bob Adams Field,Colorado,4.48,3.99
+1589,Blue Earth,KSBU,43.5952987671,-94.0927963257,Blue Earth Municipal Airport,Minnesota,4.25,3.25
+1590,Shelby,KSBX,48.5406990051,-111.8710021973,Shelby Airport,Montana,3.85,3.65
+1591,Salisbury,KSBY,38.3404998779,-75.5102996826,Salisbury Ocean City Wicomico Regional Airport,Maryland,5.18,3.48
+1592,Sylacauga,KSCD,33.1717987061,-86.3054962158,Merkel Field Sylacauga Municipal Airport,Alabama,3.97,N/A
+1593,Schenectady,KSCH,42.8525009155,-73.9289016724,Schenectady County Airport,New-York,4.50,4.00
+1594,Stockton,KSCK,37.8941993713,-121.2379989624,Stockton Metropolitan Airport,California,5.52,5.08
+1595,Oneida,KSCX,36.4556007385,-84.5857009888,Scott Municipal Airport,Tennessee,3.95,2.92
+1596,Louisville,KSDF,38.1744003296,-85.736000061,Louisville International Standiford Field,Kentucky,5.20,4.75
+1597,Scottsdale,KSDL,33.6228981018,-111.9110031128,Scottsdale Airport,Arizona,5.13,4.50
+1598,San Diego,KSDM,32.5722999573,-116.9800033569,Brown Field Municipal Airport,California,3.35,2.99
+1599,Sidney,KSDY,47.70690155,-104.1930008,Sidney Richland Municipal Airport,Montana,4.75,4.15
+1600,San Diego/El Cajon,KSEE,32.8261985779,-116.9720001221,Gillespie Field,California,4.45,3.49
+1601,Selinsgrove,KSEG,40.8205986023,-76.863899231,Penn Valley Airport,Pennsylvania,4.90,4.49
+1602,Selma,KSEM,32.3438987732,-86.9878005981,Craig Field,Alabama,3.20,2.74
+1603,Stephenville,KSEP,32.2153015137,-98.177696228,Clark Field Municipal Airport,Texas,3.65,3.00
+1604,Seymour,KSER,38.9235992432,-85.9074020386,Freeman Municipal Airport,Indiana,3.85,2.50
+1605,Sedona,KSEZ,34.8485984802,-111.7880020142,Sedona Airport,Arizona,4.34,4.29
+1606,Orlando,KSFB,28.7775993347,-81.2375030518,Orlando Sanford International Airport,Florida,4.72,4.43
+1607,Spokane,KSFF,47.682800293,-117.3229980469,Felts Field,Oregon,4.22,3.88
+1608,San Francisco,KSFO,37.6189994812,-122.375,San Francisco International Airport,California,6.49,4.33
+1609,Savanna,KSFY,42.0457992554,-90.1079025269,Tri Township Airport,Illinois,4.69,3.99
+1610,Pawtucket,KSFZ,41.9207992554,-71.4914016724,North Central State Airport,Rhode-Island,5.25,5.53
+1611,Springfield,KSGF,37.24570084,-93.38860321,Springfield Branson National Airport,Missouri,3.88,3.81
+1612,Springfield,KSGH,39.8403015137,-83.8402023315,Springfield Beckley Municipal Airport,Ohio,4.15,3.40
+1613,St Augustine,KSGJ,29.9591999054,-81.3397979736,St Augustine Airport,Florida,4.22,2.42
+1614,Houston,KSGR,29.6222991943,-95.65650177,Sugar Land Regional Airport,Texas,3.23,3.60
+1615,Stuttgart,KSGT,34.5994987488,-91.5749969482,Stuttgart Municipal Airport,Arkansas,4.59,4.25
+1616,St George,KSGU,37.0363888889,-113.510305556,St George Municipal Airport,Utah,5.45,5.19
+1617,Staunton/Waynesboro/Harrisonburg,KSHD,38.2638015747,-78.8964004517,Shenandoah Valley Regional Airport,Virginia,5.23,4.59
+1618,Sheldon,KSHL,43.2084007263,-95.8333969116,Sheldon Municipal Airport,Iowa,3.63,3.93
+1619,Shelton,KSHN,47.2336006165,-123.1480026245,Sanderson Field,Washington,4.25,5.00
+1620,Sheridan,KSHR,44.7691993713,-106.9800033569,Sheridan County Airport,Wyoming,5.33,3.81
+1621,Shreveport,KSHV,32.4466018677,-93.8255996704,Shreveport Regional Airport,Louisiana,6.11,4.88
+1622,Reidsville,KSIF,36.43719864,-79.85099792,Rockingham County Nc Shiloh Airport,North-Carolina,3.79,3.52
+1623,Sikeston,KSIK,36.8988990784,-89.5617980957,Sikeston Memorial Municipal Airport,Missouri,4.65,3.50
+1624,Sullivan,KSIV,39.1147003174,-87.4483032227,Sullivan County Airport,Indiana,4.42,3.64
+1625,San Jose,KSJC,37.3625984192,-121.9290008545,Norman Y. Mineta San Jose International Airport,California,5.77,6.50
+1626,San Angelo,KSJT,31.3577003479,-100.4960021973,San Angelo Regional Mathis Field,Texas,4.39,3.41
+1627,Beaver Island,KSJX,45.6922988892,-85.5665969849,Beaver Island Airport,Michigan,4.42,4.53
+1628,San Antonio,KSKF,29.38419914,-98.58110046,Lackland Air Force Base (Kelly Field Annex) Airport,Texas,5.90,5.65
+1629,Taos,KSKX,36.45819855,-105.6719971,Taos Regional Airport,New-Mexico,4.45,4.45
+1630,Salt Lake City,KSLC,40.7883987427,-111.9779968262,Salt Lake City International Airport,Utah,3.95,3.30
+1631,Salem,KSLE,44.90950012,-123.0029984,McNary Field,Oregon,4.75,4.50
+1632,Siloam Springs,KSLG,36.19189835,-94.48999786,Smith Field,Arkansas,3.79,3.99
+1633,Cheboygan,KSLH,45.65370178,-84.51930237,Cheboygan County Airport,Michigan,5.00,4.00
+1634,Saranac Lake,KSLK,44.3852996826,-74.206199646,Adirondack Regional Airport,New-York,4.49,4.31
+1635,Salina,KSLN,38.7910003662,-97.6521987915,Salina Municipal Airport,Kansas,4.75,3.20
+1636,Sulphur Springs,KSLR,33.1598014832,-95.6211013794,Sulphur Springs Municipal Airport,Texas,3.58,2.77
+1637,Fort Wayne,KSMD,41.14339828,-85.15280151,Smith Field,Arkansas,4.50,2.80
+1638,Somerset,KSME,37.0533981323,-84.6158981323,Lake Cumberland Regional Airport,Kentucky,3.55,2.80
+1639,Sacramento,KSMF,38.695400238,-121.591003418,Sacramento International Airport,California,3.73,4.39
+1640,Salmon,KSMN,45.1237983704,-113.8809967041,Lemhi County Airport,Idaho,4.68,3.86
+1641,Santa Monica,KSMO,34.0158004761,-118.4509963989,Santa Monica Municipal Airport,California,5.14,4.86
+1642,Somerville,KSMQ,40.6259994507,-74.6701965332,Somerset Airport,New-Jersey,3.99,3.92
+1643,Sumter,KSMS,33.9949989319,-80.3612976074,Sumter Airport,South-Carolina,5.20,4.24
+1644,Santa Maria,KSMX,34.89889908,-120.4570007,Santa Maria Pub/Capt G Allan Hancock Field,California,4.12,4.06
+1645,Santa Ana,KSNA,33.67570114,-117.8679962,John Wayne Airport-Orange County Airport,California,4.45,3.23
+1646,Savannah,KSNH,35.1703987122,-88.2158966064,Savannah Hardin County Airport,Tennessee,3.75,3.40
+1647,Snyder,KSNK,32.6934013367,-100.9499969482,Winston Field,Texas,4.30,3.40
+1648,Shawnee,KSNL,35.3578987122,-96.9428024292,Shawnee Regional Airport,Oklahoma,4.65,3.98
+1649,Salinas,KSNS,36.6627998352,-121.6060028076,Salinas Municipal Airport,California,3.99,3.88
+1650,Sidney,KSNY,41.10129929,-102.9850006,Sidney Municipal-Lloyd W Carr Field,Nebraska,3.99,2.99
+1651,Pinehurst/Southern Pines,KSOP,35.23740005,-79.3911972,Moore County Airport,North-Carolina,4.00,4.10
+1652,Show Low,KSOW,34.265499115,-110.005996704,Show Low Regional Airport,Arizona,3.70,2.19
+1653,Spartanburg,KSPA,34.9156990051,-81.9564971924,Spartanburg Downtown Memorial Airport,South-Carolina,3.90,3.75
+1654,Spearfish,KSPF,44.4803009033,-103.7829971313,Black Hills Clyde Ice Field,South-Dakota,4.99,4.49
+1655,St Petersburg,KSPG,27.7651004791,-82.6269989014,Albert Whitted Airport,Florida,3.99,4.32
+1656,Springfield,KSPI,39.84410095,-89.67790221999999,Abraham Lincoln Capital Airport,Illinois,5.75,5.12
+1657,Wichita Falls,KSPS,33.98880005,-98.49189758,Sheppard Air Force Base-Wichita Falls Municipal Airport,Texas,5.45,5.80
+1658,Spencer,KSPW,43.1655006409,-95.202796936,Spencer Municipal Airport,Iowa,3.60,3.30
+1659,Silver Springs,KSPZ,39.4029998779,-119.2509994507,Silver Springs Airport,Nevada,3.80,3.75
+1660,Sterling/Rockfalls,KSQI,41.74280167,-89.67630005,Whiteside Co Arpt-Jos H Bittorf field,Illinois,3.88,3.99
+1661,San Carlos,KSQL,37.5119018555,-122.25,San Carlos Airport,Arizona,3.95,2.95
+1662,Sparta,KSRB,36.0559005737,-85.5307006836,Upper Cumberland Regional Airport,Tennessee,3.60,2.78
+1663,Searcy,KSRC,35.21060181,-91.73750305,Searcy Municipal Airport,Arkansas,4.83,4.66
+1664,Sarasota/Bradenton,KSRQ,27.3953990936,-82.554397583,Sarasota Bradenton International Airport,Florida,5.92,5.60
+1665,Ruidoso,KSRR,33.4627990723,-105.5350036621,Sierra Blanca Regional Airport,New-Mexico,4.99,4.50
+1666,San Antonio,KSSF,29.3369998932,-98.4710998535,Stinson Municipal Airport,Texas,5.19,4.25
+1667,Brunswick,KSSI,31.15180016,-81.39129639,Malcolm Mc Kinnon Airport,Georgia,4.60,3.75
+1668,St Cloud,KSTC,45.5466003418,-94.0598983765,St Cloud Regional Airport,Minnesota,5.19,4.99
+1669,Stevens Point,KSTE,44.5452003479,-89.5302963257,Stevens Point Municipal Airport,Wisconsin,N/A,4.08
+1670,Starkville,KSTF,33.43310165,-88.84860229,George M Bryan Airport,Mississippi,3.75,3.30
+1671,St Joseph,KSTJ,39.771900177,-94.9096984863,Rosecrans Memorial Airport,Missouri,4.99,4.68
+1672,Sterling,KSTK,40.61529922,-103.2649994,Sterling Municipal Airport,Colorado,4.50,3.51
+1673,St Louis,KSTL,38.7486991882,-90.3700027466,Lambert St Louis International Airport,Missouri,5.85,5.67
+1674,St Paul,KSTP,44.9345016479,-93.0599975586,St Paul Downtown Holman Field,Minnesota,5.55,5.70
+1675,Santa Rosa,KSTS,38.50899887,-122.8130035,Charles M. Schulz Sonoma County Airport,California,4.64,3.93
+1676,Stuart,KSUA,27.18169975,-80.22109985,Witham Field,Florida,4.86,4.18
+1677,Stroud,KSUD,35.7896003723,-96.6557006836,Stroud Municipal Airport,Oklahoma,3.49,2.75
+1678,Sturgeon Bay,KSUE,44.84370041,-87.42150116,Door County Cherryland Airport,Wisconsin,4.89,4.49
+1679,Hailey,KSUN,43.50439835,-114.2959976,Friedman Memorial Airport,Idaho,4.30,4.20
+1680,St Louis,KSUS,38.6621017456,-90.6520004272,Spirit of St Louis Airport,Missouri,3.65,3.59
+1681,Oak Island,KSUT,33.9292984,-78.07499695,Brunswick County Airport,North-Carolina,4.46,3.88
+1682,Superior,KSUW,46.6897010803,-92.0947036743,Richard I Bong Airport,Wisconsin,4.49,3.50
+1683,Sioux City,KSUX,42.40259933,-96.38439941,Sioux Gateway Col. Bud Day Field,Iowa,5.79,5.19
+1684,Benton,KSUZ,34.59059906,-92.47940063,Saline County Regional Airport,Arkansas,3.26,2.99
+1685,Silver City,KSVC,32.6365013123,-108.15599823,Grant County Airport,New-Mexico,3.82,3.30
+1686,Susanville,KSVE,40.3757019043,-120.5729980469,Susanville Municipal Airport,California,4.18,4.78
+1687,Statesville,KSVH,35.7653007507,-80.9539031982,Statesville Regional Airport,North-Carolina,4.51,4.52
+1688,Newburgh,KSWF,41.5041007996,-74.1047973633,Stewart International Airport,New-York,6.99,5.32
+1689,Stillwater,KSWO,36.1612014771,-97.0857009888,Stillwater Regional Airport,Oklahoma,3.49,2.99
+1690,Seward,KSWT,40.86470032,-97.10919952,Seward Municipal Airport,Nebraska,4.60,3.90
+1691,Shelbyville,KSYI,35.56010056,-86.44249725,Bomar Field Shelbyville Municipal Airport,Tennessee,3.70,3.30
+1692,Stanton,KSYN,44.4754981995,-93.0162963867,Stanton Airfield,Minnesota,3.54,N/A
+1693,Syracuse,KSYR,43.1111984253,-76.106300354,Syracuse Hancock International Airport,New-York,4.88,4.48
+1694,Sandpoint,KSZT,48.2994995117,-116.5599975586,Sandpoint Airport,Idaho,3.89,4.49
+1695,Selmer,KSZY,35.2028999329,-88.4983978271,Robert Sibley Airport,Tennessee,3.31,3.38
+1696,Anahuac,KT00,29.7700996399,-94.662399292,Chambers County Airport,Texas,4.00,3.40
+1697,Albany,KT23,32.71900177,-99.2676010132,Albany Municipal Airport,Texas,4.35,2.50
+1698,Cameron,KT35,30.8794002533,-96.9710998535,Cameron Municipal Airpark,Texas,4.36,2.98
+1699,La Porte,KT41,29.6693000793,-95.064201355,La Porte Municipal Airport,Texas,3.95,2.95
+1700,Sinton,KT69,28.0391998291,-97.5423965454,Alfred C 'Bubba' Thomas Airport,Texas,3.90,4.05
+1701,Taylor,KT74,30.572599411,-97.4431991577,Taylor Municipal Airport,Texas,2.85,3.05
+1702,Liberty,KT78,30.0778007507,-94.698600769,Liberty Municipal Airport,Texas,3.80,2.95
+1703,Fredericksburg,KT82,30.2432003021,-98.9092025757,Gillespie County Airport,Texas,4.35,3.45
+1704,Trinidad,KTAD,37.2593994141,-104.341003418,Perry Stokes Airport,Colorado,3.50,3.60
+1705,Fort Leonard Wood,KTBN,37.74160004,-92.14070129,Waynesville-St. Robert Regional Forney field,Missouri,N/A,2.89
+1706,Statesboro,KTBR,32.4827003479,-81.7369003296,Statesboro Bulloch County Airport,Georgia,4.05,2.89
+1707,Truth Or Consequences,KTCS,33.2369003296,-107.2720031738,Truth Or Consequences Municipal Airport,New-Mexico,4.26,3.27
+1708,Tracy,KTCY,37.688999176,-121.4420013428,Tracy Municipal Airport,California,3.60,2.99
+1709,Roxboro,KTDF,36.28490067,-78.98419952,Person County Airport,North-Carolina,5.39,4.49
+1710,Amarillo,KTDW,35.1698989868,-101.8259963989,Tradewind Airport,Texas,3.80,2.43
+1711,Toledo,KTDZ,41.56489944,-83.4822998,Metcalf Field,Ohio,4.75,3.47
+1712,Teterboro,KTEB,40.8501014709,-74.060798645,Teterboro Airport,New-Jersey,5.70,3.89
+1713,Tell City,KTEL,38.0177002,-86.69090271,Perry County Municipal Airport,Indiana,3.55,2.55
+1714,Telluride,KTEX,37.9538002,-107.9079971,Telluride Regional Airport,Colorado,4.81,6.29
+1715,Ingleside,KTFP,27.9130001068,-97.2115020752,T P Mc Campbell Airport,Texas,3.70,4.20
+1716,Trenton,KTGC,35.9324989319,-88.8488998413,Gibson County Airport,Tennessee,4.28,3.43
+1717,Tullahoma,KTHA,35.38010025,-86.24639893,Tullahoma Regional Arpt/Wm Northern Field,Tennessee,3.35,2.99
+1718,York,KTHV,39.91699982,-76.8730011,York Airport,Pennsylvania,4.42,4.26
+1719,Rantoul,KTIP,40.29359818,-88.14240265,Rantoul National Avn Center-Frank Elliot field,Illinois,4.85,3.85
+1720,Tacoma,KTIW,47.26789856,-122.5780029,Tacoma Narrows Airport,Washington,4.49,2.92
+1721,Titusville,KTIX,28.514799118,-80.7992019653,Space Coast Regional Airport,Florida,3.75,4.20
+1722,Dallas,KTKI,33.17789841,-96.59049988,Collin County Regional At Mc Kinney Airport,Texas,4.89,3.89
+1723,Kennett,KTKX,36.2258987427,-90.0365982056,Kennett Memorial Airport,Missouri,2.72,3.50
+1724,Tallahassee,KTLH,30.3964996338,-84.3503036499,Tallahassee Regional Airport,Florida,4.44,5.39
+1725,Tulare,KTLR,36.15629959,-119.3259964,Mefford Field,California,4.65,3.50
+1726,Tifton,KTMA,31.4290008545,-83.4885025024,Henry Tift Myers Airport,Georgia,4.55,4.45
+1727,Miami,KTMB,25.6475637,-80.4332246,Miami Executive Airport,Miami,4.75,4.24
+1728,Houston,KTME,29.8071994781,-95.8979034424,Houston Executive Airport,Texas,3.23,3.60
+1729,Tillamook,KTMK,45.4182014465,-123.814002991,Tillamook Airport,Oregon,4.85,3.75
+1730,Austin,KTMT,39.4679985046,-117.194999695,Austin Airport,Nevada,5.19,4.99
+1731,Newton,KTNU,41.6744003296,-93.021697998,Newton Municipal Airport,Iowa,4.95,4.59
+1732,Dodge Center,KTOB,44.0180015564,-92.8314971924,Dodge Center Airport,Minnesota,4.35,N/A
+1733,Toccoa,KTOC,34.59379959,-83.29579926,Toccoa Rg Letourneau Field,Georgia,4.65,4.00
+1734,Toledo,KTOL,41.58679962,-83.80780029,Toledo Express Airport,Ohio,4.93,4.14
+1735,Topeka,KTOP,39.0686988831,-95.6224975586,Philip Billard Municipal Airport,Kansas,3.98,3.19
+1736,Torrington,KTOR,42.0644989,-104.1529999,Torrington Municipal Airport,Wyoming,3.75,2.75
+1737,Tampa,KTPA,27.9755001068,-82.533203125,Tampa International Airport,Florida,5.28,5.20
+1738,Tampa,KTPF,27.915599823,-82.4493026733,Peter O Knight Airport,Florida,5.64,5.44
+1739,Tonopah,KTPH,38.06019974,-117.086998,Tonopah Airport,Nevada,4.25,2.96
+1740,Temple,KTPL,31.1525001526,-97.4077987671,Draughon Miller Central Texas Regional Airport,Texas,2.84,3.19
+1741,Scott City,KTQK,38.4743003845,-100.8850021362,Scott City Municipal Airport,Kansas,3.72,2.42
+1742,Bristol/Johnson/Kingsport,KTRI,36.4752006531,-82.4074020386,Tri Cities Regional Tn Va Airport,Tennessee,5.54,6.06
+1743,Truckee,KTRK,39.3199996948,-120.1399993896,Truckee Tahoe Airport,California,4.06,3.90
+1744,Terrell,KTRL,32.7092018127,-96.2674026489,Terrell Municipal Airport,Texas,3.25,3.00
+1745,Palm Springs,KTRM,33.626701355,-116.1600036621,Jacqueline Cochran Regional Airport,California,4.01,2.37
+1746,Carrollton,KTSO,40.56190109,-81.07749939,Carroll County-Tolson Airport,Ohio,4.97,3.97
+1747,Tehachapi,KTSP,35.1349983215,-118.4390029907,Tehachapi Municipal Airport,California,3.60,2.58
+1748,Sanford,KTTA,35.58369827,-79.10079956,Sanford-Lee County Regional Airport,North-Carolina,4.12,3.43
+1749,Portland,KTTD,45.5494003296,-122.4010009766,Portland Troutdale Airport,Oregon,3.95,4.05
+1750,Monroe,KTTF,41.9398994446,-83.4347000122,Custer Airport,Michigan,4.90,3.50
+1751,Trenton,KTTN,40.2766990662,-74.8134994507,Trenton Mercer Airport,New-Jersey,5.24,5.52
+1752,Tulsa,KTUL,36.1983985901,-95.8880996704,Tulsa International Airport,Oklahoma,4.38,2.70
+1753,Tupelo,KTUP,34.2681007385,-88.7698974609,Tupelo Regional Airport,Mississippi,3.85,4.10
+1754,Tucson,KTUS,32.1161003113,-110.9410018921,Tucson International Airport,Arizona,4.99,3.90
+1755,Traverse City,KTVC,44.7414016724,-85.5821990967,Cherry Capital Airport,Michigan,5.15,6.45
+1756,Thief River Falls,KTVF,48.06570053,-96.18499756,Thief River Falls Regional Airport,Minnesota,3.49,3.60
+1757,Thomasville,KTVI,30.901599884,-83.8813018799,Thomasville Regional Airport,Georgia,3.21,3.38
+1758,South Lake Tahoe,KTVL,38.893901825,-119.9950027466,Lake Tahoe Airport,California,5.99,4.99
+1759,Tallulah/Vicksburg,KTVR,32.351600647,-91.0277023315,Vicksburg Tallulah Regional Airport,Louisiana,4.35,4.10
+1760,Twin Falls,KTWF,42.48180008,-114.487999,Joslin Field Magic Valley Regional Airport,Idaho,4.30,4.18
+1761,Two Harbors,KTWM,47.04919815,-91.74510193,Richard B Helgeson Airport,Minnesota,3.90,3.53
+1762,Sturgis,KTWT,37.5407981873,-87.9517974854,Sturgis Municipal Airport,Kentucky,4.07,3.64
+1763,Texarkana,KTXK,33.4537010193,-93.9909973145,Texarkana Regional Webb Field,Arkansas,4.98,4.99
+1764,Indianapolis,KTYQ,40.0307006836,-86.2514038086,Indianapolis Executive Airport,Indiana,4.55,4.65
+1765,Tyler,KTYR,32.3540992737,-95.4023971558,Tyler Pounds Regional Airport,Texas,4.28,2.95
+1766,Knoxville,KTYS,35.81100082,-83.9940033,McGhee Tyson Airport,Tennessee,5.72,5.18
+1767,Columbus,KTZR,39.9011993408,-83.1369018555,Bolton Field,Ohio,3.98,3.27
+1768,Buhl,KU03,42.5915985107,-114.7969970703,Buhl Municipal Airport,Idaho,4.59,N/A
+1769,Nephi,KU14,39.73880005,-111.8720016,Nephi Municipal Airport,Utah,4.75,3.35
+1770,West Jordan,KU42,40.6195556,-111.9928889,South Valley Regional Airport,Utah,4.85,4.30
+1771,Monticello,KU64,37.93243,-109.341225,Monticello Airport,Utah,5.52,4.40
+1772,Cascade,KU70,44.4938011169,-116.01599884,Cascade Airport,Idaho,N/A,4.50
+1773,Mountain Home,KU76,43.13130188,-115.7300034,Mountain Home Municipal Airport,Idaho,4.17,3.50
+1774,Aurora,KUAO,45.2471008301,-122.7699966431,Aurora State Airport,Oregon,5.29,4.54
+1775,Cumberland,KUBE,45.5060005188,-91.9811019897,Cumberland Municipal Airport,Wisconsin,3.99,4.50
+1776,Union City,KUCY,36.38180161,-88.98539734,Everett-Stewart Regional Airport,Tennessee,2.95,4.03
+1777,Palm Springs,KUDD,33.7484016418,-116.2750015259,Bermuda Dunes Airport,California,4.36,5.27
+1778,Darlington,KUDG,34.44940186,-79.89009857,Darlington County Jetport Airport,South-Carolina,N/A,3.75
+1779,Waukesha,KUES,43.0410003662,-88.2370986938,Waukesha County Airport,Wisconsin,4.75,3.90
+1780,Chicago/Waukegan,KUGN,42.4221992493,-87.8678970337,Waukegan Regional Airport,Illinois,4.75,5.19
+1781,Quincy,KUIN,39.94269943,-91.19460297,Quincy Regional Baldwin Field,Illinois,4.99,5.09
+1782,North Wilkesboro,KUKF,36.2228012085,-81.0982971191,Wilkes County Airport,North-Carolina,3.80,2.68
+1783,Ukiah,KUKI,39.1259994507,-123.2009963989,Ukiah Municipal Airport,California,4.85,5.00
+1784,Burlington,KUKL,38.30250168,-95.72499847,Coffey County Airport,Kansas,4.13,3.31
+1785,Ulysses,KULS,37.60400009,-101.3740005,Ulysses Airport,Kansas,4.00,3.00
+1786,Indianapolis,KUMP,39.93519974,-86.04499817,Indianapolis Metropolitan Airport,Indiana,4.61,4.38
+1787,Athens/Albany,KUNI,39.2109985352,-82.2313995361,Ohio University Snyder Field,Ohio,4.44,3.68
+1788,State College,KUNV,40.8493003845,-77.8487014771,University Park Airport,Pennsylvania,4.35,4.99
+1789,Oxford,KUOX,34.3843002319,-89.5367965698,University Oxford Airport,Mississippi,4.95,5.25
+1790,Tunica,KUTA,34.6809997559,-90.3467025757,Tunica Municipal Airport,Mississippi,3.79,3.65
+1791,Huntsville,KUTS,30.7469005585,-95.5871963501,Huntsville Municipal Airport,Texas,3.51,3.88
+1792,Newport,KUUU,41.5323982239,-71.28150177,Newport State Airport,Rhode-Island,5.05,5.58
+1793,Sullivan,KUUV,38.2335014343,-91.1642990112,Sullivan Regional Airport,Missouri,3.80,3.00
+1794,Uvalde,KUVA,29.2112998962,-99.743598938,Garner Field,Florida,3.70,4.00
+1795,New Castle,KUWL,39.87590027,-85.32649994,New Castle Henry Co. Municipal Airport,Indiana,4.70,3.70
+1796,Sulphur,KUXL,30.13139915,-93.37609863,Southland Field,Louisiana,3.25,3.00
+1797,Rock Hill,KUZA,34.9878006,-81.05719757,Rock Hill York Co Bryant field,South-Carolina,4.19,4.64
+1798,Mount Holly,KVAY,39.9429016113,-74.845703125,South Jersey Regional Airport,New-Jersey,5.25,4.90
+1799,Bentonville,KVBT,36.34569931,-94.21929932,Bentonville Municipal-Louise M Thaden Field,Arkansas,4.20,3.98
+1800,Vacaville,KVCB,38.3768005371,-121.9619979858,Nut Tree Airport,California,3.50,4.05
+1801,Victoria,KVCT,28.8526000977,-96.9185028076,Victoria Regional Airport,Texas,4.04,3.50
+1802,Victorville,KVCV,34.5974998474,-117.3830032349,Southern California Logistics Airport,California,5.08,4.01
+1803,Tampa,KVDF,28.013999939,-82.3452987671,Tampa Executive Airport,Florida,3.29,4.88
+1804,Vidalia,KVDI,32.1926994324,-82.3712005615,Vidalia Regional Airport,Georgia,N/A,3.13
+1805,Vernal,KVEL,40.4408989,-109.5100021,Vernal Regional Airport,Utah,4.90,3.85
+1806,Boonville,KVER,38.9467010498,-92.6827011108,Jesse Viertel Memorial Airport,Missouri,3.40,3.50
+1807,Hamilton,KVGC,42.84379959,-75.56140137,Hamilton Municipal Airport,New-York,4.09,5.41
+1808,Las Vegas,KVGT,36.2107009888,-115.1940002441,North Las Vegas Airport,Nevada,3.75,3.84
+1809,Van Horn,KVHN,31.057800293,-104.783996582,Culberson County Airport,Texas,4.60,3.45
+1810,Rolla/Vichy,KVIH,38.1273994446,-91.7695007324,Rolla National Airport,Missouri,4.45,3.00
+1811,Visalia,KVIS,36.3186988831,-119.3929977417,Visalia Municipal Airport,California,4.35,4.25
+1812,Abingdon,KVJI,36.6870994568,-82.0333023071,Virginia Highlands Airport,Virginia,4.19,3.46
+1813,Vicksburg,KVKS,32.2392997742,-90.9283981323,Vicksburg Municipal Airport,Mississippi,4.00,4.56
+1814,Vandalia,KVLA,38.9915008545,-89.1661987305,Vandalia Municipal Airport,Illinois,3.95,3.45
+1815,Valdosta,KVLD,30.7824993134,-83.2767028809,Valdosta Regional Airport,Georgia,4.23,4.89
+1816,Troy,KVLL,42.54290009,-83.17790221999999,Oakland Troy Airport,Michigan,5.40,4.00
+1817,Vermillion,KVMR,42.76530075,-96.93430328,Harold Davidson Field,South-Dakota,4.70,4.07
+1818,Venice,KVNC,27.0715999603,-82.4402999878,Venice Municipal Airport,Florida,4.08,4.08
+1819,Van Nuys,KVNY,34.2098007202,-118.4899978638,Van Nuys Airport,California,5.11,4.42
+1820,Cartersville,KVPC,34.1231002808,-84.8487014771,Cartersville Airport,Georgia,4.95,3.25
+1821,Valparaiso,KVPZ,41.45399857,-87.00710297,Porter County Municipal Airport,Indiana,4.44,3.39
+1822,Jacksonville,KVQQ,30.2187004089,-81.876701355,Cecil Field,Florida,4.22,2.42
+1823,Vero Beach,KVRB,27.6555995941,-80.4179000854,Vero Beach Municipal Airport,Florida,3.75,3.01
+1824,Newark,KVTA,40.0247001648,-82.4617996216,Newark Heath Airport,Ohio,4.92,3.44
+1825,Valentine,KVTN,42.85779953,-100.5479965,Miller Field,Nebraska,3.86,N/A
+1826,Albemarle,KVUJ,35.4166984558,-80.1508026123,Stanly County Airport,North-Carolina,4.03,4.48
+1827,Connellsville,KVVS,39.95920181,-79.65709686,Joseph A. Hardy Connellsville Airport,Pennsylvania,4.70,3.65
+1828,Ortonville,KVVV,45.30569839,-96.42440033,Ortonville Municipal Martinson Field,Minnesota,4.00,N/A
+1829,Peru,KVYS,41.35189819,-89.15309906,Illinois Valley Regional-Walter A Duncan field,Illinois,4.30,2.55
+1830,Wilson,KW03,35.770401001,-77.9698028564,Wilson Industrial Air Center Airport,North-Carolina,5.35,5.19
+1831,Buckhannon,KW22,39.00049973,-80.2736969,Upshur County Regional Airport,West-Virginia,4.25,3.90
+1832,Clinton,KW32,38.748298645,-76.932800293,Washington Executive Hyde Field,Maryland,N/A,4.79
+1833,Mount Olive,KW40,35.22219849,-78.03780365,Mount Olive Municipal Airport,North-Carolina,3.50,N/A
+1834,Hulett,KW43,44.6628990173,-104.5680007935,Hulett Municipal Airport,Wyoming,4.99,4.59
+1835,Enid,KWDG,36.3791999817,-97.7910995483,Enid Woodring Regional Airport,Oklahoma,3.00,2.79
+1836,Winder,KWDR,33.98289871,-83.66739655,Barrow County Airport,Georgia,3.49,3.19
+1837,Los Angeles,KWHP,34.2593002319,-118.4130020142,Whiteman Airport,California,3.99,3.89
+1838,Lancaster,KWJF,34.74110031,-118.2190018,General WM J Fox Airfield,California,5.29,4.49
+1839,Winnemucca,KWMC,40.8965988159,-117.8059997559,Winnemucca Municipal Airport,Nevada,4.25,3.55
+1840,Worland,KWRL,43.9656982422,-107.9509963989,Worland Municipal Airport,Wyoming,N/A,4.95
+1841,Westerly,KWST,41.3496017456,-71.8033981323,Westerly State Airport,Rhode-Island,5.10,4.47
+1842,Watsonville,KWVI,36.9356994629,-121.7900009155,Watsonville Municipal Airport,California,3.50,3.50
+1843,Waterville,KWVL,44.5331993103,-69.6754989624,Waterville Robert Lafleur Airport,Maine,5.05,4.80
+1844,Wildwood,KWWD,39.0084991455,-74.9083023071,Cape May County Airport,New-Jersey,5.19,4.17
+1845,Woodward,KWWR,36.438,-99.5226667,West Woodward Airport,Oklahoma,3.07,2.37
+1846,West Yellowstone,KWYS,44.68840027,-111.1179962,Yellowstone Airport,Montana,4.49,4.20
+1847,Apopka,KX04,28.7071990967,-81.581703186,Orlando Apopka Airport,Florida,3.40,2.53
+1848,Lake Wales,KX07,27.8938007355,-81.6203994751,Lake Wales Municipal Airport,Florida,3.30,3.70
+1849,Titusville,KX21,28.6222991943,-80.8357009888,Arthur Dunn Air Park,Florida,5.70,5.70
+1850,New Smyrna Beach,KX50,28.9789009094,-80.9251022339,Massey Ranch Airpark,Florida,3.30,2.39
+1851,Friona,KX54,34.6542015076,-102.6920013428,Benger Air Park,Texas,3.75,3.80
+1852,Malabar,KX59,27.96199989,-80.55979919,Valkaria Airport,Florida,4.20,4.14
+1853,Williston,KX60,29.3542003632,-82.4729003906,Williston Municipal Airport,Florida,3.01,2.26
+1854,Bridgeport,KXBP,33.1753005981,-97.8283996582,Bridgeport Municipal Airport,Texas,2.60,2.00
+1855,Allentown,KXLL,40.5703010559,-75.4882965088,Allentown Queen City Municipal Airport,Pennsylvania,4.94,3.64
+1856,Fayetteville/Springdale/,KXNA,36.2818984985,-94.3068008423,Northwest Arkansas Regional Airport,Arkansas,4.68,3.25
+1857,Springfield,KY03,42.8800010681,-97.9011993408,Springfield Municipal Airport,South-Dakota,4.90,3.33
+1858,Tea,KY14,43.4575004578,-96.8020019531,Marv Skie Lincoln County Airport,South-Dakota,4.15,3.45
+1859,Mandan,KY19,46.7681999207,-100.8939971924,Mandan Municipal Airport,North-Dakota,4.59,3.44
+1860,West Branch,KY31,44.2448005676,-84.1798019409,West Branch Community Airport,Michigan,4.15,3.50
+1861,Detroit,KYIP,42.23789978,-83.53040314,Willow Run Airport,Michigan,5.00,4.45
+1862,Yakima,KYKM,46.56819916,-120.5439987,Yakima Air Terminal McAllister Field,Washington,5.66,3.93
+1863,Yankton,KYKN,42.9166984558,-97.3859024048,Chan Gurney Municipal Airport,South-Dakota,5.12,4.35
+1864,Youngstown/Warren,KYNG,41.26070023,-80.67910004,Youngstown Warren Regional Airport,Ohio,5.74,4.88
+1865,Pottsville,KZER,40.70650101,-76.37310028,Schuylkill County /Joe Zerbey/ Airport,Pennsylvania,5.13,3.73
+1866,Zephyrhills,KZPH,28.2282009125,-82.1558990479,Zephyrhills Municipal Airport,Florida,3.05,2.75
+1867,Zanesville,KZZV,39.9444007874,-81.8920974731,Zanesville Municipal Airport,Ohio,4.73,3.21
+1868,Palmer,PAAQ,61.5948982239,-149.0890045166,Palmer Municipal Airport,Alaska,4.79,2.99
+1869,Bethel,PABE,60.77980042,-161.8379974,Bethel Airport,Alaska,6.94,5.97
+1870,Bettles,PABT,66.91390228,-151.529007,Bettles Airport,Alaska,8.25,7.55
+1871,Dillingham,PADL,59.04470062,-158.5050049,Dillingham Airport,Alaska,7.27,7.07
+1872,Kodiak,PADQ,57.75,-152.4940033,Kodiak Airport,Alaska,7.40,7.49
+1873,Kenai,PAEN,60.5731010437,-151.2449951172,Kenai Municipal Airport,Alaska,4.94,3.30
+1874,Fairbanks,PAFA,64.81510162,-147.8560028,Fairbanks International Airport,Alaska,5.37,7.92
+1875,Gustavus,PAGS,58.4253006,-135.7070007,Gustavus Airport,Alaska,5.99,6.79
+1876,Haines,PAHN,59.2438011169,-135.5240020752,Haines Airport,Alaska,6.49,7.32
+1877,Iliamna,PAIL,59.75439835,-154.9109955,Iliamna Airport,Alaska,6.99,5.99
+1878,King Salmon,PAKN,58.67679977,-156.6490021,King Salmon Airport,Alaska,6.99,5.99
+1879,Ketchikan,PAKT,55.35559845,-131.7140045,Ketchikan International Airport,Alaska,5.89,7.07
+1880,Anchorage,PAMR,61.2135009766,-149.8439941406,Merrill Field,Iowa,5.45,3.81
+1881,Anchorage,PANC,61.1744003296,-149.9960021973,Ted Stevens Anchorage International Airport,Alaska,5.37,2.80
+1882,Aniak,PANI,61.5816001892,-159.5429992676,Aniak Airport,Alaska,8.89,7.29
+1883,Nenana,PANN,64.5473022461,-149.074005127,Nenana Municipal Airport,Alaska,5.57,4.37
+1884,Nome,PAOM,64.5121994019,-165.4450073242,Nome Airport,Alaska,7.42,5.57
+1885,Kotzebue,PAOT,66.88469696,-162.598999,Ralph Wien Memorial Airport,Alaska,7.66,6.07
+1886,Petersburg,PAPG,56.80170059,-132.9450073,Petersburg James A Johnson Airport,Alaska,6.00,4.50
+1887,Deadhorse,PASC,70.19470215,-148.4649963,Deadhorse Airport,Alaska,7.98,4.31
+1888,Sitka,PASI,57.0471000671,-135.3619995117,Sitka Rocky Gutierrez Airport,Alaska,6.24,7.62
+1889,St Mary's,PASM,62.0605011,-163.302002,St Mary's Airport,Alaska,7.83,6.89
+1890,Skwentna,PASW,61.9653015137,-151.1909942627,Skwentna Airport,Alaska,8.00,9.25
+1891,Soldotna,PASX,60.4757003784,-151.033996582,Soldotna Airport,Alaska,5.89,4.00
+1892,Unalakleet,PAUN,63.88840103,-160.798996,Unalakleet Airport,Alaska,8.05,7.00
+1893,Valdez,PAVD,61.13389969,-146.2480011,Valdez Pioneer Field,Alaska,N/A,6.98
+1894,Seward,PAWD,60.1268997192,-149.4190063477,Seward Airport,Alaska,7.40,7.90
+1895,Wrangell,PAWG,56.48429871,-132.3699951,Wrangell Airport,Alaska,6.45,6.70
+1896,Wasilla,PAWS,61.5717010498,-149.5399932861,Wasilla Airport,Alaska,5.25,3.45
+1897,Yakutat,PAYA,59.5032997131,-139.660003662,Yakutat Airport,Alaska,6.50,5.50
+1898,Tok,PFTO,63.32949829,-142.9539948,Tok Junction Airport,Alaska,6.15,5.15
+1899,Kapolei,PHJR,21.30739975,-158.0700073,Kalaeloa (John Rodgers Field) Airport,Hawaii,6.88,5.05
+1900,Kailua/Kona,PHKO,19.7388000488,-156.046005249,Kona International At Keahole Airport,Hawaii,6.67,3.66
+1901,Lihue,PHLI,21.9759998322,-159.3390045166,Lihue Airport,Hawaii,6.59,3.56
+1902,Honolulu,PHNL,21.3187007904,-157.9219970703,Honolulu International Airport,Hawaii,6.34,3.29
+1903,Kahului,PHOG,20.8985996246,-156.4299926758,Kahului Airport,Hawaii,6.56,3.52
+1904,Hilo,PHTO,19.7213993073,-155.0480041504,Hilo International Airport,Hawaii,6.63,3.52
