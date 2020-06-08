@@ -2821,7 +2821,7 @@ input, select, textarea {
 /* Main */
 
 	.main {
-		padding: 6em 0 4em 0 ;
+		padding: 2.5em 0 0 0 ;
 	}
 
 		.main.style1 {
@@ -2924,7 +2924,7 @@ input, select, textarea {
 		color: rgba(255, 255, 255, 0.75);
 		background-attachment: fixed,							fixed,							fixed;
 		background-image: url("images/overlay2.png"), url("images/overlay3.svg"), linear-gradient(
-45deg, #9dc66b 5%, #e08514 30%, #b31414);
+45deg, #9dc66b 5%, #4fa49a 30%, #4361c2);
 		background-position: top left,						center center,					center center;
 		background-size: auto,							cover,							cover;
 		overflow: hidden;
@@ -3121,7 +3121,7 @@ input, select, textarea {
 		color: rgba(255, 255, 255, 0.75);
 		background-attachment: fixed,							fixed,							fixed;
 		background-image: url("images/overlay2.png"), url("images/overlay4.svg"), linear-gradient(
-45deg, #9dc66b 5%, #e08514 30%, #b31414 95%);
+45deg, #4361c2, #4fa49a 50%, #9dc66b 95%);
 		background-position: top left,						center center,					center center;
 		background-size: auto,							cover,							cover;
 		text-align: center;

@@ -15,6 +15,7 @@ eqfeed_callback({"type":"FeatureCollection", "features":[
         "JetA" : "6.25"
     }
 	},
+	
 	{"type":"Feature","properties":
 	{
         "icao": "00AL",
